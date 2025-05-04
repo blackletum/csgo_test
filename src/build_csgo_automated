@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Navigating to /home/csgo-src/src..."
-cd /home/csgo-src/src || exit 1
+echo "Navigating to /home/csgo_test/src..."
+cd /root/csgo_test/src || exit 1
 
 # Capture timestamp for log filenames
 timestamp=$(date +"%m%d%Y_%H%M")
@@ -17,7 +17,7 @@ chmod u+x devtools/bin/vpc_linux
 chmod u+x devtools/bin/linux/ccache
 chmod u+x ../devtools/gendbg.sh
 chmod +x devtools/gendbg.sh
-chmod +x /home/csgo-src/src/devtools/bin/linux/protoc
+chmod +x /root/csgo_test/src/devtools/bin/linux/protoc
 
 echo "Create folder bc this is uhh, stoopid"
 mkdir -p ./lib/public/linux64
