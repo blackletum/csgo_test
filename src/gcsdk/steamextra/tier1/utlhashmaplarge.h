@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. =================//
+﻿//========= Copyright Valve Corporation, All rights reserved. =================//
 //
 // Purpose: index-based hash map container well suited for large and growing
 //	datasets. It uses less memory than other hash maps and incrementally

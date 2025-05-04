@@ -1,4 +1,4 @@
-/*	see copyright notice in squirrel.h */
+﻿/*	see copyright notice in squirrel.h */
 #ifndef _SQSTDIO_H_
 #define _SQSTDIO_H_
 

@@ -1,4 +1,4 @@
-//===--- ParsedTemplate.h - Template Parsing Data Types -------------------===//
+﻿//===--- ParsedTemplate.h - Template Parsing Data Types -------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

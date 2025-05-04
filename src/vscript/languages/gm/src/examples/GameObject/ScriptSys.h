@@ -1,4 +1,4 @@
-#ifndef SCRIPTSYS_H
+﻿#ifndef SCRIPTSYS_H
 #define SCRIPTSYS_H
 
 //

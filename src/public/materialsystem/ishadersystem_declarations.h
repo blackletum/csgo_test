@@ -1,4 +1,4 @@
-//===== Copyright � Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © Valve Corporation, All rights reserved. ======//
 
 #ifndef ishadersystem_declarations_hdr
 #define ishadersystem_declarations_hdr

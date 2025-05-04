@@ -1,4 +1,4 @@
-//===- OperationKinds.h - Operation enums -----------------------*- C++ -*-===//
+﻿//===- OperationKinds.h - Operation enums -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

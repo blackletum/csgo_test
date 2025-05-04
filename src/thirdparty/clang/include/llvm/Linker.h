@@ -1,4 +1,4 @@
-//===- llvm/Linker.h - Module Linker Interface ------------------*- C++ -*-===//
+﻿//===- llvm/Linker.h - Module Linker Interface ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

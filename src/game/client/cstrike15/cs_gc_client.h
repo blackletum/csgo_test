@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_CS_GC_CLIENT_H
+﻿#ifndef KISAKSTRIKE_CS_GC_CLIENT_H
 #define KISAKSTRIKE_CS_GC_CLIENT_H
 
 #if !defined( NO_STEAM )

@@ -1,4 +1,4 @@
-//===-- Regex.h - Regular Expression matcher implementation -*- C++ -*-----===//
+﻿//===-- Regex.h - Regular Expression matcher implementation -*- C++ -*-----===//
 //
 //                     The LLVM Compiler Infrastructure
 //

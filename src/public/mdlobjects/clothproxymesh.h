@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
+﻿//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
 #ifndef MDLOBJECTS_CLOTHPROXYMESH_HDR
 #define MDLOBJECTS_CLOTHPROXYMESH_HDR
 

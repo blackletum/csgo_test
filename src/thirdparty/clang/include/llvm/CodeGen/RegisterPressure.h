@@ -1,4 +1,4 @@
-//===-- RegisterPressure.h - Dynamic Register Pressure -*- C++ -*-------===//
+﻿//===-- RegisterPressure.h - Dynamic Register Pressure -*- C++ -*-------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

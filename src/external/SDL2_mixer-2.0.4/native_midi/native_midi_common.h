@@ -1,4 +1,4 @@
-/*
+﻿/*
   native_midi:  Hardware Midi support for the SDL_mixer library
   Copyright (C) 2000,2001  Florian 'Proff' Schulze <florian.proff.schulze@gmx.net>
 

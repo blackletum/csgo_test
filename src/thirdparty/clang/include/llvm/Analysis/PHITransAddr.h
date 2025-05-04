@@ -1,4 +1,4 @@
-//===- PHITransAddr.h - PHI Translation for Addresses -----------*- C++ -*-===//
+﻿//===- PHITransAddr.h - PHI Translation for Addresses -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

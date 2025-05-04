@@ -1,4 +1,4 @@
-/* example_cpp_encode_file - Simple FLAC file encoder using libFLAC
+﻿/* example_cpp_encode_file - Simple FLAC file encoder using libFLAC
  * Copyright (C) 2007-2009  Josh Coalson
  * Copyright (C) 2011-2016  Xiph.Org Foundation
  *

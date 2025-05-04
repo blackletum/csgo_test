@@ -1,4 +1,4 @@
-/*
+﻿/*
   SDL_mixer:  An audio mixer library based on the SDL library
   Copyright (C) 1997-2018 Sam Lantinga <slouken@libsdl.org>
 
@@ -23,7 +23,7 @@
     externally-callable function is Mix_LoadAIFF_RW(), which is meant to
     act as identically to SDL_LoadWAV_RW() as possible.
 
-    This file by Torbj�rn Andersson (torbjorn.andersson@eurotime.se)
+    This file by Torbjörn Andersson (torbjorn.andersson@eurotime.se)
 */
 
 /* Don't call this directly; use Mix_LoadWAV_RW() for now. */

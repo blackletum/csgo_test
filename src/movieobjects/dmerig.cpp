@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Implementation of the CDmeRig class, a class which groups a set of 
 // associated constraints and operators together, allowing operations to be

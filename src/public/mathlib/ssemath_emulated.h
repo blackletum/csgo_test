@@ -1,4 +1,4 @@
-//===== Copyright 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Implementation of our SIMD function using generic c++ code and a struct. This
 // implementation will not be especially fast, but gets us up fast on new platforms and also acts

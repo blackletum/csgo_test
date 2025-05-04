@@ -1,4 +1,4 @@
-//====== Copyright (C), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (C), Valve Corporation, All rights reserved. =======
 //
 // Purpose: This file defines all of our over-the-wire net protocols for the
 //			Inter-Game Coordinator messages.  Note that we never use types

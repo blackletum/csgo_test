@@ -1,4 +1,4 @@
-//===-- MultiplexConsumer.h - AST Consumer for PCH Generation ---*- C++ -*-===//
+﻿//===-- MultiplexConsumer.h - AST Consumer for PCH Generation ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

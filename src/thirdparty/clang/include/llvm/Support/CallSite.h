@@ -1,4 +1,4 @@
-//===-- llvm/Support/CallSite.h - Abstract Call & Invoke instrs -*- C++ -*-===//
+﻿//===-- llvm/Support/CallSite.h - Abstract Call & Invoke instrs -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- MCELFSymbolFlags.h - ELF Symbol Flags ----------------*- C++ -*-===//
+﻿//===- MCELFSymbolFlags.h - ELF Symbol Flags ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

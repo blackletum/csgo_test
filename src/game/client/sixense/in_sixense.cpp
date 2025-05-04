@@ -1,4 +1,4 @@
-#ifndef _XBOX
+﻿#ifndef _XBOX
 //#include <windows.h>
 #endif
 #include "cbase.h"

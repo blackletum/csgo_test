@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2006, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2006, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Filesystem abstraction for CSaveRestore - allows for storing temp save files
 //			either in memory or on disk.

@@ -1,4 +1,4 @@
-//========= Copyright � 2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 2009, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Defines the regular grid nav as required by DOTA. Builds, renders,
 //				and saves out the nav. Traversable edges and cells are determined by

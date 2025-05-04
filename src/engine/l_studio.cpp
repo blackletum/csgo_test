@@ -1,4 +1,4 @@
-//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // models are the only shared resource between a client and server running
 // on the same machine.

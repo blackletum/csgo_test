@@ -1,4 +1,4 @@
-//
+﻿//
 // Custom Fresnel with low, mid and high parameters defining a piecewise continuous function
 // with traditional fresnel (0 to 1 range) as input.  The 0 to 0.5 range blends between
 // low and mid while the 0.5 to 1 range blends between mid and high

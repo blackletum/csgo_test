@@ -1,4 +1,4 @@
-// Scintilla source code edit control
+﻿// Scintilla source code edit control
 /** @file Accessor.h
  ** Rapid easy access to contents of a Scintilla.
  **/

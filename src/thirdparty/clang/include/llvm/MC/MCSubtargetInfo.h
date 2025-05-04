@@ -1,4 +1,4 @@
-//==-- llvm/MC/MCSubtargetInfo.h - Subtarget Information ---------*- C++ -*-==//
+﻿//==-- llvm/MC/MCSubtargetInfo.h - Subtarget Information ---------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

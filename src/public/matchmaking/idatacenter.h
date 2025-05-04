@@ -1,4 +1,4 @@
-#ifndef _IDATACENTER_H_
+﻿#ifndef _IDATACENTER_H_
 #define _IDATACENTER_H_
 
 class IDatacenter;

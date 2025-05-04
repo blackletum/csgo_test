@@ -1,4 +1,4 @@
-
+﻿
 /* String object interface */
 
 #ifndef Py_STRINGOBJECT_H

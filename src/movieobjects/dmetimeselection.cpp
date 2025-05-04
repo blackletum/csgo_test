@@ -1,4 +1,4 @@
-#include "movieobjects/dmetimeselection.h"
+﻿#include "movieobjects/dmetimeselection.h"
 #include "interpolatortypes.h"
 #include "datamodel/dmelementfactoryhelper.h"
 // #include "dme_controls/RecordingState.h"

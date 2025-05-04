@@ -1,4 +1,4 @@
-//===-- llvm/ADT/APSInt.h - Arbitrary Precision Signed Int -----*- C++ -*--===//
+﻿//===-- llvm/ADT/APSInt.h - Arbitrary Precision Signed Int -----*- C++ -*--===//
 //
 //                     The LLVM Compiler Infrastructure
 //

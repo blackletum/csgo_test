@@ -1,4 +1,4 @@
-//===- StringMatcher.h - Generate a matcher for input strings ---*- C++ -*-===//
+﻿//===- StringMatcher.h - Generate a matcher for input strings ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

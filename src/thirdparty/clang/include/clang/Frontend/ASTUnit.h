@@ -1,4 +1,4 @@
-//===--- ASTUnit.h - ASTUnit utility ----------------------------*- C++ -*-===//
+﻿//===--- ASTUnit.h - ASTUnit utility ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

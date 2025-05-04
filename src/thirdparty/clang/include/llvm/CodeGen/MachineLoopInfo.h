@@ -1,4 +1,4 @@
-//===- llvm/CodeGen/MachineLoopInfo.h - Natural Loop Calculator -*- C++ -*-===//
+﻿//===- llvm/CodeGen/MachineLoopInfo.h - Natural Loop Calculator -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

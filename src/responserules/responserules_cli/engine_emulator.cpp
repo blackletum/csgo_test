@@ -1,4 +1,4 @@
-// This contains stubs that emulate the HL2 engine for places where
+﻿// This contains stubs that emulate the HL2 engine for places where
 // the response rules expect to find it.
 
 // temporarily make unicode go away as we deal with Valve types

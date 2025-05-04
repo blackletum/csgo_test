@@ -1,4 +1,4 @@
-//========= Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ============//
 #ifndef TIER1_HEAP_SORT
 #define TIER1_HEAP_SORT
 

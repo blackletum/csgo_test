@@ -1,4 +1,4 @@
-/*===-- llvm-c/lto.h - LTO Public C Interface ---------------------*- C -*-===*\
+﻿/*===-- llvm-c/lto.h - LTO Public C Interface ---------------------*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

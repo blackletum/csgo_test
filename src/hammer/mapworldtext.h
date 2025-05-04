@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 
 #ifndef WORLDTEXTHELPER_H
 #define WORLDTEXTHELPER_H

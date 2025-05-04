@@ -1,4 +1,4 @@
-#include <hk_physics/physics.h>
+﻿#include <hk_physics/physics.h>
 
 #ifdef HK_HAVE_PRAGMA_INTERFACE
 #	pragma implementation

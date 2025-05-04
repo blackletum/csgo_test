@@ -1,4 +1,4 @@
-//===-- RuntimeDyld.h - Run-time dynamic linker for MC-JIT ------*- C++ -*-===//
+﻿//===-- RuntimeDyld.h - Run-time dynamic linker for MC-JIT ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

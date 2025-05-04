@@ -1,4 +1,4 @@
-#ifdef _MSC_VER
+﻿#ifdef _MSC_VER
 #  pragma warning( disable: 4244 )  // conversion from don't care to whatever, possible loss of data 
 #endif
 #ifdef __MINGW32__

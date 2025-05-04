@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 
 // derivative of catmull rom spline courtesy of calc
 float4 DCatmullRomSpline ( float4 a, float4 b, float4 c, float4 d, float t )

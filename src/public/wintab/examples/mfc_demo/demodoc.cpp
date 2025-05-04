@@ -1,4 +1,4 @@
-// MFC_DEMODoc.cpp : implementation of the CMFC_DEMODoc class
+﻿// MFC_DEMODoc.cpp : implementation of the CMFC_DEMODoc class
 //
 
 #include "stdafx.h"

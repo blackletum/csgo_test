@@ -1,4 +1,4 @@
-//===- lib/CodeGen/MachineTraceMetrics.h - Super-scalar metrics -*- C++ -*-===//
+﻿//===- lib/CodeGen/MachineTraceMetrics.h - Super-scalar metrics -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

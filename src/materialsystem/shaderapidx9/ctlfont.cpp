@@ -1,4 +1,4 @@
-//  Copyright Electonic Arts(C) 2006 - All Rights Reserved
+﻿//  Copyright Electonic Arts(C) 2006 - All Rights Reserved
 
 #include "filesystem.h"
 

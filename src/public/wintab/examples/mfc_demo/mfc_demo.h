@@ -1,4 +1,4 @@
-// MFC_DEMO.h : main header file for the MFC_DEMO application
+﻿// MFC_DEMO.h : main header file for the MFC_DEMO application
 //
 
 #if !defined(AFX_MFC_DEMO_H__B7D0AFE6_20A7_11D2_B1B0_0040053C38B6__INCLUDED_)

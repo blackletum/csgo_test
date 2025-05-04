@@ -1,4 +1,4 @@
-// NextBotBehaviorEngine.h
+﻿// NextBotBehaviorEngine.h
 // Behavioral system constructed from Actions
 // Author: Michael Booth, April 2006
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

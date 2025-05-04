@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2010, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2010, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: A convenient, clean interface for communicating between UI and
 // the PS3 save system.

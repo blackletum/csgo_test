@@ -1,4 +1,4 @@
-#ifndef Py_SLICEOBJECT_H
+﻿#ifndef Py_SLICEOBJECT_H
 #define Py_SLICEOBJECT_H
 #ifdef __cplusplus
 extern "C" {

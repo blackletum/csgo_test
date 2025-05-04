@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCAsmLexer.h - Abstract Asm Lexer Interface -----*- C++ -*-===//
+﻿//===-- llvm/MC/MCAsmLexer.h - Abstract Asm Lexer Interface -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/*===-- llvm-c/Object.h - Object Lib C Iface --------------------*- C++ -*-===*/
+﻿/*===-- llvm-c/Object.h - Object Lib C Iface --------------------*- C++ -*-===*/
 /*                                                                            */
 /*                     The LLVM Compiler Infrastructure                       */
 /*                                                                            */

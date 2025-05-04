@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_TYPES_H
+﻿#ifndef HK_PHYSICS_TYPES_H
 #define HK_PHYSICS_TYPES_H
 
 

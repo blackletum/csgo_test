@@ -1,4 +1,4 @@
-/*	see copyright notice in squirrel.h */
+﻿/*	see copyright notice in squirrel.h */
 #ifndef _SQLEXER_H_
 #define _SQLEXER_H_
 

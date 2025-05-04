@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2007, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2007, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: a class for performing cube-mapped spherical sample lookups.
 //

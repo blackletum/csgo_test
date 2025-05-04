@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include <Windows.h>
 #include <mmsystem.h>
 #include <strsafe.h>

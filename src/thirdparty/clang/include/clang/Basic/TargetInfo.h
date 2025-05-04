@@ -1,4 +1,4 @@
-//===--- TargetInfo.h - Expose information about the target -----*- C++ -*-===//
+﻿//===--- TargetInfo.h - Expose information about the target -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- MCMachOSymbolFlags.h - MachO Symbol Flags ----------------*- C++ -*-===//
+﻿//===- MCMachOSymbolFlags.h - MachO Symbol Flags ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

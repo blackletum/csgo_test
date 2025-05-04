@@ -1,4 +1,4 @@
-/*
+﻿/*
 	playlist: playlist logic
 
 	copyright 1995-2007 by the mpg123 project - free software under the terms of the LGPL 2.1

@@ -1,4 +1,4 @@
-// simple_bot.cpp
+﻿// simple_bot.cpp
 // A simple bot
 // Michael Booth, February 2009
 

@@ -1,4 +1,4 @@
-
+﻿
 /* Grammar interface */
 
 #ifndef Py_GRAMMAR_H

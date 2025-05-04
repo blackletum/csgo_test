@@ -1,4 +1,4 @@
-//===- MachineLoopRanges.h - Ranges of machine loops -----------*- c++ -*--===//
+﻿//===- MachineLoopRanges.h - Ranges of machine loops -----------*- c++ -*--===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/* include/llvm/Config/config.h.cmake corresponding to config.h.in. */
+﻿/* include/llvm/Config/config.h.cmake corresponding to config.h.in. */
 
 #ifndef CONFIG_H
 #define CONFIG_H

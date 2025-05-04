@@ -1,4 +1,4 @@
-/*
+﻿/*
 	monosynth.h: generic mono related synth functions 
 
 	copyright 1995-2008 by the mpg123 project - free software under the terms of the LGPL 2.1

@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // glmgr.cpp
 //
@@ -979,7 +979,7 @@ ConVar gl_magnify_resolve_mode("gl_magnify_resolve_mode", "2" );	// if scaled re
 void GLMContext::SaveColorMaskAndSetToDefault()
 {
 	// NVidia's driver doesn't ignore the colormask during blitframebuffer calls, so we need to save/restore it: 
-	// “The bug here is that our driver fails to ignore colormask for BlitFramebuffer calls. This was unclear in the original spec, but we resolved it in Khronos last year (https://cvs.khronos.org/bugzilla/show_bug.cgi?id=7969).”
+	// €œThe bug here is that our driver fails to ignore colormask for BlitFramebuffer calls. This was unclear in the original spec, but we resolved it in Khronos last year (https://cvs.khronos.org/bugzilla/show_bug.cgi?id=7969).€
 	m_ColorMaskSingle.Read( &m_SavedColorMask, 0 );
 
 	GLColorMaskSingle_t newColorMask;
@@ -5665,10 +5665,10 @@ void GLMTester::Test0( void )
 	// lock and unlock them.
 	// use various combos of - 
 
-	//	âˆštexel format
-	//	âˆš2D | 3D | cube map
-	//	âˆšmipped / not
-	//	âˆšPOT / NPOT
+	//	Ã¢Ë†Å¡texel format
+	//	Ã¢Ë†Å¡2D | 3D | cube map
+	//	Ã¢Ë†Å¡mipped / not
+	//	Ã¢Ë†Å¡POT / NPOT
 	//	large / small / square / rect
 	//	square / rect
 	

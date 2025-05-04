@@ -1,4 +1,4 @@
-#ifdef min
+﻿#ifdef min
 	#undef min
 #endif
 

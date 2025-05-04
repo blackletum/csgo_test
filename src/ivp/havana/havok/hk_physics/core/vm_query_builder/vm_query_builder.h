@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_VM_QUERY_BUILDER
+﻿#ifndef HK_PHYSICS_VM_QUERY_BUILDER
 #define HK_PHYSICS_VM_QUERY_BUILDER
 
 #include <hk_math/densematrix.h>

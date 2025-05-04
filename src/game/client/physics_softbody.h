@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 #ifndef PHYSICS_SOFTBODY_HDR
 #define PHYSICS_SOFTBODY_HDR
 

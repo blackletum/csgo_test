@@ -1,4 +1,4 @@
-//===-- llvm/Value.h - Definition of the Value class ------------*- C++ -*-===//
+﻿//===-- llvm/Value.h - Definition of the Value class ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//================ Copyright (c) 1996-2009 Valve Corporation. All Rights Reserved. =================
+﻿//================ Copyright (c) 1996-2009 Valve Corporation. All Rights Reserved. =================
 //
 // Maps can have any number of cordons. They can be toggled independently, but
 // CMapDoc::m_bIsCordoning dictates whether culling against the active cordons is enabled or not.

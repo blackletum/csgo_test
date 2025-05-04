@@ -1,4 +1,4 @@
-//===--- SerializedDiagnosticPrinter.h - Serializer for diagnostics -------===//
+﻿//===--- SerializedDiagnosticPrinter.h - Serializer for diagnostics -------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- Visibility.h - Visibility enumeration and utilities ----*- C++ -*-===//
+﻿//===--- Visibility.h - Visibility enumeration and utilities ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

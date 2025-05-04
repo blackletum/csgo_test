@@ -1,4 +1,4 @@
-//===-- llvm/ADT/edit_distance.h - Array edit distance function --- C++ -*-===//
+﻿//===-- llvm/ADT/edit_distance.h - Array edit distance function --- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

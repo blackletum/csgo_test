@@ -1,4 +1,4 @@
-//===-- LiveRegMatrix.h - Track register interference ---------*- C++ -*---===//
+﻿//===-- LiveRegMatrix.h - Track register interference ---------*- C++ -*---===//
 //
 //                     The LLVM Compiler Infrastructure
 //

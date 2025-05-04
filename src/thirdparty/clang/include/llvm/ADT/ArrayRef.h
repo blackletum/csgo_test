@@ -1,4 +1,4 @@
-//===--- ArrayRef.h - Array Reference Wrapper -------------------*- C++ -*-===//
+﻿//===--- ArrayRef.h - Array Reference Wrapper -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

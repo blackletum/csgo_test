@@ -1,11 +1,11 @@
-// The dtlibwrapper is an annoying workaround to make Sony's dtlib dll play
+ï»¿// The dtlibwrapper is an annoying workaround to make Sony's dtlib dll play
 // nicely with our exes (such as vxconsole). 
 // 
 // dtlib is Sony's library for bidirectional communication with the PS3 console.
 // (ie, it is the PC side of the DECI3 interface.)
-// dtlib.dllis linked against Microsoft’s dynamic C Runtime library.
+// dtlib.dllis linked against Microsoftâ€™s dynamic C Runtime library.
 // VXConsole and all our libs are of course statically linked to the CRT so that 
-// we can subvert  malloc(). Ordinarily this wouldn’t really be a problem, except 
+// we can subvert  malloc(). Ordinarily this wouldnâ€™t really be a problem, except 
 // that some functions in dtlib.dll pass and return STL strings by value:
 //	HCONNECT dt_connect( std::string hostname, int portNo, std::string programName )
 //	std::string dt_geterrormsg( int errorno )

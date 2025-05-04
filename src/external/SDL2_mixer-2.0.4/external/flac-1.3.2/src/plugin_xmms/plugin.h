@@ -1,4 +1,4 @@
-/* libxmms-flac - XMMS FLAC input plugin
+﻿/* libxmms-flac - XMMS FLAC input plugin
  * Copyright (C) 2004-2009  Josh Coalson
  * Copyright (C) 2011-2016  Xiph.Org Foundation
  *

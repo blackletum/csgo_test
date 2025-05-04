@@ -1,4 +1,4 @@
-//===-- SSAUpdater.h - Unstructured SSA Update Tool -------------*- C++ -*-===//
+﻿//===-- SSAUpdater.h - Unstructured SSA Update Tool -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

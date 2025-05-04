@@ -1,4 +1,4 @@
-#include <windows.h>  
+﻿#include <windows.h>  
 #include <mmsystem.h> // multimedia timer (may need winmm.lib)
 #include "App.h"
 #include "ScriptSys.h"

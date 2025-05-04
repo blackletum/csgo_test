@@ -1,4 +1,4 @@
-//===- llvm/Support/LEB128.h - [SU]LEB128 utility functions -----*- C++ -*-===//
+﻿//===- llvm/Support/LEB128.h - [SU]LEB128 utility functions -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

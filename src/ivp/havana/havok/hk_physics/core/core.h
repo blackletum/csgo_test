@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_CORE_H
+﻿#ifndef HK_PHYSICS_CORE_H
 #define HK_PHYSICS_CORE_H
 
 class hk_Entity;

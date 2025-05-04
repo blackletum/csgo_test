@@ -1,4 +1,4 @@
-//===- lib/MC/MCELF.h - ELF MC --------------------------------------------===//
+﻿//===- lib/MC/MCELF.h - ELF MC --------------------------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

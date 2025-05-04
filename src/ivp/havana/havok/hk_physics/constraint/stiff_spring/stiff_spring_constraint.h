@@ -1,4 +1,4 @@
-#ifndef HK_STIFF_SPRING_CONSTRAINT_H
+﻿#ifndef HK_STIFF_SPRING_CONSTRAINT_H
 #define HK_STIFF_SPRING_CONSTRAINT_H
 
 class hk_Stiff_Spring_BP;

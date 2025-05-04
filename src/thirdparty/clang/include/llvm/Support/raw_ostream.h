@@ -1,4 +1,4 @@
-//===--- raw_ostream.h - Raw output stream ----------------------*- C++ -*-===//
+﻿//===--- raw_ostream.h - Raw output stream ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

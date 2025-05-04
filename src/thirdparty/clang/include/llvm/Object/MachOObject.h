@@ -1,4 +1,4 @@
-//===- MachOObject.h - Mach-O Object File Wrapper ---------------*- C++ -*-===//
+﻿//===- MachOObject.h - Mach-O Object File Wrapper ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

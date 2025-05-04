@@ -1,4 +1,4 @@
-#ifndef TEXTURE_G_H
+﻿#ifndef TEXTURE_G_H
 #define TEXTURE_G_H
 
 #ifdef COMPILER_MSVC

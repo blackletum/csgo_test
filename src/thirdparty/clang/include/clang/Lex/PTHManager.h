@@ -1,4 +1,4 @@
-//===--- PTHManager.h - Manager object for PTH processing -------*- C++ -*-===//
+﻿//===--- PTHManager.h - Manager object for PTH processing -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

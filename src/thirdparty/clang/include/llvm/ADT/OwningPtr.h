@@ -1,4 +1,4 @@
-//===- llvm/ADT/OwningPtr.h - Smart ptr that owns the pointee ---*- C++ -*-===//
+﻿//===- llvm/ADT/OwningPtr.h - Smart ptr that owns the pointee ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

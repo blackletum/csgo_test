@@ -1,4 +1,4 @@
-#ifndef HK_MATH_QUATERNION_H
+﻿#ifndef HK_MATH_QUATERNION_H
 #define HK_MATH_QUATERNION_H
 
 #ifndef HK_MATH_VECMATH_H

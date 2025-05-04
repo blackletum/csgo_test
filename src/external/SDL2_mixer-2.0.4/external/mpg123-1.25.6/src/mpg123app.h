@@ -1,4 +1,4 @@
-/*
+﻿/*
 	mpg123: main code of the program (not of the decoder...)
 
 	copyright 1995-2015 by the mpg123 project - free software under the terms of the LGPL 2.1

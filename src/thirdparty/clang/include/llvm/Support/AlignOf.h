@@ -1,4 +1,4 @@
-//===--- AlignOf.h - Portable calculation of type alignment -----*- C++ -*-===//
+﻿//===--- AlignOf.h - Portable calculation of type alignment -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

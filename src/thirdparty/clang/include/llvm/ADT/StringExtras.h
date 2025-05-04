@@ -1,4 +1,4 @@
-//===-- llvm/ADT/StringExtras.h - Useful string functions -------*- C++ -*-===//
+﻿//===-- llvm/ADT/StringExtras.h - Useful string functions -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

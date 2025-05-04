@@ -1,4 +1,4 @@
-//=========== Copyright Valve Corporation, All rights reserved. =============//
+﻿//=========== Copyright Valve Corporation, All rights reserved. =============//
 //
 // Purpose: Common location for hard-coded knowledge about module
 // bundles, such as tier2_bundle and tier3_bundle.

@@ -1,4 +1,4 @@
-#ifndef Py_PYTHON_H
+﻿#ifndef Py_PYTHON_H
 #define Py_PYTHON_H
 /* Since this is a "meta-include" file, no #ifdef __cplusplus / extern "C" { */
 

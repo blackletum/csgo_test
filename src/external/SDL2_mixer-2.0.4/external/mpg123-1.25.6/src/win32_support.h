@@ -1,4 +1,4 @@
-/*
+﻿/*
 	Win32 support helper file
 
 	This file is only for use with the mpg123 frontend.

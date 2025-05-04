@@ -1,4 +1,4 @@
-//===--- FileManager.h - File System Probing and Caching --------*- C++ -*-===//
+﻿//===--- FileManager.h - File System Probing and Caching --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

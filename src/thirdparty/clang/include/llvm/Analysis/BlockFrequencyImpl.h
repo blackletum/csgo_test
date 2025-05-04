@@ -1,4 +1,4 @@
-//===---- BlockFrequencyImpl.h - Machine Block Frequency Implementation ---===//
+﻿//===---- BlockFrequencyImpl.h - Machine Block Frequency Implementation ---===//
 //
 //                     The LLVM Compiler Infrastructure
 //

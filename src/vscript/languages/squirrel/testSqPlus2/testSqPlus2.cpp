@@ -1,4 +1,4 @@
-// testSqPlus2.cpp
+﻿// testSqPlus2.cpp
 // Created by John Schultz 9/21/2005
 // Free for any use.
 

@@ -1,4 +1,4 @@
-//===-- llvm/Support/Compiler.h - Compiler abstraction support --*- C++ -*-===//
+﻿//===-- llvm/Support/Compiler.h - Compiler abstraction support --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

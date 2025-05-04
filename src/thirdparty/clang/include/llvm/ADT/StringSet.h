@@ -1,4 +1,4 @@
-//===--- StringSet.h - The LLVM Compiler Driver -----------------*- C++ -*-===//
+﻿//===--- StringSet.h - The LLVM Compiler Driver -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

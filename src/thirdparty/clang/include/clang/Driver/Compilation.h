@@ -1,4 +1,4 @@
-//===--- Compilation.h - Compilation Task Data Structure --------*- C++ -*-===//
+﻿//===--- Compilation.h - Compilation Task Data Structure --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

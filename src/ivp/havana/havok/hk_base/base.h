@@ -1,4 +1,4 @@
-#ifndef HK_BASE_BASE_H
+﻿#ifndef HK_BASE_BASE_H
 #define HK_BASE_BASE_H
 
 #include <hk_base/base_types.h>

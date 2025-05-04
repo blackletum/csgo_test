@@ -1,4 +1,4 @@
-//===--- ASTMutationListener.h - AST Mutation Interface --------*- C++ -*-===//
+﻿//===--- ASTMutationListener.h - AST Mutation Interface --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//== AnalysisManager.h - Path sensitive analysis data manager ------*- C++ -*-//
+﻿//== AnalysisManager.h - Path sensitive analysis data manager ------*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

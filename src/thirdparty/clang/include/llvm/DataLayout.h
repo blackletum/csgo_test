@@ -1,4 +1,4 @@
-//===--------- llvm/DataLayout.h - Data size & alignment info ---*- C++ -*-===//
+﻿//===--------- llvm/DataLayout.h - Data size & alignment info ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/* elf.c -- Get debug data from an ELF file for backtraces.
+﻿/* elf.c -- Get debug data from an ELF file for backtraces.
    Copyright (C) 2012-2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

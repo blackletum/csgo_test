@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCObjectFileInfo.h - Object File Info -----------*- C++ -*-===//
+﻿//===-- llvm/MC/MCObjectFileInfo.h - Object File Info -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

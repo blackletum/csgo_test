@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 
 #ifndef IMATERIALSYSTEM2
 #define IMATERIALSYSTEM2

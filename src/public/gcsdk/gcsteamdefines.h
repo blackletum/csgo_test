@@ -1,4 +1,4 @@
-//====== Copyright (c), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (c), Valve Corporation, All rights reserved. =======
 //
 // Purpose: Defines a bunch of stuff that would be defined in Steam, but
 //			isn't in Source.

@@ -1,4 +1,4 @@
-//==- BlockCounter.h - ADT for counting block visits ---------------*- C++ -*-//
+﻿//==- BlockCounter.h - ADT for counting block visits ---------------*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

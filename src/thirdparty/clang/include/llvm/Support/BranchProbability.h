@@ -1,4 +1,4 @@
-//===- BranchProbability.h - Branch Probability Wrapper ---------*- C++ -*-===//
+﻿//===- BranchProbability.h - Branch Probability Wrapper ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

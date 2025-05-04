@@ -1,4 +1,4 @@
-//===- MCObjectStreamer.h - MCStreamer Object File Interface ----*- C++ -*-===//
+﻿//===- MCObjectStreamer.h - MCStreamer Object File Interface ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

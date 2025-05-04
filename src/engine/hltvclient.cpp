@@ -1,4 +1,4 @@
-//===== Copyright (c) Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) Valve Corporation, All rights reserved. ======//
 //
 // hltvclient.cpp: implementation of the CHLTVClient class.
 //

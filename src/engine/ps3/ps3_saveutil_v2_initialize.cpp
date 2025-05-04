@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2011, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2011, Valve Corporation, All rights reserved. ======//
 
 #include "ps3_saveutil_v2.h"
 #include "vgui/ILocalize.h"

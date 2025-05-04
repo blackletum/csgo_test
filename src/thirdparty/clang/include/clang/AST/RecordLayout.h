@@ -1,4 +1,4 @@
-//===--- RecordLayout.h - Layout information for a struct/union -*- C++ -*-===//
+﻿//===--- RecordLayout.h - Layout information for a struct/union -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

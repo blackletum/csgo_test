@@ -1,4 +1,4 @@
-//===- Endian.h - Utilities for IO with endian specific data ----*- C++ -*-===//
+﻿//===- Endian.h - Utilities for IO with endian specific data ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

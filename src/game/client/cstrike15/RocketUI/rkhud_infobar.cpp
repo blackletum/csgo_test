@@ -1,4 +1,4 @@
-#include "rkhud_infobar.h"
+﻿#include "rkhud_infobar.h"
 
 #include "cbase.h"
 #include "hud_macros.h"

@@ -1,4 +1,4 @@
-//==- MachineBranchProbabilityInfo.h - Machine Branch Probability Analysis -==//
+﻿//==- MachineBranchProbabilityInfo.h - Machine Branch Probability Analysis -==//
 //
 //                     The LLVM Compiler Infrastructure
 //

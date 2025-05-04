@@ -1,4 +1,4 @@
-#ifndef Py_LONGOBJECT_H
+﻿#ifndef Py_LONGOBJECT_H
 #define Py_LONGOBJECT_H
 #ifdef __cplusplus
 extern "C" {

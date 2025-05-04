@@ -1,4 +1,4 @@
-//==- WorkList.h - Worklist class used by CoreEngine ---------------*- C++ -*-//
+﻿//==- WorkList.h - Worklist class used by CoreEngine ---------------*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

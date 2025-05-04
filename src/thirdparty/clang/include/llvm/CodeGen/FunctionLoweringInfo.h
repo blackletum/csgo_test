@@ -1,4 +1,4 @@
-//===-- FunctionLoweringInfo.h - Lower functions from LLVM IR to CodeGen --===//
+﻿//===-- FunctionLoweringInfo.h - Lower functions from LLVM IR to CodeGen --===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/*
+﻿/*
 	debug.h: 
 		if DEBUG defined: debugging macro fprintf wrappers
 		else: macros defined to do nothing

@@ -1,4 +1,4 @@
-
+﻿
 /* File object interface */
 
 #ifndef Py_FILEOBJECT_H

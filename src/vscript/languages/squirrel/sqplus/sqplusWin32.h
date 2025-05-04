@@ -1,4 +1,4 @@
-#ifndef _SQ_PLUS_WIN32_H_
+﻿#ifndef _SQ_PLUS_WIN32_H_
 #define _SQ_PLUS_WIN32_H_
 
 #include "sqplus.h"

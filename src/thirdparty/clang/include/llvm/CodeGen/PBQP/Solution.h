@@ -1,4 +1,4 @@
-//===-- Solution.h ------- PBQP Solution ------------------------*- C++ -*-===//
+﻿//===-- Solution.h ------- PBQP Solution ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

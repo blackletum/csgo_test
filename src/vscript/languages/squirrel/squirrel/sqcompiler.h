@@ -1,4 +1,4 @@
-/*	see copyright notice in squirrel.h */
+﻿/*	see copyright notice in squirrel.h */
 #ifndef _SQCOMPILER_H_
 #define _SQCOMPILER_H_
 

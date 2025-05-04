@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 
 #include "dme_controls/attributebooleanpanel.h"
 #include "dme_controls/AttributeTextEntry.h"

@@ -1,4 +1,4 @@
-//== StoreRef.h - Smart pointer for store objects ---------------*- C++ -*--==//
+﻿//== StoreRef.h - Smart pointer for store objects ---------------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

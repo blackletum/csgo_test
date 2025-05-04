@@ -1,4 +1,4 @@
-#ifndef IN_SIXENSE_H
+﻿#ifndef IN_SIXENSE_H
 #define IN_SIXENSE_H
 
 #include "mathlib/vector.h"

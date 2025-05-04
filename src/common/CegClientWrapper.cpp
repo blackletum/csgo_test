@@ -1,4 +1,4 @@
-#include "CegClientWrapper.h"
+﻿#include "CegClientWrapper.h"
 
 #if defined( CLIENT_DLL ) || defined( GAME_DLL )	// shared
 #include "cbase.h"									// prerequisite for more than one of the below headers

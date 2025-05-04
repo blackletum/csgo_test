@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 #include <QtGui/QtGui>
 #include "tier0/platform.h"

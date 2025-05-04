@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2009, Valve Corporation, All rights reserved. ====
+﻿//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ====
 //
 // A tree of checkable items. Can have multiple root-level items. Supports drag and drop
 // and posts a registered Windows message to the tree's parent window when items

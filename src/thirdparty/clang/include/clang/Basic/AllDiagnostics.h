@@ -1,4 +1,4 @@
-//===--- AllDiagnostics.h - Aggregate Diagnostic headers --------*- C++ -*-===//
+﻿//===--- AllDiagnostics.h - Aggregate Diagnostic headers --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

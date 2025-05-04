@@ -1,4 +1,4 @@
-//===--- CommentSema.h - Doxygen comment semantic analysis ------*- C++ -*-===//
+﻿//===--- CommentSema.h - Doxygen comment semantic analysis ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

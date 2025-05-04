@@ -1,4 +1,4 @@
-#ifndef HK_MATH_REAL_ARRAY_UTIL_H
+﻿#ifndef HK_MATH_REAL_ARRAY_UTIL_H
 #define HK_MATH_REAL_ARRAY_UTIL_H
 
 #include <hk_base/base.h>

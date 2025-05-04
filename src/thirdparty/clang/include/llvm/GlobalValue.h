@@ -1,4 +1,4 @@
-//===-- llvm/GlobalValue.h - Class to represent a global value --*- C++ -*-===//
+﻿//===-- llvm/GlobalValue.h - Class to represent a global value --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========= Copyright (c) 1996-2006, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c) 1996-2006, Valve Corporation, All rights reserved. ============//
 
 #ifndef PROTO_ICE_HELPER_H
 #define PROTO_ICE_HELPER_H

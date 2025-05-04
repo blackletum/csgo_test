@@ -1,4 +1,4 @@
-//===- LexicalScopes.cpp - Collecting lexical scope info -*- C++ -*--------===//
+﻿//===- LexicalScopes.cpp - Collecting lexical scope info -*- C++ -*--------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

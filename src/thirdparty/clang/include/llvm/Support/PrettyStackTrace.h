@@ -1,4 +1,4 @@
-//===- llvm/Support/PrettyStackTrace.h - Pretty Crash Handling --*- C++ -*-===//
+﻿//===- llvm/Support/PrettyStackTrace.h - Pretty Crash Handling --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

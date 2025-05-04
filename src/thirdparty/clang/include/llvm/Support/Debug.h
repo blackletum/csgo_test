@@ -1,4 +1,4 @@
-//===- llvm/Support/Debug.h - Easy way to add debug output ------*- C++ -*-===//
+﻿//===- llvm/Support/Debug.h - Easy way to add debug output ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//==- HTMLRewrite.h - Translate source code into prettified HTML ---*- C++ -*-//
+﻿//==- HTMLRewrite.h - Translate source code into prettified HTML ---*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

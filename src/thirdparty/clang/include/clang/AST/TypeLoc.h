@@ -1,4 +1,4 @@
-//===--- TypeLoc.h - Type Source Info Wrapper -------------------*- C++ -*-===//
+﻿//===--- TypeLoc.h - Type Source Info Wrapper -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

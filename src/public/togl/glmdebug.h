@@ -1,4 +1,4 @@
-#ifndef GLMDEBUG_H
+﻿#ifndef GLMDEBUG_H
 #define	GLMDEBUG_H
 
 #include "tier0/platform.h"

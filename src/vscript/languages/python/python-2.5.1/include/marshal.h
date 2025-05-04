@@ -1,4 +1,4 @@
-
+﻿
 /* Interface for marshal.c */
 
 #ifndef Py_MARSHAL_H

@@ -1,4 +1,4 @@
-#include "fow_viewer.h"
+﻿#include "fow_viewer.h"
 #include "fow_radiusoccluder.h"
 #include "fow_lineoccluder.h"
 #include "fow_horizontalslice.h"

@@ -1,4 +1,4 @@
-//===--- Tool.h - Compilation Tools -----------------------------*- C++ -*-===//
+﻿//===--- Tool.h - Compilation Tools -----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

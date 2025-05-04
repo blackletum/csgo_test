@@ -1,4 +1,4 @@
-//===- llvm/Analysis/FindUsedTypes.h - Find all Types in use ----*- C++ -*-===//
+﻿//===- llvm/Analysis/FindUsedTypes.h - Find all Types in use ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

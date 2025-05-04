@@ -1,4 +1,4 @@
-// $Id$
+﻿// $Id$
 
 #include "raytrace.h"
 #include <mathlib/halton.h>

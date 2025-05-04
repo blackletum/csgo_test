@@ -1,4 +1,4 @@
-/*	see copyright notice in squirrel.h */
+﻿/*	see copyright notice in squirrel.h */
 #ifndef _SQFUNCSTATE_H_
 #define _SQFUNCSTATE_H_
 ///////////////////////////////////

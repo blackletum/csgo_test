@@ -1,4 +1,4 @@
-//===------- llvm/CodeGen/ScheduleDAG.h - Common Base Class------*- C++ -*-===//
+﻿//===------- llvm/CodeGen/ScheduleDAG.h - Common Base Class------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#ifndef LOAD_PAT_H
+﻿#ifndef LOAD_PAT_H
 #define LOAD_PAT_H
 
 #ifdef __cplusplus

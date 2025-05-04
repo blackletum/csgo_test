@@ -1,4 +1,4 @@
-//===---- llvm/TypeBuilder.h - Builder for LLVM types -----------*- C++ -*-===//
+﻿//===---- llvm/TypeBuilder.h - Builder for LLVM types -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

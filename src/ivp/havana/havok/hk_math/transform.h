@@ -1,4 +1,4 @@
-#ifndef HK_TRANSFORM_H
+﻿#ifndef HK_TRANSFORM_H
 #define HK_TRANSFORM_H
 
 #ifndef HK_MATH_VECMATH_H

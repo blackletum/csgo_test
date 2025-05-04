@@ -1,4 +1,4 @@
-//===- MCSection.h - Machine Code Sections ----------------------*- C++ -*-===//
+﻿//===- MCSection.h - Machine Code Sections ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

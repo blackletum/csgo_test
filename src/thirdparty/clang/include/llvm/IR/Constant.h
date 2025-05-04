@@ -1,4 +1,4 @@
-//===-- llvm/Constant.h - Constant class definition -------------*- C++ -*-===//
+﻿//===-- llvm/Constant.h - Constant class definition -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

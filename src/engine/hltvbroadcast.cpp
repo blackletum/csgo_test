@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Broadcasting HLTV demo in 3-second chunks, preparing for SteamCast
 // TODO test cases: start broadcast before relay server is ready; quit the server while broadcast hasn't flushed yet, make sure broadcast is properly stopped, flush is done and sends returned at least one confirm or error before quitting.

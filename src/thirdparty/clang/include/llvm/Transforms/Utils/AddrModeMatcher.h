@@ -1,4 +1,4 @@
-//===- AddrModeMatcher.h - Addressing mode matching facility ----*- C++ -*-===//
+﻿//===- AddrModeMatcher.h - Addressing mode matching facility ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- CharUnits.h - Character units for sizes and offsets ----*- C++ -*-===//
+﻿//===--- CharUnits.h - Character units for sizes and offsets ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

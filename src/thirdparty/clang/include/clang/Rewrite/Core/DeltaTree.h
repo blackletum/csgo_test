@@ -1,4 +1,4 @@
-//===--- DeltaTree.h - B-Tree for Rewrite Delta tracking --------*- C++ -*-===//
+﻿//===--- DeltaTree.h - B-Tree for Rewrite Delta tracking --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

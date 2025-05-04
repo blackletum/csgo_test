@@ -1,4 +1,4 @@
-//===- llvm/Transforms/Utils/IntegerDivision.h ------------------*- C++ -*-===//
+﻿//===- llvm/Transforms/Utils/IntegerDivision.h ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

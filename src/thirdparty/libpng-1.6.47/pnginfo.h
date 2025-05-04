@@ -1,4 +1,4 @@
-/* pnginfo.h - header file for PNG reference library
+﻿/* pnginfo.h - header file for PNG reference library
  *
  * Copyright (c) 2018 Cosmin Truta
  * Copyright (c) 1998-2002,2004,2006-2013,2018 Glenn Randers-Pehrson

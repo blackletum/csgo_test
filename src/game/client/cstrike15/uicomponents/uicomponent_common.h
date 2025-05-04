@@ -1,4 +1,4 @@
-//========= Copyright (C) 1996-2013, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (C) 1996-2013, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Helper for UI components - used for binding to both Scaleform ActionScript and 
 //          Panorama Javascript.

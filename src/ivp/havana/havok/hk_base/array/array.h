@@ -1,4 +1,4 @@
-#ifndef HK_BASE_ARRAY_H
+﻿#ifndef HK_BASE_ARRAY_H
 #define HK_BASE_ARRAY_H
 
 #ifndef HK_BASE_BASE_H

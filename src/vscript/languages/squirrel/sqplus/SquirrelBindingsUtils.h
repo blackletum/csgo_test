@@ -1,4 +1,4 @@
-#ifndef SQUIRREL_BINDINGS_UTILS_H
+﻿#ifndef SQUIRREL_BINDINGS_UTILS_H
 #define SQUIRREL_BINDINGS_UTILS_H
 
 struct ScriptClassMemberDecl  {

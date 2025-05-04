@@ -1,4 +1,4 @@
-//====== Copyright Valve Corporation, All rights reserved. ====================
+﻿//====== Copyright Valve Corporation, All rights reserved. ====================
 //
 // Purpose: Serialized Digital Object caching and manipulation
 //

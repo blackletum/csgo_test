@@ -1,4 +1,4 @@
-//===- Version.h - Clang Version Number -------------------------*- C++ -*-===//
+﻿//===- Version.h - Clang Version Number -------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

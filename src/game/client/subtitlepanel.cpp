@@ -1,4 +1,4 @@
-#include "cbase.h"
+﻿#include "cbase.h"
 #include <vgui/IVGui.h>
 #include <vgui/ISurface.h>
 #include "subtitlepanel.h"

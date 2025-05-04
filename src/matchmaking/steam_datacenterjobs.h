@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. =======================//
+﻿//========= Copyright © Valve Corporation, All rights reserved. =======================//
 //
 // Purpose: Jobs for communicating with the custom Steam backend (Game Coordinator)
 //

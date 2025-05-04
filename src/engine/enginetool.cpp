@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2005, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Implmentation of IEngineTool callback interface
 //  Tool .dlls can call back through this interface to talk to the engine

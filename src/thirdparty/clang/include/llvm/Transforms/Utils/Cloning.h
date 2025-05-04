@@ -1,4 +1,4 @@
-//===- Cloning.h - Clone various parts of LLVM programs ---------*- C++ -*-===//
+﻿//===- Cloning.h - Clone various parts of LLVM programs ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

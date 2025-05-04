@@ -1,4 +1,4 @@
-//===-- DomPrinter.h - Dom printer external interface ------------*- C++ -*-===//
+﻿//===-- DomPrinter.h - Dom printer external interface ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

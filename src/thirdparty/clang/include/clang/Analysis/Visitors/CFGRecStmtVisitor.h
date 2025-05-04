@@ -1,4 +1,4 @@
-//==- CFGRecStmtVisitor - Recursive visitor of CFG statements ---*- C++ --*-==//
+﻿//==- CFGRecStmtVisitor - Recursive visitor of CFG statements ---*- C++ --*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

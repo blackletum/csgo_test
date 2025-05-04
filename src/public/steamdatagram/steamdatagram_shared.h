@@ -1,4 +1,4 @@
-//====== Copyright Valve Corporation, All rights reserved. ====================
+﻿//====== Copyright Valve Corporation, All rights reserved. ====================
 //
 // Types and utilities used in the Steam datagram transport library
 //

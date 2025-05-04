@@ -1,4 +1,4 @@
-#ifndef PS3_CONSOLE_H
+﻿#ifndef PS3_CONSOLE_H
 #define PS3_CONSOLE_H
 
 #include <cell/cell_fs.h>

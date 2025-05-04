@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "mapdoc.h"
 #include "mapview.h"
 #include <wintab.h>

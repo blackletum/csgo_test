@@ -1,4 +1,4 @@
-//========= Copyright �, Valve LLC, All rights reserved. ============
+﻿//========= Copyright ©, Valve LLC, All rights reserved. ============
 //
 // Purpose: CWAPI header for GC access to the Web API server
 //

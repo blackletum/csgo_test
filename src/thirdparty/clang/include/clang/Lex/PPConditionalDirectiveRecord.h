@@ -1,4 +1,4 @@
-//===--- PPConditionalDirectiveRecord.h - Preprocessing Directives-*- C++ -*-=//
+﻿//===--- PPConditionalDirectiveRecord.h - Preprocessing Directives-*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

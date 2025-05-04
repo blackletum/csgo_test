@@ -1,4 +1,4 @@
-#ifndef HK_MATH_EULERANGLES_H
+﻿#ifndef HK_MATH_EULERANGLES_H
 #define HK_MATH_EULERANGLES_H
 
 // <hk_math/vector3/vector3.h>

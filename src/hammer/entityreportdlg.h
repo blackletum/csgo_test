@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 //
 // A modeless dialog showing a list of all entities in the map that can be filtered by various criteria.
 //

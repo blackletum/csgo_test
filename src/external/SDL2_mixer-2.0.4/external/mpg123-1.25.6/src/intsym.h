@@ -1,4 +1,4 @@
-#ifndef MPG123_INTSYM_H
+﻿#ifndef MPG123_INTSYM_H
 #define MPG123_INTSYM_H
 /* Mapping of internal mpg123 symbols to something that is less likely to
    conflict in case of static linking. */

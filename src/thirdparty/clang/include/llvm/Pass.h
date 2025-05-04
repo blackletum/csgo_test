@@ -1,4 +1,4 @@
-//===- llvm/Pass.h - Base class for Passes ----------------------*- C++ -*-===//
+﻿//===- llvm/Pass.h - Base class for Passes ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

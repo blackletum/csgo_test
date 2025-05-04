@@ -1,4 +1,4 @@
-//====== Copyright �, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright ©, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Contains the job that's responsible for updating the database schema
 //

@@ -1,4 +1,4 @@
-//===- AsmLexer.h - Lexer for Assembly Files --------------------*- C++ -*-===//
+﻿//===- AsmLexer.h - Lexer for Assembly Files --------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

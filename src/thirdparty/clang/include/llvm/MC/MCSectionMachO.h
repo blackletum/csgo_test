@@ -1,4 +1,4 @@
-//===- MCSectionMachO.h - MachO Machine Code Sections -----------*- C++ -*-===//
+﻿//===- MCSectionMachO.h - MachO Machine Code Sections -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

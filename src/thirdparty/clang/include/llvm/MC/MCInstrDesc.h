@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCInstrDesc.h - Instruction Descriptors -*- C++ -*-===//
+﻿//===-- llvm/MC/MCInstrDesc.h - Instruction Descriptors -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

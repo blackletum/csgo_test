@@ -1,4 +1,4 @@
-//===- llvm/PassManager.h - Container for Passes ----------------*- C++ -*-===//
+﻿//===- llvm/PassManager.h - Container for Passes ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

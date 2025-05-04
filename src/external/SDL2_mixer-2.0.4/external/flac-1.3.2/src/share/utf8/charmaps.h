@@ -1,4 +1,4 @@
-
+﻿
 /*
  * If you need to generate more maps, use makemap.c on a system
  * with a decent iconv.

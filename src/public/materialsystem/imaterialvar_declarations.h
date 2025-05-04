@@ -1,4 +1,4 @@
-//===== Copyright � , Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © , Valve Corporation, All rights reserved. ======//
 #ifndef IMATERIALVAR_DECLARATIONS_HDR
 #define IMATERIALVAR_DECLARATIONS_HDR
 

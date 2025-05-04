@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCAsmParserExtension.h - Asm Parser Hooks -------*- C++ -*-===//
+﻿//===-- llvm/MC/MCAsmParserExtension.h - Asm Parser Hooks -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

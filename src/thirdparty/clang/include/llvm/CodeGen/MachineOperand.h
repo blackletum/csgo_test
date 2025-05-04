@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineOperand.h - MachineOperand class ----*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineOperand.h - MachineOperand class ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

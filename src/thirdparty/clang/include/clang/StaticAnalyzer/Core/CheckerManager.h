@@ -1,4 +1,4 @@
-//===--- CheckerManager.h - Static Analyzer Checker Manager -----*- C++ -*-===//
+﻿//===--- CheckerManager.h - Static Analyzer Checker Manager -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

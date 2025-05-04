@@ -1,4 +1,4 @@
-/* minrdpngconf.h: headers to make a minimal png-read-only library
+﻿/* minrdpngconf.h: headers to make a minimal png-read-only library
  *
  * Copyright (c) 2009, 2010-2013 Glenn Randers-Pehrson
  *

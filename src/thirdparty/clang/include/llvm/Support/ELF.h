@@ -1,4 +1,4 @@
-//===-- llvm/Support/ELF.h - ELF constants and data structures --*- C++ -*-===//
+﻿//===-- llvm/Support/ELF.h - ELF constants and data structures --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

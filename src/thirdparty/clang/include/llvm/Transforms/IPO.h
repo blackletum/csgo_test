@@ -1,4 +1,4 @@
-//===- llvm/Transforms/IPO.h - Interprocedural Transformations --*- C++ -*-===//
+﻿//===- llvm/Transforms/IPO.h - Interprocedural Transformations --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

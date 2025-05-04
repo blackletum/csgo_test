@@ -1,4 +1,4 @@
-#include <hk_math/vecmath.h>
+﻿#include <hk_math/vecmath.h>
 
 void hk_Rotation::set(const hk_Quaternion& q)
 {

@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ==========
+ï»¿//============ Copyright (c) Valve Corporation, All rights reserved. ==========
 //
 // Autodesk FBX <-> Valve DMX
 //
@@ -45,7 +45,7 @@ public:
 	virtual ~CDmFbxSerializer();
 
 	const char *GetName() const { return "fbx"; }
-	const char *GetDescription() const { return "Autodesk® FBX®"; }
+	const char *GetDescription() const { return "AutodeskÂ® FBXÂ®"; }
 
 	// CDmFbxSerializer
 	CDmElement *ReadFBX( const char *pszFilename );

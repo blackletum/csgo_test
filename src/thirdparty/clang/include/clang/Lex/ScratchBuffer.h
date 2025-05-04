@@ -1,4 +1,4 @@
-//===--- ScratchBuffer.h - Scratch space for forming tokens -----*- C++ -*-===//
+﻿//===--- ScratchBuffer.h - Scratch space for forming tokens -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

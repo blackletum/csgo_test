@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // Generic constraint functions to compute bone constraints
 // Used by studio/engine, SFM & Maya

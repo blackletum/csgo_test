@@ -1,4 +1,4 @@
-#include "rkhud_pausemenu.h"
+﻿#include "rkhud_pausemenu.h"
 
 #include "../../../../thirdparty/RmlUi/Include/RmlUi/Core.h"
 

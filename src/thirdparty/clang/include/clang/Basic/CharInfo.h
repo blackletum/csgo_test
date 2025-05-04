@@ -1,4 +1,4 @@
-//===--- clang/Basic/CharInfo.h - Classifying ASCII Characters ------------===//
+﻿//===--- clang/Basic/CharInfo.h - Classifying ASCII Characters ------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

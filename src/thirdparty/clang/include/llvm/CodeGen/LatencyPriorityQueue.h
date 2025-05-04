@@ -1,4 +1,4 @@
-//===---- LatencyPriorityQueue.h - A latency-oriented priority queue ------===//
+﻿//===---- LatencyPriorityQueue.h - A latency-oriented priority queue ------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#ifndef _IDLCMANAGER_H_
+﻿#ifndef _IDLCMANAGER_H_
 #define _IDLCMANAGER_H_
 
 class IDlcManager;

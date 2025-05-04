@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Inner workings of Performance Monitor Counters on the xbox 360; 
 // they let vprof track L2 dcache misses, LHS, etc.

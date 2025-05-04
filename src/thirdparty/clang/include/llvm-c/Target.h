@@ -1,4 +1,4 @@
-/*===-- llvm-c/Target.h - Target Lib C Iface --------------------*- C++ -*-===*/
+﻿/*===-- llvm-c/Target.h - Target Lib C Iface --------------------*- C++ -*-===*/
 /*                                                                            */
 /*                     The LLVM Compiler Infrastructure                       */
 /*                                                                            */

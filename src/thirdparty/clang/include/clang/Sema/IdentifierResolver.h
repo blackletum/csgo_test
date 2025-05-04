@@ -1,4 +1,4 @@
-//===- IdentifierResolver.h - Lexical Scope Name lookup ---------*- C++ -*-===//
+﻿//===- IdentifierResolver.h - Lexical Scope Name lookup ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

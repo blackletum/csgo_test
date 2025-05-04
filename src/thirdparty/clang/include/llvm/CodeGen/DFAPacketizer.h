@@ -1,4 +1,4 @@
-//=- llvm/CodeGen/DFAPacketizer.h - DFA Packetizer for VLIW ---*- C++ -*-=====//
+﻿//=- llvm/CodeGen/DFAPacketizer.h - DFA Packetizer for VLIW ---*- C++ -*-=====//
 //
 //                     The LLVM Compiler Infrastructure
 //

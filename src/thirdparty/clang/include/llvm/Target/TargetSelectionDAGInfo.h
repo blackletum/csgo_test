@@ -1,4 +1,4 @@
-//==-- llvm/Target/TargetSelectionDAGInfo.h - SelectionDAG Info --*- C++ -*-==//
+﻿//==-- llvm/Target/TargetSelectionDAGInfo.h - SelectionDAG Info --*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

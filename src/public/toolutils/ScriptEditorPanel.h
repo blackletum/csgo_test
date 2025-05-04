@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Declaration of the CScriptEditorPanel class and associated helper
 // classes. The ScriptEditorPanel class represents a vgui panel which contains

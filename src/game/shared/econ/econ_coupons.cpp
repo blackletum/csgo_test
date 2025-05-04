@@ -1,4 +1,4 @@
-//========= Copyright (c), Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c), Valve Corporation, All rights reserved. ============//
 //
 // Purpose: CEconCoupon - Limited time offers to purchase an econ item
 //

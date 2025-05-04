@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 #ifndef ENGINE_AUDIO_PRIVATE_SND_PS3_MP3DEC_HDR
 #define ENGINE_AUDIO_PRIVATE_SND_PS3_MP3DEC_HDR
 

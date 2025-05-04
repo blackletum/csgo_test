@@ -1,4 +1,4 @@
-//===- llvm/ADT/PostOrderIterator.h - PostOrder iterator --------*- C++ -*-===//
+﻿//===- llvm/ADT/PostOrderIterator.h - PostOrder iterator --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

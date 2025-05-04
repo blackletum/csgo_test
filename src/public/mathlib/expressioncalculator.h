@@ -1,4 +1,4 @@
-//====== Copyright c 1996-2008, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright c 1996-2008, Valve Corporation, All rights reserved. =======
 
 #ifndef MATHLIB_EXPRESSION_CALCULATOR_H
 #define MATHLIB_EXPRESSION_CALCULATOR_H

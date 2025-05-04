@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 // 
 // Quat-dominant finite element mesh simulation, a distillation of experiments made in femodel-v0
 // Multigrid didn't work as well as advertised, so I dropped it - this is a single-level solver without hierarchy

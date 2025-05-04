@@ -1,4 +1,4 @@
-//===-- llvm/GVMaterializer.h - Interface for GV materializers --*- C++ -*-===//
+﻿//===-- llvm/GVMaterializer.h - Interface for GV materializers --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

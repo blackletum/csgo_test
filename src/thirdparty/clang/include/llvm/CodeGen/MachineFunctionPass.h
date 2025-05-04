@@ -1,4 +1,4 @@
-//===-- MachineFunctionPass.h - Pass for MachineFunctions --------*-C++ -*-===//
+﻿//===-- MachineFunctionPass.h - Pass for MachineFunctions --------*-C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

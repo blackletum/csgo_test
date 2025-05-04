@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCCodeEmitter.h - Instruction Encoding ----------*- C++ -*-===//
+﻿//===-- llvm/MC/MCCodeEmitter.h - Instruction Encoding ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-class hk_PSI_Info: protected IVP_Event_Sim {
+﻿class hk_PSI_Info: protected IVP_Event_Sim {
 public:
 	hk_PSI_Info(const IVP_Event_Sim &sim) : IVP_Event_Sim(sim) {}
 

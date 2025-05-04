@@ -1,4 +1,4 @@
-//===-- GCs.h - Garbage collector linkage hacks ---------------------------===//
+﻿//===-- GCs.h - Garbage collector linkage hacks ---------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

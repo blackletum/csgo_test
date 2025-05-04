@@ -1,4 +1,4 @@
-//===-- llvm/Support/COFF.h -------------------------------------*- C++ -*-===//
+﻿//===-- llvm/Support/COFF.h -------------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

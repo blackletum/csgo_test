@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCCodeGenInfo.h - Target CodeGen Info -----------*- C++ -*-===//
+﻿//===-- llvm/MC/MCCodeGenInfo.h - Target CodeGen Info -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

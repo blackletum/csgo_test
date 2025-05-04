@@ -1,4 +1,4 @@
-
+﻿
 /* pngstruct.h - header file for PNG reference library
  *
  * Copyright (c) 2018-2019 Cosmin Truta

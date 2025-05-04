@@ -1,4 +1,4 @@
-// ======= Copyright (c) 2009, Valve Corporation, All rights reserved. =========
+﻿// ======= Copyright (c) 2009, Valve Corporation, All rights reserved. =========
 //
 // appinstance.cpp
 // 

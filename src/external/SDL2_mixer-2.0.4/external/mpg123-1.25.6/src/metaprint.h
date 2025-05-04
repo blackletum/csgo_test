@@ -1,4 +1,4 @@
-/*
+﻿/*
 	metaprint: display of meta data (including filtering of UTF8 to ASCII)
 
 	copyright 2006-2007 by the mpg123 project - free software under the terms of the LGPL 2.1

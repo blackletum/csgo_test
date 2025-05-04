@@ -1,4 +1,4 @@
-//===--- TypoCorrection.h - Class for typo correction results ---*- C++ -*-===//
+﻿//===--- TypoCorrection.h - Class for typo correction results ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- OptSpecifier.h - Option Specifiers ---------------------*- C++ -*-===//
+﻿//===--- OptSpecifier.h - Option Specifiers ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

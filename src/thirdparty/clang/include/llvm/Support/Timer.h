@@ -1,4 +1,4 @@
-//===-- llvm/Support/Timer.h - Interval Timing Support ----------*- C++ -*-===//
+﻿//===-- llvm/Support/Timer.h - Interval Timing Support ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

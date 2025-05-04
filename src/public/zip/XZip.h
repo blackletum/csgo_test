@@ -1,4 +1,4 @@
-// XZip.h  Version 1.1
+﻿// XZip.h  Version 1.1
 //
 // Authors:      Mark Adler et al. (see below)
 //

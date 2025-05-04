@@ -1,4 +1,4 @@
-//========= Copyright (c), Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c), Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Contains a branch-neutral binary packer for KeyValues trees. 
 //

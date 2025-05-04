@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This source file is part of RmlUi, the HTML/CSS Interface Middleware
  *
  * For the latest information, see http://github.com/mikke89/RmlUi

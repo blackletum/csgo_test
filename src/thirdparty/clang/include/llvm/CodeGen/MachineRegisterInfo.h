@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineRegisterInfo.h ----------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineRegisterInfo.h ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

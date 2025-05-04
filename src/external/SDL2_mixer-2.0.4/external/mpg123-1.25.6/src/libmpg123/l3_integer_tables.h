@@ -1,4 +1,4 @@
-/*
+﻿/*
 	l3_integer_tables.h: Layer3 Constant tables for integer decoders
 
 	copyright 1995-2009 by the mpg123 project - free software under the terms of the LGPL 2.1

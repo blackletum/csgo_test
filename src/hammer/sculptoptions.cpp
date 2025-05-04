@@ -1,4 +1,4 @@
-// SculptOptions.cpp : implementation file
+﻿// SculptOptions.cpp : implementation file
 //
 
 #include <stdafx.h>

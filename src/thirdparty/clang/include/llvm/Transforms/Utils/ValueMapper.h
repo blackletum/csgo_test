@@ -1,4 +1,4 @@
-//===- ValueMapper.h - Remapping for constants and metadata -----*- C++ -*-===//
+﻿//===- ValueMapper.h - Remapping for constants and metadata -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

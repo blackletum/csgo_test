@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2008, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Implementation of CDmeTransformControl class, a helper for 
 // modifying a transform. The CDmeTransformControl class implementation

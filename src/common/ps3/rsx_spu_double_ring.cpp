@@ -1,4 +1,4 @@
-//================ Copyright (c) 1996-2010 Valve Corporation. All Rights Reserved. =================
+﻿//================ Copyright (c) 1996-2010 Valve Corporation. All Rights Reserved. =================
 //
 // Double ring buffer used for bidirectional communication between RSX and SPU
 // One ring buffer is (externally managed) jobchain(s) that call into entries in IO address space

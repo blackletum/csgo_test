@@ -1,4 +1,4 @@
-//===--- SelectorLocationsKind.h - Kind of selector locations ---*- C++ -*-===//
+﻿//===--- SelectorLocationsKind.h - Kind of selector locations ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

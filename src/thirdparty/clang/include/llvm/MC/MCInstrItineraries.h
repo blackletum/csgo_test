@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCInstrItineraries.h - Scheduling ---------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCInstrItineraries.h - Scheduling ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===== Copyright � 2013-2013, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright ¿½ 2013-2013, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Class to help with rendering CMDLs & CMergedMDLs to textures.
 //

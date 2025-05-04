@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 //
 // Declaration of CLogGraph, a utility for drawing logs in a graph with scale 
 // and offset.

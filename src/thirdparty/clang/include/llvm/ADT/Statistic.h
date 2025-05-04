@@ -1,4 +1,4 @@
-//===-- llvm/ADT/Statistic.h - Easy way to expose stats ---------*- C++ -*-===//
+﻿//===-- llvm/ADT/Statistic.h - Easy way to expose stats ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- llvm/Support/IncludeFile.h - Ensure Linking Of Library ---*- C++ -*-===//
+﻿//===- llvm/Support/IncludeFile.h - Ensure Linking Of Library ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

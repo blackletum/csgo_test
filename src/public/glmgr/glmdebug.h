@@ -1,4 +1,4 @@
-#ifndef GLMDEBUG_H
+﻿#ifndef GLMDEBUG_H
 #define	GLMDEBUG_H
 
 // include this anywhere you need to be able to compile-out code related specifically to GLM debugging.

@@ -1,4 +1,4 @@
-#ifndef _ISERVERMANAGER_H_
+﻿#ifndef _ISERVERMANAGER_H_
 #define _ISERVERMANAGER_H_
 
 class IServer;

@@ -1,4 +1,4 @@
-#include "render_pch.h"
+﻿#include "render_pch.h"
 
 #if !defined( DEDICATED ) && !defined( _GAMECONSOLE )
 

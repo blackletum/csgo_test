@@ -1,4 +1,4 @@
-//===- Binary.h - A generic binary file -------------------------*- C++ -*-===//
+﻿//===- Binary.h - A generic binary file -------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

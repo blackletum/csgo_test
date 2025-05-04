@@ -1,4 +1,4 @@
-//============== Copyright Valve Corporation, All rights reserved. ============//
+﻿//============== Copyright Valve Corporation, All rights reserved. ============//
 //
 /// Custom chatter rules for bots when playing in cooperative modes
 //

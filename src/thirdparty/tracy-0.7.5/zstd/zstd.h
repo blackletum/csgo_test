@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2016-2020, Yann Collet, Facebook, Inc.
  * All rights reserved.
  *

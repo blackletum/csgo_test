@@ -1,4 +1,4 @@
-//===- llvm/ADT/SmallPtrSet.h - 'Normally small' pointer set ----*- C++ -*-===//
+﻿//===- llvm/ADT/SmallPtrSet.h - 'Normally small' pointer set ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

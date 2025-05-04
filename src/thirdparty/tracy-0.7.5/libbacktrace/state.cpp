@@ -1,4 +1,4 @@
-/* state.c -- Create the backtrace state.
+﻿/* state.c -- Create the backtrace state.
    Copyright (C) 2012-2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

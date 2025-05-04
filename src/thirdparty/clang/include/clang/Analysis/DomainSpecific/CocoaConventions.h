@@ -1,4 +1,4 @@
-//===- CocoaConventions.h - Special handling of Cocoa conventions -*- C++ -*--//
+﻿//===- CocoaConventions.h - Special handling of Cocoa conventions -*- C++ -*--//
 //
 //                     The LLVM Compiler Infrastructure
 //

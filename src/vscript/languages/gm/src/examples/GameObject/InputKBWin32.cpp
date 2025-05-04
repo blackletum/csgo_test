@@ -1,4 +1,4 @@
-//
+﻿//
 // InputKBWin32.cpp
 //
 

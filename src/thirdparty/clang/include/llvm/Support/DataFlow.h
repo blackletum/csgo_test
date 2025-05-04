@@ -1,4 +1,4 @@
-//===-- llvm/Support/DataFlow.h - dataflow as graphs ------------*- C++ -*-===//
+﻿//===-- llvm/Support/DataFlow.h - dataflow as graphs ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

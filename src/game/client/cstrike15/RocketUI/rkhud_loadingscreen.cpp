@@ -1,4 +1,4 @@
-#include "rkhud_loadingscreen.h"
+﻿#include "rkhud_loadingscreen.h"
 
 #include "../../../../thirdparty/RmlUi/Include/RmlUi/Core.h"
 

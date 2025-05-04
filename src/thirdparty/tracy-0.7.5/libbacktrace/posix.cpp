@@ -1,4 +1,4 @@
-/* posix.c -- POSIX file I/O routines for the backtrace library.
+﻿/* posix.c -- POSIX file I/O routines for the backtrace library.
    Copyright (C) 2012-2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

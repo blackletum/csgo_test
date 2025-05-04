@@ -1,4 +1,4 @@
-/* Definitions for bytecode */
+﻿/* Definitions for bytecode */
 
 #ifndef Py_CODE_H
 #define Py_CODE_H

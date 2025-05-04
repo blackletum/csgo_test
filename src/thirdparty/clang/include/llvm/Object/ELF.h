@@ -1,4 +1,4 @@
-//===- ELF.h - ELF object file implementation -------------------*- C++ -*-===//
+﻿//===- ELF.h - ELF object file implementation -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

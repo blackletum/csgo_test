@@ -1,4 +1,4 @@
-/* Copyright (C) 2002-2003 Jean-Marc Valin
+﻿/* Copyright (C) 2002-2003 Jean-Marc Valin
    Copyright (C) 2007-2009 Xiph.Org Foundation */
 /**
    @file stack_alloc.h

@@ -1,4 +1,4 @@
-//===--- MacroInfo.h - Information about #defined identifiers ---*- C++ -*-===//
+﻿//===--- MacroInfo.h - Information about #defined identifiers ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

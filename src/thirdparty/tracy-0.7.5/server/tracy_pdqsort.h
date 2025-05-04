@@ -1,4 +1,4 @@
-/*
+﻿/*
     pdqsort.h - Pattern-defeating quicksort.
 
     Copyright (c) 2015 Orson Peters
@@ -222,7 +222,7 @@ namespace pdqsort_detail {
         }
 
         // The following branchless partitioning is derived from "BlockQuicksort: How Branch
-        // Mispredictions don’t affect Quicksort" by Stefan Edelkamp and Armin Weiss.
+        // Mispredictions don€™t affect Quicksort" by Stefan Edelkamp and Armin Weiss.
         unsigned char offsets_l_storage[block_size + cacheline_size];
         unsigned char offsets_r_storage[block_size + cacheline_size];
         unsigned char* offsets_l = align_cacheline(offsets_l_storage);

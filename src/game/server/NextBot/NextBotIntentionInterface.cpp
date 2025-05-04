@@ -1,4 +1,4 @@
-// NextBotIntentionInterface.cpp
+﻿// NextBotIntentionInterface.cpp
 // Interface for intentional thinking
 // Author: Michael Booth, November 2007
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

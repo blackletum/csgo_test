@@ -1,4 +1,4 @@
-//==--- ImmutableList.h - Immutable (functional) list interface --*- C++ -*-==//
+﻿//==--- ImmutableList.h - Immutable (functional) list interface --*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

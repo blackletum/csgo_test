@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 
 #define CSM_MODE_VERY_LOW_OR_LOW 	(0)
 #define CSM_MODE_MEDIUM 			(1)

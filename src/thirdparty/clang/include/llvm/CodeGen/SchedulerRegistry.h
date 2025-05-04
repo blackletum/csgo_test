@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/SchedulerRegistry.h ------------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/SchedulerRegistry.h ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

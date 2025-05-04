@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_ROUNDTIMER_H
+﻿#ifndef KISAKSTRIKE_RKHUD_ROUNDTIMER_H
 #define KISAKSTRIKE_RKHUD_ROUNDTIMER_H
 
 #include <rocketui/rocketui.h>

@@ -1,4 +1,4 @@
-#ifndef CPU_MONITORING_H
+﻿#ifndef CPU_MONITORING_H
 #define CPU_MONITORING_H
 
 /*

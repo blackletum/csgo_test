@@ -1,4 +1,4 @@
-//===-- ExprEngine.h - Path-Sensitive Expression-Level Dataflow ---*- C++ -*-=//
+﻿//===-- ExprEngine.h - Path-Sensitive Expression-Level Dataflow ---*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: data structures that studiomdl writes to disk and vphysics.dll is able to map 
 //          and use directly in memory without patching or processing.

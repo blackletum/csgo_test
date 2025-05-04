@@ -1,4 +1,4 @@
-
+﻿
 /* Tuple object interface */
 
 #ifndef Py_STRUCTSEQ_H

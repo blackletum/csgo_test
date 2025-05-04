@@ -1,4 +1,4 @@
-#ifndef GAMEOBJ_H
+﻿#ifndef GAMEOBJ_H
 #define GAMEOBJ_H
 
 #include "gmThread.h"

@@ -1,4 +1,4 @@
-//===== Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ====//
+﻿//===== Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ====//
 //
 // Purpose: Contains all utility methods for the new game UI system
 //

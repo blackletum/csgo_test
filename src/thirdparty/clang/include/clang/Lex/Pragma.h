@@ -1,4 +1,4 @@
-//===--- Pragma.h - Pragma registration and handling ------------*- C++ -*-===//
+﻿//===--- Pragma.h - Pragma registration and handling ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

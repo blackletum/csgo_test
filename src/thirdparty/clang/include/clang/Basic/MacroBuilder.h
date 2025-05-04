@@ -1,4 +1,4 @@
-//===--- MacroBuilder.h - CPP Macro building utility ------------*- C++ -*-===//
+﻿//===--- MacroBuilder.h - CPP Macro building utility ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

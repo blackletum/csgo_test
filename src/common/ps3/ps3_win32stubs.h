@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2004, Valve LLC, All rights reserved. ============
+﻿//========= Copyright © 1996-2004, Valve LLC, All rights reserved. ============
 //
 // Purpose: PS3 win32 replacements - Mocks trivial windows flow
 //

@@ -1,4 +1,4 @@
-/* Unicode name database interface */
+﻿/* Unicode name database interface */
 
 #ifndef Py_UCNHASH_H
 #define Py_UCNHASH_H

@@ -1,4 +1,4 @@
-//=== AnalysisContext.h - Analysis context for Path Sens analysis --*- C++ -*-//
+﻿//=== AnalysisContext.h - Analysis context for Path Sens analysis --*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

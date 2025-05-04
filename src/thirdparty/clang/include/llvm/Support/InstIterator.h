@@ -1,4 +1,4 @@
-//===- llvm/Support/InstIterator.h - Classes for inst iteration -*- C++ -*-===//
+﻿//===- llvm/Support/InstIterator.h - Classes for inst iteration -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

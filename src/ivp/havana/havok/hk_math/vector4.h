@@ -1,4 +1,4 @@
-#ifndef HK_VECTOR4_H
+﻿#ifndef HK_VECTOR4_H
 #define HK_VECTOR4_H
 
 #ifndef HK_MATH_VECMATH_H

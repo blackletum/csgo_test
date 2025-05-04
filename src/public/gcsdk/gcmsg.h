@@ -1,4 +1,4 @@
-//====== Copyright (c), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (c), Valve Corporation, All rights reserved. =======
 //
 // Purpose: This file defines all of the Game Coordinator messages for the
 //			current IS-embedded implementation of the GC

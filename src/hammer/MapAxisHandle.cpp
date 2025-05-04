@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A helper that represents the axis of rotation for a rotating entity.
 //			When selected, it exposes handles for the endpoints of the axis.

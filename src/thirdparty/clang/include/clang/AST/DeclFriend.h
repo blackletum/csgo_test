@@ -1,4 +1,4 @@
-//===-- DeclFriend.h - Classes for C++ friend declarations -*- C++ -*------===//
+﻿//===-- DeclFriend.h - Classes for C++ friend declarations -*- C++ -*------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

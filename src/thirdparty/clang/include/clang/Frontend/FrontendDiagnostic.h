@@ -1,4 +1,4 @@
-//===--- DiagnosticFrontend.h - Diagnostics for frontend --------*- C++ -*-===//
+﻿//===--- DiagnosticFrontend.h - Diagnostics for frontend --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

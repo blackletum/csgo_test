@@ -1,4 +1,4 @@
-#ifndef TIER1_STRTOOLS_INLINES_H
+﻿#ifndef TIER1_STRTOOLS_INLINES_H
 #define TIER1_STRTOOLS_INLINES_H
 
 inline int	_V_strlen_inline( const char *str )

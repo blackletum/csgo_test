@@ -1,4 +1,4 @@
-//===--- SourceManagerInternals.h - SourceManager Internals -----*- C++ -*-===//
+﻿//===--- SourceManagerInternals.h - SourceManager Internals -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

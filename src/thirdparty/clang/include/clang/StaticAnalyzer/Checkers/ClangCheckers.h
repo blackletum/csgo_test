@@ -1,4 +1,4 @@
-//===--- ClangCheckers.h - Provides builtin checkers ------------*- C++ -*-===//
+﻿//===--- ClangCheckers.h - Provides builtin checkers ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

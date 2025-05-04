@@ -1,4 +1,4 @@
-//===-- llvm/Argument.h - Definition of the Argument class ------*- C++ -*-===//
+﻿//===-- llvm/Argument.h - Definition of the Argument class ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

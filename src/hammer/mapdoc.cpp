@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 //
 // The map document. Exposes functions for object creation, deletion, and manipulation.
 // Holds a pointer to the world, which may contain func_instances which contain sub-worlds.

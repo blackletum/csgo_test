@@ -1,4 +1,4 @@
-/* fileline.c -- Get file and line number information in a backtrace.
+﻿/* fileline.c -- Get file and line number information in a backtrace.
    Copyright (C) 2012-2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

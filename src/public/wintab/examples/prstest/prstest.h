@@ -1,4 +1,4 @@
-#define IDM_ABOUT 100
+﻿#define IDM_ABOUT 100
 
 int PASCAL WinMain(HANDLE, HANDLE, LPSTR, int);
 BOOL InitApplication(HANDLE);

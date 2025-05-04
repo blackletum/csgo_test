@@ -1,4 +1,4 @@
-/*===-- include/Support/DataTypes.h - Define fixed size types -----*- C -*-===*\
+﻿/*===-- include/Support/DataTypes.h - Define fixed size types -----*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

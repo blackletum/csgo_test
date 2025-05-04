@@ -1,4 +1,4 @@
-//===-- OProfileWrapper.h - OProfile JIT API Wrapper ------------*- C++ -*-===//
+﻿//===-- OProfileWrapper.h - OProfile JIT API Wrapper ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

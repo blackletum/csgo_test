@@ -1,4 +1,4 @@
-#ifndef HK_BASE_HASH_H
+﻿#ifndef HK_BASE_HASH_H
 #define HK_BASE_HASH_H
 
 

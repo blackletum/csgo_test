@@ -1,4 +1,4 @@
-//===--- AST.h - "Umbrella" header for AST library --------------*- C++ -*-===//
+﻿//===--- AST.h - "Umbrella" header for AST library --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

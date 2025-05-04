@@ -1,4 +1,4 @@
-//===--- StmtCXX.h - Classes for representing C++ statements ----*- C++ -*-===//
+﻿//===--- StmtCXX.h - Classes for representing C++ statements ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

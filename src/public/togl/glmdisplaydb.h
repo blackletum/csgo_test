@@ -1,4 +1,4 @@
-#ifndef GLMDISPLAYDB_H
+﻿#ifndef GLMDISPLAYDB_H
 #define	GLMDISPLAYDB_H
 
 #include "tier1/utlvector.h"

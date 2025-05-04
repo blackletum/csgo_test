@@ -1,4 +1,4 @@
-//===--- BaseSubobject.h - BaseSubobject class ----------------------------===//
+﻿//===--- BaseSubobject.h - BaseSubobject class ----------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

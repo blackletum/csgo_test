@@ -1,4 +1,4 @@
-//===----- ResourcePriorityQueue.h - A DFA-oriented priority queue -------===//
+﻿//===----- ResourcePriorityQueue.h - A DFA-oriented priority queue -------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

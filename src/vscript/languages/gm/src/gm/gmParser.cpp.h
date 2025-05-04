@@ -1,4 +1,4 @@
-#ifndef YYSTYPE
+﻿#ifndef YYSTYPE
 #define YYSTYPE int
 #endif
 #define	KEYWORD_LOCAL	258

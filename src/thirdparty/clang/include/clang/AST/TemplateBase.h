@@ -1,4 +1,4 @@
-//===-- TemplateBase.h - Core classes for C++ templates ---------*- C++ -*-===//
+﻿//===-- TemplateBase.h - Core classes for C++ templates ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

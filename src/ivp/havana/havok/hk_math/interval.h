@@ -1,4 +1,4 @@
-#ifndef HK_MATH_INTERVAL_H
+﻿#ifndef HK_MATH_INTERVAL_H
 #define HK_MATH_INTERVAL_H
 
 template <class T>

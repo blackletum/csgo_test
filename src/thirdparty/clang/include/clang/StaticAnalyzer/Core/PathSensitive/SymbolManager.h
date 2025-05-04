@@ -1,4 +1,4 @@
-//== SymbolManager.h - Management of Symbolic Values ------------*- C++ -*--==//
+﻿//== SymbolManager.h - Management of Symbolic Values ------------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

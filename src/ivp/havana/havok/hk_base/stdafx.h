@@ -1,4 +1,4 @@
-//
+﻿//
 // Created by melvyn on 10/22/20.
 //
 // Purpose: Builds the precompiled header for the hk_base library

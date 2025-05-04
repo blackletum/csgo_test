@@ -1,4 +1,4 @@
-//===--- ASTMatchersMacros.h - Structural query framework -------*- C++ -*-===//
+﻿//===--- ASTMatchersMacros.h - Structural query framework -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//============ Copyright  Valve Corporation, All rights reserved. =============
+﻿//============ Copyright  Valve Corporation, All rights reserved. =============
 //
 // When embroidered patches are generated from sticker kits, we must wait
 // for the textures to be generated before saving to disk.

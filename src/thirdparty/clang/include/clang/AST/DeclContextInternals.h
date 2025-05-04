@@ -1,4 +1,4 @@
-//===-- DeclContextInternals.h - DeclContext Representation -----*- C++ -*-===//
+﻿//===-- DeclContextInternals.h - DeclContext Representation -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

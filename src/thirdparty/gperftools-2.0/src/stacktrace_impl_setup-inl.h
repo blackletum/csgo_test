@@ -1,4 +1,4 @@
-// -*- Mode: C++; c-basic-offset: 2; indent-tabs-mode: nil -*-
+﻿// -*- Mode: C++; c-basic-offset: 2; indent-tabs-mode: nil -*-
 // NOTE: this is NOT to be #include-d normally. It's internal
 // implementation detail of stacktrace.cc
 //

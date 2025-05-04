@@ -1,4 +1,4 @@
-// This is the main DLL file.
+﻿// This is the main DLL file.
 
 #include "stdafx.h"
 

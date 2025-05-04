@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 //
 // C runtime and standard library wrappers / equivalents / upgrades.
 // Allows centralization of CRT and CRT-like code and consistent behavior across platforms.

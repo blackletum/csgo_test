@@ -1,4 +1,4 @@
-//===--- StringRef.h - Constant String Reference Wrapper --------*- C++ -*-===//
+﻿//===--- StringRef.h - Constant String Reference Wrapper --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

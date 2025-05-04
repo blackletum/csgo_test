@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // Functionality to handle collation of shader debugging metadata 
 // (i.e. shader PDBs) sent from shadercompile workers to the master.

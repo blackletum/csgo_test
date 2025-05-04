@@ -1,4 +1,4 @@
-//===--- CC1AsOptions.h - Clang Assembler Options Table ---------*- C++ -*-===//
+﻿//===--- CC1AsOptions.h - Clang Assembler Options Table ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#ifndef HK_BASE_CONSOLE_H
+﻿#ifndef HK_BASE_CONSOLE_H
 #define HK_BASE_CONSOLE_H
 
 class hk_Console 

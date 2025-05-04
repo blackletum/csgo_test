@@ -1,4 +1,4 @@
-#ifndef HK_MATH_PLANE_H
+﻿#ifndef HK_MATH_PLANE_H
 #define HK_MATH_PLANE_H
 
 //: XXX

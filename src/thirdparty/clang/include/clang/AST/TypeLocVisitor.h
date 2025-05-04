@@ -1,4 +1,4 @@
-//===--- TypeLocVisitor.h - Visitor for TypeLoc subclasses ------*- C++ -*-===//
+﻿//===--- TypeLocVisitor.h - Visitor for TypeLoc subclasses ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

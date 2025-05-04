@@ -1,4 +1,4 @@
-//===- llvm/ADT/SparseBitVector.h - Efficient Sparse BitVector -*- C++ -*- ===//
+﻿//===- llvm/ADT/SparseBitVector.h - Efficient Sparse BitVector -*- C++ -*- ===//
 //
 //                     The LLVM Compiler Infrastructure
 //

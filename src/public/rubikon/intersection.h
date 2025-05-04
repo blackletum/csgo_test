@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 #ifndef RUBIKON_INTERSECTION_ATTRIBUTES_HDR
 #define RUBIKON_INTERSECTION_ATTRIBUTES_HDR
 

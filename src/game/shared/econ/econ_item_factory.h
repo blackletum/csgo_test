@@ -1,4 +1,4 @@
-//====== Copyright �, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright ©, Valve Corporation, All rights reserved. =======
 //
 // Purpose: EconItemFactory: Manages rolling for items requested by the game server
 //

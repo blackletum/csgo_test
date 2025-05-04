@@ -1,4 +1,4 @@
-//===--- DependencyOutputOptions.h ------------------------------*- C++ -*-===//
+﻿//===--- DependencyOutputOptions.h ------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

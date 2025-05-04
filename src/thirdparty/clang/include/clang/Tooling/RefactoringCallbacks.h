@@ -1,4 +1,4 @@
-//===--- RefactoringCallbacks.h - Structural query framework ----*- C++ -*-===//
+﻿//===--- RefactoringCallbacks.h - Structural query framework ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

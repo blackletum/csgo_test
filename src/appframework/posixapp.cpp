@@ -1,4 +1,4 @@
-//====== Copyright  1996-2005, Valve Corporation, All rights reserved. =======//
+﻿//====== Copyright  1996-2005, Valve Corporation, All rights reserved. =======//
 //
 // Purpose: Pieces of the application framework, shared between POSIX systems (Mac OS X, Linux, etc)
 //

@@ -1,4 +1,4 @@
-// NextBotAttentionInterface.h
+﻿// NextBotAttentionInterface.h
 // Manage what this bot pays attention to
 // Author: Michael Booth, April 2007
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

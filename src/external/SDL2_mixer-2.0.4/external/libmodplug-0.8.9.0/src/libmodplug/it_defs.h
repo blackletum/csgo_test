@@ -1,4 +1,4 @@
-#ifndef _ITDEFS_H_
+﻿#ifndef _ITDEFS_H_
 #define _ITDEFS_H_
 
 #pragma pack(1)

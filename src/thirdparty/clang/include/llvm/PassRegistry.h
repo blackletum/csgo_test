@@ -1,4 +1,4 @@
-//===- llvm/PassRegistry.h - Pass Information Registry ----------*- C++ -*-===//
+﻿//===- llvm/PassRegistry.h - Pass Information Registry ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

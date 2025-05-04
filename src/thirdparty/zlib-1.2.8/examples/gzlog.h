@@ -1,4 +1,4 @@
-/* gzlog.h
+﻿/* gzlog.h
   Copyright (C) 2004, 2008, 2012 Mark Adler, all rights reserved
   version 2.2, 14 Aug 2012
 

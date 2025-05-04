@@ -1,4 +1,4 @@
-/*===-- llvm-c/Initialization.h - Initialization C Interface ------*- C -*-===*\
+﻿/*===-- llvm-c/Initialization.h - Initialization C Interface ------*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

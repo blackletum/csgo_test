@@ -1,4 +1,4 @@
-//===--- LLVM.h - Import various common LLVM datatypes ----------*- C++ -*-===//
+﻿//===--- LLVM.h - Import various common LLVM datatypes ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

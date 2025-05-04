@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2008, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2008, Valve Corporation, All rights reserved. ======//
 #ifndef SHADERAPI_ISHADERSHADOW_DECLARATIONS_H
 #define SHADERAPI_ISHADERSHADOW_DECLARATIONS_H
 

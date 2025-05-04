@@ -1,4 +1,4 @@
-//===- BuildLibCalls.h - Utility builder for libcalls -----------*- C++ -*-===//
+﻿//===- BuildLibCalls.h - Utility builder for libcalls -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

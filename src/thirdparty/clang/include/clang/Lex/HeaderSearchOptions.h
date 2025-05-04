@@ -1,4 +1,4 @@
-//===--- HeaderSearchOptions.h ----------------------------------*- C++ -*-===//
+﻿//===--- HeaderSearchOptions.h ----------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

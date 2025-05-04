@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #if !defined( JOB_SNDUPSAMPLER_SHARED_HDR ) && defined( _PS3 )
 #define JOB_SNDUPSAMPLER_SHARED_HDR
 

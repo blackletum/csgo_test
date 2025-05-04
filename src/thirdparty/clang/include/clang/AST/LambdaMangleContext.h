@@ -1,4 +1,4 @@
-//===--- LambdaMangleContext.h - Context for mangling lambdas ---*- C++ -*-===//
+﻿//===--- LambdaMangleContext.h - Context for mangling lambdas ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

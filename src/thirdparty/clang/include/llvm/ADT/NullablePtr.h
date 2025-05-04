@@ -1,4 +1,4 @@
-//===- llvm/ADT/NullablePtr.h - A pointer that allows null ------*- C++ -*-===//
+﻿//===- llvm/ADT/NullablePtr.h - A pointer that allows null ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

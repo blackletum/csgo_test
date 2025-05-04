@@ -1,4 +1,4 @@
-//===-- ARCMT.h - ARC Migration Rewriter ------------------------*- C++ -*-===//
+﻿//===-- ARCMT.h - ARC Migration Rewriter ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

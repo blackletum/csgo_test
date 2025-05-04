@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCFixupKindInfo.h - Fixup Descriptors -----------*- C++ -*-===//
+﻿//===-- llvm/MC/MCFixupKindInfo.h - Fixup Descriptors -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

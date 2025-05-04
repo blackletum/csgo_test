@@ -1,4 +1,4 @@
-// SValBuilder.h - Construction of SVals from evaluating expressions -*- C++ -*-
+﻿// SValBuilder.h - Construction of SVals from evaluating expressions -*- C++ -*-
 //
 //                     The LLVM Compiler Infrastructure
 //

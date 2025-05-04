@@ -1,4 +1,4 @@
-/*
+﻿/*
  *   Copyright (c) 1997-8  S3 Inc.  All Rights Reserved.
  *
  *   Module Name:  s3_intrf.h

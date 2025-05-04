@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCFixup.h - Instruction Relocation and Patching -*- C++ -*-===//
+﻿//===-- llvm/MC/MCFixup.h - Instruction Relocation and Patching -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

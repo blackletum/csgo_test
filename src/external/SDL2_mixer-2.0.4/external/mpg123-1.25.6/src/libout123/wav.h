@@ -1,4 +1,4 @@
-/*
+﻿/*
 	wav.c: write wav/au/cdr files (and headerless raw)
 
 	copyright ?-2015 by the mpg123 project - free software under the terms of the LGPL 2.1

@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // ETW (Event Tracing for Windows) profiling helpers.
 // This allows easy insertion of Generic Event markers into ETW/xperf tracing

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This source code is public domain.
  *
  * Authors: Olivier Lapicque <olivierl@jps.net>

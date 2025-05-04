@@ -1,4 +1,4 @@
-//===--- Watchdog.h - Watchdog timer ----------------------------*- C++ -*-===//
+﻿//===--- Watchdog.h - Watchdog timer ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

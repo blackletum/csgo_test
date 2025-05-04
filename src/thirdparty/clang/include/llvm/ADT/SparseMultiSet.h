@@ -1,4 +1,4 @@
-//===--- llvm/ADT/SparseMultiSet.h - Sparse multiset ------------*- C++ -*-===//
+﻿//===--- llvm/ADT/SparseMultiSet.h - Sparse multiset ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

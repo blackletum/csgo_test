@@ -1,10 +1,10 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 //-------------------------------------------------------------
 // File:		BorderedPanel.cpp
 // Desc: 		
 // Author: 		Peter Freese <peter@hiddenpath.com>
 // Date: 		2009/05/20
-// Copyright:	� 2009 Hidden Path Entertainment
+// Copyright:	© 2009 Hidden Path Entertainment
 //-------------------------------------------------------------
 
 #include "cbase.h"

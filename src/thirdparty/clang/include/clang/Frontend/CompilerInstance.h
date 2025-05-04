@@ -1,4 +1,4 @@
-//===-- CompilerInstance.h - Clang Compiler Instance ------------*- C++ -*-===//
+﻿//===-- CompilerInstance.h - Clang Compiler Instance ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

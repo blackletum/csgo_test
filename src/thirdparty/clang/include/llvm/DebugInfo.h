@@ -1,4 +1,4 @@
-//===--- llvm/Analysis/DebugInfo.h - Debug Information Helpers --*- C++ -*-===//
+﻿//===--- llvm/Analysis/DebugInfo.h - Debug Information Helpers --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

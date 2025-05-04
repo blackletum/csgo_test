@@ -1,4 +1,4 @@
-//===-- HeuristcBase.h --- Heuristic base class for PBQP --------*- C++ -*-===//
+﻿//===-- HeuristcBase.h --- Heuristic base class for PBQP --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

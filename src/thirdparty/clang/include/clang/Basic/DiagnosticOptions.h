@@ -1,4 +1,4 @@
-//===--- DiagnosticOptions.h ------------------------------------*- C++ -*-===//
+﻿//===--- DiagnosticOptions.h ------------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

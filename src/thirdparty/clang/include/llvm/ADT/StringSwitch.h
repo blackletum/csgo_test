@@ -1,4 +1,4 @@
-//===--- StringSwitch.h - Switch-on-literal-string Construct --------------===/
+﻿//===--- StringSwitch.h - Switch-on-literal-string Construct --------------===/
 //
 //                     The LLVM Compiler Infrastructure
 //

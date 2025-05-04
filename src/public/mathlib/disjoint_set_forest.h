@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 
 
 #ifndef MATHLIB_DISJOINT_SET_FOREST_HDR

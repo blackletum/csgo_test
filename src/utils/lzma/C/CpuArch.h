@@ -1,4 +1,4 @@
-/* CpuArch.h -- CPU specific code
+﻿/* CpuArch.h -- CPU specific code
 2013-11-12: Igor Pavlov : Public domain */
 
 #ifndef __CPU_ARCH_H

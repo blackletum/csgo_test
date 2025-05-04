@@ -1,4 +1,4 @@
-#ifndef __QUICKJOIN_GROUPS_H__
+﻿#ifndef __QUICKJOIN_GROUPS_H__
 #define __QUICKJOIN_GROUPS_H__
 
 #include "VQuickJoin.h"

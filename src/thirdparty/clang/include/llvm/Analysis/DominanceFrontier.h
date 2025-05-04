@@ -1,4 +1,4 @@
-//===- llvm/Analysis/DominanceFrontier.h - Dominator Frontiers --*- C++ -*-===//
+﻿//===- llvm/Analysis/DominanceFrontier.h - Dominator Frontiers --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

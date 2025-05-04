@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_PAUSEMENU_H
+﻿#ifndef KISAKSTRIKE_RKHUD_PAUSEMENU_H
 #define KISAKSTRIKE_RKHUD_PAUSEMENU_H
 
 #include <rocketui/rocketui.h>

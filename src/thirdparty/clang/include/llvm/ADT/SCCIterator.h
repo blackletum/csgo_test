@@ -1,4 +1,4 @@
-//===---- ADT/SCCIterator.h - Strongly Connected Comp. Iter. ----*- C++ -*-===//
+﻿//===---- ADT/SCCIterator.h - Strongly Connected Comp. Iter. ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

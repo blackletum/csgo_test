@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 //
 // Singleton dialog that generates and presents the entity report.
 //

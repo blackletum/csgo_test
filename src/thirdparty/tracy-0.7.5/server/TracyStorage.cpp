@@ -1,4 +1,4 @@
-#ifdef __MINGW32__
+﻿#ifdef __MINGW32__
 #  define __STDC_FORMAT_MACROS
 #endif
 #include <assert.h>

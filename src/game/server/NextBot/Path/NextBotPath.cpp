@@ -1,4 +1,4 @@
-// NextBotPath.cpp
+﻿// NextBotPath.cpp
 // Encapsulate and manipulate a path through the world
 // Author: Michael Booth, February 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

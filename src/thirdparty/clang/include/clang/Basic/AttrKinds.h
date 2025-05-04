@@ -1,4 +1,4 @@
-//===----- Attr.h - Enum values for C Attribute Kinds ----------*- C++ -*-===//
+﻿//===----- Attr.h - Enum values for C Attribute Kinds ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

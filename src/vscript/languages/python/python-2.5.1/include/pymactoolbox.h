@@ -1,4 +1,4 @@
-/*
+﻿/*
 ** pymactoolbox.h - globals defined in mactoolboxglue.c
 */
 #ifndef Py_PYMACTOOLBOX_H

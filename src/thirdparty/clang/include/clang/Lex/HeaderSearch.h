@@ -1,4 +1,4 @@
-//===--- HeaderSearch.h - Resolve Header File Locations ---------*- C++ -*-===//
+﻿//===--- HeaderSearch.h - Resolve Header File Locations ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

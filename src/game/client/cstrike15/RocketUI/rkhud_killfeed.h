@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_KILLFEED_H
+﻿#ifndef KISAKSTRIKE_RKHUD_KILLFEED_H
 #define KISAKSTRIKE_RKHUD_KILLFEED_H
 
 #include <rocketui/rocketui.h>

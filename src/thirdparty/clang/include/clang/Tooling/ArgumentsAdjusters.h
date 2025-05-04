@@ -1,4 +1,4 @@
-//===--- ArgumentsAdjusters.h - Command line arguments adjuster -*- C++ -*-===//
+﻿//===--- ArgumentsAdjusters.h - Command line arguments adjuster -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetELFWriterInfo.h - ELF Writer Info -----*- C++ -*-===//
+﻿//===-- llvm/Target/TargetELFWriterInfo.h - ELF Writer Info -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

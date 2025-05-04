@@ -1,4 +1,4 @@
-//===--- TargetCXXABI.h - C++ ABI Target Configuration ----------*- C++ -*-===//
+﻿//===--- TargetCXXABI.h - C++ ABI Target Configuration ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

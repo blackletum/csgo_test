@@ -1,4 +1,4 @@
-/*  timefuncs.h
+﻿/*  timefuncs.h
  */
 
 /* Utility function related to timemodule.c. */

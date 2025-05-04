@@ -1,4 +1,4 @@
-//===--- ImmutableSet.h - Immutable (functional) set interface --*- C++ -*-===//
+﻿//===--- ImmutableSet.h - Immutable (functional) set interface --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

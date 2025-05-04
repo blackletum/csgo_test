@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 //
 // PS3 test shader
 //

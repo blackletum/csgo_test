@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 // 
 // Functions for UCS/UTF/Unicode string operations. These functions are in vstdlib
 // instead of tier1, because on PS/3 they need to load and initialize a system module,

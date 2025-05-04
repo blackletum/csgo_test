@@ -1,4 +1,4 @@
-//===--- Parser.h - C Language Parser ---------------------------*- C++ -*-===//
+﻿//===--- Parser.h - C Language Parser ---------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // Purpose: performs serialization for CSOAContainer (avoids tier1 depending on datamodel)
 //

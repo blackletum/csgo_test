@@ -1,4 +1,4 @@
-#include "basetypes.h"
+﻿#include "basetypes.h"
 #include "commonmacros.h"
 
 #include "SDL.h"

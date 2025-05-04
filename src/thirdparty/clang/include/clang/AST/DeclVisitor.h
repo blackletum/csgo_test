@@ -1,4 +1,4 @@
-//===--- DeclVisitor.h - Visitor for Decl subclasses ------------*- C++ -*-===//
+﻿//===--- DeclVisitor.h - Visitor for Decl subclasses ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

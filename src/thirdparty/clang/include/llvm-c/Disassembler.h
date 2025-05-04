@@ -1,4 +1,4 @@
-/*===-- llvm-c/Disassembler.h - Disassembler Public C Interface ---*- C -*-===*\
+﻿/*===-- llvm-c/Disassembler.h - Disassembler Public C Interface ---*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

@@ -1,4 +1,4 @@
-#define MODULE_TEMPLATEC2(mod)											\
+﻿#define MODULE_TEMPLATEC2(mod)											\
 																		\
 																		\
 	extern void __ ## mod ## unlink(void);								\

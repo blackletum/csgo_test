@@ -1,4 +1,4 @@
-/* test_libFLAC - Unit tester for libFLAC
+﻿/* test_libFLAC - Unit tester for libFLAC
  * Copyright (C) 2014-2016  Xiph.Org Foundation
  *
  * This program is free software; you can redistribute it and/or

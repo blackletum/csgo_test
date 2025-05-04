@@ -1,4 +1,4 @@
-// func_elevator.cpp
+﻿// func_elevator.cpp
 // Copyright 2007 Turtle Rock Studios, Inc.
 
 #include "cbase.h"

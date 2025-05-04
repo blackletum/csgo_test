@@ -1,4 +1,4 @@
-// ChildView.h : interface of the CChildView class
+﻿// ChildView.h : interface of the CChildView class
 //
 /////////////////////////////////////////////////////////////////////////////
 //  See Copyright Notice in gmMachine.h

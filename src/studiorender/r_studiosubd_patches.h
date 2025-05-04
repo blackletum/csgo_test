@@ -1,4 +1,4 @@
-#ifndef R_STUDIOSUBD_PATCHES_H
+﻿#ifndef R_STUDIOSUBD_PATCHES_H
 #define R_STUDIOSUBD_PATCHES_H
 
 // Maximum valence we expect to encounter for extraordinary vertices

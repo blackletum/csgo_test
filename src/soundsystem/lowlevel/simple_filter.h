@@ -1,4 +1,4 @@
-#include "mathlib/ssemath.h"
+﻿#include "mathlib/ssemath.h"
 
 struct biquad_filter_coefficients_t
 {

@@ -1,4 +1,4 @@
-//====-- llvm/Support/TargetFolder.h - Constant folding helper -*- C++ -*-====//
+﻿//====-- llvm/Support/TargetFolder.h - Constant folding helper -*- C++ -*-====//
 //
 //                     The LLVM Compiler Infrastructure
 //

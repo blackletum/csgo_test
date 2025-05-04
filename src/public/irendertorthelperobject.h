@@ -1,4 +1,4 @@
-//===== Copyright � 2013-2013, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 2013-2013, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Interface to help with rendering CMDLs & CMergedMDLs to textures.
 //

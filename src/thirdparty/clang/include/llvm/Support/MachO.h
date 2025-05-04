@@ -1,4 +1,4 @@
-//===-- llvm/Support/MachO.h - The MachO file format ------------*- C++ -*-===//
+﻿//===-- llvm/Support/MachO.h - The MachO file format ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

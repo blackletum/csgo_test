@@ -1,4 +1,4 @@
-//===- llvm/ADT/IndexedMap.h - An index map implementation ------*- C++ -*-===//
+﻿//===- llvm/ADT/IndexedMap.h - An index map implementation ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

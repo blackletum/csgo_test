@@ -1,4 +1,4 @@
-/* elf.c -- Get debug data from a Mach-O file for backtraces.
+﻿/* elf.c -- Get debug data from a Mach-O file for backtraces.
    Copyright (C) 2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

@@ -1,4 +1,4 @@
-//===-- RelocVisitor.h - Visitor for object file relocations -*- C++ -*-===//
+﻿//===-- RelocVisitor.h - Visitor for object file relocations -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

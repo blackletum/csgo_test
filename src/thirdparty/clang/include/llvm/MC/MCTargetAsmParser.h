@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCTargetAsmParser.h - Target Assembly Parser ----*- C++ -*-===//
+﻿//===-- llvm/MC/MCTargetAsmParser.h - Target Assembly Parser ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

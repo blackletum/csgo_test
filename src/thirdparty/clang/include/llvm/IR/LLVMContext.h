@@ -1,4 +1,4 @@
-//===-- llvm/LLVMContext.h - Class for managing "global" state --*- C++ -*-===//
+﻿//===-- llvm/LLVMContext.h - Class for managing "global" state --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

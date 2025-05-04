@@ -1,4 +1,4 @@
-/* FLAC - Free Lossless Audio Codec
+﻿/* FLAC - Free Lossless Audio Codec
  * Copyright (C) 2015-2016  Xiph.Org Foundation
  *
  * Redistribution and use in source and binary forms, with or without

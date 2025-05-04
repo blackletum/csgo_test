@@ -1,4 +1,4 @@
-/*
+﻿/*
 	NOTE:
 	I cannot get the vanilla getopt code to work (i.e. compile only what
 	is needed and not duplicate symbols found in the standard library)

@@ -1,4 +1,4 @@
-//=== MC/MCRegisterInfo.h - Target Register Description ---------*- C++ -*-===//
+﻿//=== MC/MCRegisterInfo.h - Target Register Description ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

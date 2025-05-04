@@ -1,4 +1,4 @@
-//====== Copyright (c), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (c), Valve Corporation, All rights reserved. =======
 //
 // Purpose: Implements singleton datacache with support for yielding updates
 //

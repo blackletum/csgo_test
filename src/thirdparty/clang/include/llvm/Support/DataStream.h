@@ -1,4 +1,4 @@
-//===---- llvm/Support/DataStream.h - Lazy bitcode streaming ----*- C++ -*-===//
+﻿//===---- llvm/Support/DataStream.h - Lazy bitcode streaming ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

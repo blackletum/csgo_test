@@ -1,4 +1,4 @@
-//===== Copyright Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright Valve Corporation, All rights reserved. ======//
 //
 // Helper class to manager clients making requests for published file information and polling the results at a later time 
 //

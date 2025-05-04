@@ -1,4 +1,4 @@
-/*===
+﻿/*===
 cexcept.h 2.0.1 (2008-Jul-19-Sat)
 http://www.nicemice.net/cexcept/
 Adam M. Costello

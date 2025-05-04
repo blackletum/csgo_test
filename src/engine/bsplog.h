@@ -1,4 +1,4 @@
-//===== Copyright � Valve Corporation, All rights reserved. ========//
+﻿//===== Copyright © Valve Corporation, All rights reserved. ========//
 #ifndef BSP_LOG_HDR
 #define BSP_LOG_HDR
 

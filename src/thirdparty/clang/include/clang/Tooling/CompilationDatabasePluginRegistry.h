@@ -1,4 +1,4 @@
-//===--- CompilationDatabasePluginRegistry.h - ------------------*- C++ -*-===//
+﻿//===--- CompilationDatabasePluginRegistry.h - ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

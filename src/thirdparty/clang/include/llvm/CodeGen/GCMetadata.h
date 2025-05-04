@@ -1,4 +1,4 @@
-//===-- GCMetadata.h - Garbage collector metadata ---------------*- C++ -*-===//
+﻿//===-- GCMetadata.h - Garbage collector metadata ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

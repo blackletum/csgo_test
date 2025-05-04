@@ -1,4 +1,4 @@
-//===-- SaveAndRestore.h - Utility  -------------------------------*- C++ -*-=//
+﻿//===-- SaveAndRestore.h - Utility  -------------------------------*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

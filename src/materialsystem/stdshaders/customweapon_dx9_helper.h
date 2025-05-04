@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 
 #ifndef CUSTOMWEAPON_HELPER_H
 #define CUSTOMWEAPON_HELPER_H

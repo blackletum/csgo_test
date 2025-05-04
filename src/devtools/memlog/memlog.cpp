@@ -1,4 +1,4 @@
-// memlog.cpp : mines memory data from vxconsole logs (see game/client/c_memorylog.cpp)
+﻿// memlog.cpp : mines memory data from vxconsole logs (see game/client/c_memorylog.cpp)
 
 #include "utlbuffer.h"
 

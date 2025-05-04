@@ -1,4 +1,4 @@
-
+﻿
 #ifndef Py_BITSET_H
 #define Py_BITSET_H
 #ifdef __cplusplus

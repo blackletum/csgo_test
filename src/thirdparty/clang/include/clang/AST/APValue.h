@@ -1,4 +1,4 @@
-//===--- APValue.h - Union class for APFloat/APSInt/Complex -----*- C++ -*-===//
+﻿//===--- APValue.h - Union class for APFloat/APSInt/Complex -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

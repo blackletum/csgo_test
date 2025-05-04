@@ -1,4 +1,4 @@
-//===--- TokenRewriter.h - Token-based Rewriter -----------------*- C++ -*-===//
+﻿//===--- TokenRewriter.h - Token-based Rewriter -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

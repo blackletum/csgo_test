@@ -1,4 +1,4 @@
-//===--- TextDiagnostic.h - Text Diagnostic Pretty-Printing -----*- C++ -*-===//
+﻿//===--- TextDiagnostic.h - Text Diagnostic Pretty-Printing -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

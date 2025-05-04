@@ -1,4 +1,4 @@
-//===--- Comment.h - Comment AST nodes --------------------------*- C++ -*-===//
+﻿//===--- Comment.h - Comment AST nodes --------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

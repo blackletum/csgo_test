@@ -1,4 +1,4 @@
-/*
+﻿/*
 	decode_sse3d: Synth for SSE and extended 3DNow (yeah, the name is a relic)
 
 	copyright 2006-2007 by Zuxy Meng/the mpg123 project - free software under the terms of the LGPL 2.1

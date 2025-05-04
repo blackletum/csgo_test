@@ -1,4 +1,4 @@
-//===- Loads.h - Local load analysis --------------------------------------===//
+﻿//===- Loads.h - Local load analysis --------------------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

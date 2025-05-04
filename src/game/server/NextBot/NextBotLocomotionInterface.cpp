@@ -1,4 +1,4 @@
-// NextBotLocomotionInterface.cpp
+﻿// NextBotLocomotionInterface.cpp
 // Common functionality for all NextBot locomotors
 // Author: Michael Booth, April 2005
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

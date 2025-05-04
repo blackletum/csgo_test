@@ -1,4 +1,4 @@
-//===- Transforms/Instrumentation.h - Instrumentation passes ----*- C++ -*-===//
+﻿//===- Transforms/Instrumentation.h - Instrumentation passes ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

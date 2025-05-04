@@ -1,4 +1,4 @@
-//===== Copyright � 2009, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 2009, Valve Corporation, All rights reserved. ======//
 // filesyste_newasync.h
 //
 // Purpose: 

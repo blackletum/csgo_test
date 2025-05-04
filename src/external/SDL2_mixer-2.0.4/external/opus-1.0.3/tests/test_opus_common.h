@@ -1,4 +1,4 @@
-/* Copyright (c) 2011 Xiph.Org Foundation
+﻿/* Copyright (c) 2011 Xiph.Org Foundation
    Written by Gregory Maxwell */
 /*
    Redistribution and use in source and binary forms, with or without

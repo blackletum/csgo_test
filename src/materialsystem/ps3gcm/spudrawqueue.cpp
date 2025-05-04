@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #include "tier0/memalloc.h"
 #include "ps3/ps3_gcm_config.h"
 #include "spudrawqueue.h"

@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ============//
 //
 //=============================================================================//
 #ifndef TRIGGER_TRACTORBEAM_SHARED_H

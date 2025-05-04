@@ -1,4 +1,4 @@
-// RadialMenu.h
+﻿// RadialMenu.h
 // Copyright (c) 2006 Turtle Rock Studios, Inc.
 
 #ifndef RADIALMENU_H

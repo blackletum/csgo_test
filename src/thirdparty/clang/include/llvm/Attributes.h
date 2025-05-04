@@ -1,4 +1,4 @@
-//===-- llvm/Attributes.h - Container for Attributes ------------*- C++ -*-===//
+﻿//===-- llvm/Attributes.h - Container for Attributes ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 
 #ifndef ENGINE_BROADCAST_HDR
 #define ENGINE_BROADCAST_HDR

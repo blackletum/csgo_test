@@ -1,4 +1,4 @@
-// NextBotPlayerBody.cpp
+﻿// NextBotPlayerBody.cpp
 // Implementation of Body interface for CBasePlayer-derived classes
 // Author: Michael Booth, October 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

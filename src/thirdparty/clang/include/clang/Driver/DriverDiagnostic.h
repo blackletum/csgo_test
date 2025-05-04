@@ -1,4 +1,4 @@
-//===--- DiagnosticDriver.h - Diagnostics for libdriver ---------*- C++ -*-===//
+﻿//===--- DiagnosticDriver.h - Diagnostics for libdriver ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

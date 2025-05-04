@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/PseudoSourceValue.h ------------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/PseudoSourceValue.h ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

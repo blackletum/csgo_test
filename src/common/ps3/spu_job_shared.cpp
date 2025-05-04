@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #include "ps3/spu_job_shared.h"
 
 uint g_nBreakMask = 0;

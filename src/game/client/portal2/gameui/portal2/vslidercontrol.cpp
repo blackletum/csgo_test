@@ -1,4 +1,4 @@
-#include "VSliderControl.h"
+﻿#include "VSliderControl.h"
 #include "VHybridButton.h"
 #include "vgui/ISurface.h"
 #include "vgui_controls/ProgressBar.h"

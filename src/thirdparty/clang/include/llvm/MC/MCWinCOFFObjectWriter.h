@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCWinCOFFObjectWriter.h - Win COFF Object Writer *- C++ -*-===//
+﻿//===-- llvm/MC/MCWinCOFFObjectWriter.h - Win COFF Object Writer *- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

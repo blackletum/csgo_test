@@ -1,4 +1,4 @@
-// NextBotPlayerLocomotion.cpp
+﻿// NextBotPlayerLocomotion.cpp
 // Implementation of Locomotion interface for CBasePlayer-derived classes
 // Author: Michael Booth, November 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

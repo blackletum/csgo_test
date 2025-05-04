@@ -1,4 +1,4 @@
-/* This is a generated file. */
+﻿/* This is a generated file. */
 FT_USE_MODULE(tt_driver_class)
 FT_USE_MODULE(t1_driver_class)
 FT_USE_MODULE(cff_driver_class)

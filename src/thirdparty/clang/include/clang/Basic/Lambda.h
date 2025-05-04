@@ -1,4 +1,4 @@
-//===--- Lambda.h - Types for C++ Lambdas -----------------------*- C++ -*-===//
+﻿//===--- Lambda.h - Types for C++ Lambdas -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

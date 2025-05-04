@@ -1,4 +1,4 @@
-//===- llvm/InstVisitor.h - Instruction visitor templates -------*- C++ -*-===//
+﻿//===- llvm/InstVisitor.h - Instruction visitor templates -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

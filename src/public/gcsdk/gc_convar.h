@@ -1,4 +1,4 @@
-//====== Copyright �, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright ©, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Defines gc-specific convars that integrate their AppIDs so that
 //			two GC's in the same shell don' overwrite each other

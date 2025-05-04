@@ -1,4 +1,4 @@
-//===--- Builtins.h - Builtin function header -------------------*- C++ -*-===//
+﻿//===--- Builtins.h - Builtin function header -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

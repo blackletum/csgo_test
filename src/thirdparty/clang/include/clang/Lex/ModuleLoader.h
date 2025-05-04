@@ -1,4 +1,4 @@
-//===--- ModuleLoader.h - Module Loader Interface ---------------*- C++ -*-===//
+﻿//===--- ModuleLoader.h - Module Loader Interface ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

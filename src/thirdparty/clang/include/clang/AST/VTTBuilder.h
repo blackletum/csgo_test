@@ -1,4 +1,4 @@
-//===--- VTTBuilder.h - C++ VTT layout builder --------------------*- C++ -*-=//
+﻿//===--- VTTBuilder.h - C++ VTT layout builder --------------------*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- Util.h - Common Driver Utilities -----------------------*- C++ -*-===//
+﻿//===--- Util.h - Common Driver Utilities -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

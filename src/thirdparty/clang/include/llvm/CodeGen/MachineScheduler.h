@@ -1,4 +1,4 @@
-//==- MachineScheduler.h - MachineInstr Scheduling Pass ----------*- C++ -*-==//
+﻿//==- MachineScheduler.h - MachineInstr Scheduling Pass ----------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

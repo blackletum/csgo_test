@@ -1,4 +1,4 @@
-//=- llvm/Analysis/PostDominators.h - Post Dominator Calculation-*- C++ -*-===//
+﻿//=- llvm/Analysis/PostDominators.h - Post Dominator Calculation-*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

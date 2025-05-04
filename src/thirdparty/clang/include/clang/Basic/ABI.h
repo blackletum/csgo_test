@@ -1,4 +1,4 @@
-//===----- ABI.h - ABI related declarations ---------------------*- C++ -*-===//
+﻿//===----- ABI.h - ABI related declarations ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// NextBotKnownEntity.h
+﻿// NextBotKnownEntity.h
 // Encapsulation of being aware of an entity
 // Author: Michael Booth, June 2009
 

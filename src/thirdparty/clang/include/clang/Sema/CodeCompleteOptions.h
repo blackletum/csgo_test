@@ -1,4 +1,4 @@
-//===---- CodeCompleteOptions.h - Code Completion Options -------*- C++ -*-===//
+﻿//===---- CodeCompleteOptions.h - Code Completion Options -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

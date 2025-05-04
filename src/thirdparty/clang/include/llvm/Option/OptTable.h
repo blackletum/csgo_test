@@ -1,4 +1,4 @@
-//===--- OptTable.h - Option Table ------------------------------*- C++ -*-===//
+﻿//===--- OptTable.h - Option Table ------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

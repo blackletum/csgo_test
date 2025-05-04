@@ -1,4 +1,4 @@
-#ifndef Py_CODECREGISTRY_H
+﻿#ifndef Py_CODECREGISTRY_H
 #define Py_CODECREGISTRY_H
 #ifdef __cplusplus
 extern "C" {

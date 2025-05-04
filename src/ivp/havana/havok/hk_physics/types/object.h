@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_OBJECT_H
+﻿#ifndef HK_PHYSICS_OBJECT_H
 #define HK_PHYSICS_OBJECT_H
 
 // object is something which will be managed by the scene management

@@ -1,4 +1,4 @@
-//====== Copyright (c) Valve Corporation, All rights reserved. =======//
+﻿//====== Copyright (c) Valve Corporation, All rights reserved. =======//
 #ifndef TIER1_UTL_BUFFER_STRIDER_HDR
 #define TIER1_UTL_BUFFER_STRIDER_HDR
 

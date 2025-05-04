@@ -1,4 +1,4 @@
-//================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
+﻿//================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
 //
 // Texture Layout, CPs3gcmTexture, and CPs3gcmTextureData_t 
 //

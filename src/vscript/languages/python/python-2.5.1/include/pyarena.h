@@ -1,4 +1,4 @@
-/* An arena-like memory interface for the compiler.
+﻿/* An arena-like memory interface for the compiler.
  */
 
 #ifndef Py_PYARENA_H

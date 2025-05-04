@@ -1,4 +1,4 @@
-#ifndef ENV_CASCADE_LIGHT_H
+﻿#ifndef ENV_CASCADE_LIGHT_H
 #define ENV_CASCADE_LIGHT_H
 
 #ifdef _WIN32

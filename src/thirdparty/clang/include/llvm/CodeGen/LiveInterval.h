@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/LiveInterval.h - Interval representation ---*- C++ -*-===//
+﻿//===-- llvm/CodeGen/LiveInterval.h - Interval representation ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

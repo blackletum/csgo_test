@@ -1,4 +1,4 @@
-//========= Copyright (c), Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c), Valve Corporation, All rights reserved. ============//
 
 #ifndef HLTV_BROADCAST_PLAYER_HDR
 #define HLTV_BROADCAST_PLAYER_HDR

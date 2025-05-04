@@ -1,4 +1,4 @@
-//===--- PathDiagnostic.h - Path-Specific Diagnostic Handling ---*- C++ -*-===//
+﻿//===--- PathDiagnostic.h - Path-Specific Diagnostic Handling ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/*
+﻿/*
 	stringlists: creation of paired string lists for one-time consumption
 
 	copyright 2015 by the mpg123 project

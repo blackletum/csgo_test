@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2006, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright ¿½ 1996-2006, Valve Corporation, All rights reserved. ============//
 #include "BaseVSShader.h"
 #include "mathlib/vmatrix.h"
 #include "portal_refract_helper.h"

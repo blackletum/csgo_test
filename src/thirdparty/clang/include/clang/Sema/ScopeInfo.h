@@ -1,4 +1,4 @@
-//===--- ScopeInfo.h - Information about a semantic context -----*- C++ -*-===//
+﻿//===--- ScopeInfo.h - Information about a semantic context -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

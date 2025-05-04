@@ -1,4 +1,4 @@
-#include "client_pch.h"
+﻿#include "client_pch.h"
 #include "cl_splitscreen.h"
 
 #if defined( _PS3 )

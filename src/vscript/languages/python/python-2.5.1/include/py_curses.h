@@ -1,4 +1,4 @@
-
+﻿
 #ifndef Py_CURSES_H
 #define Py_CURSES_H
 

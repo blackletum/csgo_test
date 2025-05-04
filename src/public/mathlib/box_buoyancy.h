@@ -1,4 +1,4 @@
-//========= Copyright (c) Valve Corporation, All rights reserved. ==========
+﻿//========= Copyright (c) Valve Corporation, All rights reserved. ==========
 
 #ifndef MATHLIB_BOX_BUOYANCY_H
 #define MATHLIB_BOX_BUOYANCY_H

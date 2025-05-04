@@ -1,4 +1,4 @@
-//===== Copyright � Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © Valve Corporation, All rights reserved. ======//
 #include "mdlobjects/physmodelsource.h"
 #include "meshutils/mesh.h"
 #include "movieobjects/dmemodel.h"

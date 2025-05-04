@@ -1,4 +1,4 @@
-//===- llvm/PassManagers.h - Pass Infrastructure classes  -------*- C++ -*-===//
+﻿//===- llvm/PassManagers.h - Pass Infrastructure classes  -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

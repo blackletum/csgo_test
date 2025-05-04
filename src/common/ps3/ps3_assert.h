@@ -1,4 +1,4 @@
-// PS3 Assert : As of SDK 084, the PS3 assert found in assert.h will simply break execution
+﻿// PS3 Assert : As of SDK 084, the PS3 assert found in assert.h will simply break execution
 //              by calling __abort: this will exit the application instead of breaking
 //              execution in the debugger.
 

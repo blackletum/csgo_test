@@ -1,4 +1,4 @@
-#if !defined CS_PLAYER_RANK_SHARED_H
+﻿#if !defined CS_PLAYER_RANK_SHARED_H
 #define CS_PLAYER_RANK_SHARED_H
 
 enum MedalCategory_t

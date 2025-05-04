@@ -1,4 +1,4 @@
-// SharedFunctorUtils.cpp
+﻿// SharedFunctorUtils.cpp
 // Useful functors
 // Copyright 2006 Turtle Rock Studios, Inc.
 

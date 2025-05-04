@@ -1,4 +1,4 @@
-//===-- llvm/Analysis/Passes.h - Constructors for analyses ------*- C++ -*-===//
+﻿//===-- llvm/Analysis/Passes.h - Constructors for analyses ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

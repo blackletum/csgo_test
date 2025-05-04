@@ -1,4 +1,4 @@
-//========= Copyright 1996-2016, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 1996-2016, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Qt MOC integration
 //

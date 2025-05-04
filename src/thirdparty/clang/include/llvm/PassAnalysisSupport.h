@@ -1,4 +1,4 @@
-//===- llvm/PassAnalysisSupport.h - Analysis Pass Support code --*- C++ -*-===//
+﻿//===- llvm/PassAnalysisSupport.h - Analysis Pass Support code --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

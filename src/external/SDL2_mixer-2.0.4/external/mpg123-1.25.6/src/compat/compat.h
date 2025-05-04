@@ -1,4 +1,4 @@
-/*
+﻿/*
 	compat: Some compatibility functions and header inclusions.
 	Basic standard C stuff, that may barely be above/around C89.
 

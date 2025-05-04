@@ -1,4 +1,4 @@
-// NextBotRetreatPath.h
+﻿// NextBotRetreatPath.h
 // Maintain and follow a path that leads safely away from the given Actor
 // Author: Michael Booth, February 2007
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

@@ -1,4 +1,4 @@
-#ifndef HAK_MATH_VECTOR3_H
+﻿#ifndef HAK_MATH_VECTOR3_H
 #define HAK_MATH_VECTOR3_H
 
 #ifndef HK_MATH_VECMATH_H

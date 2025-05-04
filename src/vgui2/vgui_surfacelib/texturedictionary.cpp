@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Contains all texture state for the material system surface to use
 //

@@ -1,4 +1,4 @@
-/// The local implementation of an AppSystem for this project
+﻿/// The local implementation of an AppSystem for this project
 
 #ifndef CLI_APPSYSTEM_ADAPTER_H
 #define CLI_APPSYSTEM_ADAPTER_H

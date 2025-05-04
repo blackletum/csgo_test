@@ -1,4 +1,4 @@
-#ifndef __SCINTILLAEDIT_H
+﻿#ifndef __SCINTILLAEDIT_H
 #define __SCINTILLAEDIT_H
 
 #include "include/Scintilla.h"

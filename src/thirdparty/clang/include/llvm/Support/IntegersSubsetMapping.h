@@ -1,4 +1,4 @@
-//===- IntegersSubsetMapping.h - Mapping subset ==> Successor ---*- C++ -*-===//
+﻿//===- IntegersSubsetMapping.h - Mapping subset ==> Successor ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

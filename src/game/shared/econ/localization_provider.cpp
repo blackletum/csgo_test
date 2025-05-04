@@ -1,4 +1,4 @@
-
+﻿
 #include "cbase.h"
 #include "localization_provider.h"
 

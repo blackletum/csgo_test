@@ -1,4 +1,4 @@
-#ifndef SCHEMA_H_
+﻿#ifndef SCHEMA_H_
 #define SCHEMA_H_
 
 #include "basetypes.h" // for 'schema' define

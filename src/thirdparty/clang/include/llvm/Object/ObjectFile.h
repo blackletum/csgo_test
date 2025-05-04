@@ -1,4 +1,4 @@
-//===- ObjectFile.h - File format independent object file -------*- C++ -*-===//
+﻿//===- ObjectFile.h - File format independent object file -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

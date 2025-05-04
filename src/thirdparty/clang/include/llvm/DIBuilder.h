@@ -1,4 +1,4 @@
-//===--- llvm/DIBuilder.h - Debug Information Builder -----------*- C++ -*-===//
+﻿//===--- llvm/DIBuilder.h - Debug Information Builder -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

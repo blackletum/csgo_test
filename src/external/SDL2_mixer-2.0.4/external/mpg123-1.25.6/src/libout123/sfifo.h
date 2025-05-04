@@ -1,4 +1,4 @@
-/*
+﻿/*
 	SFIFO 1.3 Simple portable lock-free FIFO
 
 	(c) 2000-2002, David Olofson - free software under the terms of the LGPL 2.1

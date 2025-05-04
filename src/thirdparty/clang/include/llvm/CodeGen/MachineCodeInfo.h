@@ -1,4 +1,4 @@
-//===-- MachineCodeInfo.h - Class used to report JIT info -------*- C++ -*-===//
+﻿//===-- MachineCodeInfo.h - Class used to report JIT info -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

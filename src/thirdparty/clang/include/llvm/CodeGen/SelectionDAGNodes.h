@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/SelectionDAGNodes.h - SelectionDAG Nodes ---*- C++ -*-===//
+﻿//===-- llvm/CodeGen/SelectionDAGNodes.h - SelectionDAG Nodes ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

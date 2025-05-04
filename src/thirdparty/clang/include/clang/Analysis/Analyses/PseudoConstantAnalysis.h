@@ -1,4 +1,4 @@
-//== PseudoConstantAnalysis.h - Find Pseudo-constants in the AST -*- C++ -*-==//
+﻿//== PseudoConstantAnalysis.h - Find Pseudo-constants in the AST -*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

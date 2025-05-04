@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Inferno.cpp
  * An Inferno
  * Author: Michael S. Booth, February 2005

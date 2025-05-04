@@ -1,4 +1,4 @@
-//===-- llvm/Bitcode/ReaderWriter.h - Bitcode reader/writers ----*- C++ -*-===//
+﻿//===-- llvm/Bitcode/ReaderWriter.h - Bitcode reader/writers ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

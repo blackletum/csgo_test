@@ -1,4 +1,4 @@
-#ifndef __TRACYCALLSTACK_H__
+﻿#ifndef __TRACYCALLSTACK_H__
 #define __TRACYCALLSTACK_H__
 
 #if !defined _WIN32 && !defined __CYGWIN__

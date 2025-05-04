@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:
 //
@@ -398,7 +398,7 @@ void SFHudTeamCounter::UpdateTimer( void )
 		WITH_SLOT_LOCKED
 		{
 			m_pTime = m_pTimeRedText;
-			m_pTime->SetText( "❚❚" );
+			m_pTime->SetText( "šš" );
 			g_pScaleformUI->Value_InvokeWithoutReturn( m_FlashAPI, "onBeginTimerAlert", NULL, 0 );
 		}
 		return;

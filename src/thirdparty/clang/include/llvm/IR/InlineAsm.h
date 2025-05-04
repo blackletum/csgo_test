@@ -1,4 +1,4 @@
-//===-- llvm/InlineAsm.h - Class to represent inline asm strings-*- C++ -*-===//
+﻿//===-- llvm/InlineAsm.h - Class to represent inline asm strings-*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

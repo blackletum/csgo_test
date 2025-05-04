@@ -1,4 +1,4 @@
-#ifndef OPTIMIZE_SUBD_H
+﻿#ifndef OPTIMIZE_SUBD_H
 #define OPTIMIZE_SUBD_H
 #pragma once
 

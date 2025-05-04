@@ -1,4 +1,4 @@
-//===- LinkAllVMCore.h - Reference All VMCore Code --------------*- C++ -*-===//
+﻿//===- LinkAllVMCore.h - Reference All VMCore Code --------------*- C++ -*-===//
 //
 //                      The LLVM Compiler Infrastructure
 //

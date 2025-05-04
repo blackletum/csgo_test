@@ -1,4 +1,4 @@
-// NextBotCombatCharacter.h
+﻿// NextBotCombatCharacter.h
 // Next generation bot system
 // Author: Michael Booth, April 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

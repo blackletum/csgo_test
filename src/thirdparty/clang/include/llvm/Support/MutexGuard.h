@@ -1,4 +1,4 @@
-//===-- Support/MutexGuard.h - Acquire/Release Mutex In Scope ---*- C++ -*-===//
+﻿//===-- Support/MutexGuard.h - Acquire/Release Mutex In Scope ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

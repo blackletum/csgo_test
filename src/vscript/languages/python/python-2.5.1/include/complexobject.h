@@ -1,4 +1,4 @@
-/* Complex number structure */
+﻿/* Complex number structure */
 
 #ifndef Py_COMPLEXOBJECT_H
 #define Py_COMPLEXOBJECT_H

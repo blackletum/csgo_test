@@ -1,4 +1,4 @@
-//===- LoopPass.h - LoopPass class ----------------------------------------===//
+﻿//===- LoopPass.h - LoopPass class ----------------------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

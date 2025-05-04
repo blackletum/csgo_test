@@ -1,4 +1,4 @@
-//===--- CrashRecoveryContext.h - Crash Recovery ----------------*- C++ -*-===//
+﻿//===--- CrashRecoveryContext.h - Crash Recovery ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===---- ObjectBuffer.h - Utility class to wrap object image memory -----===//
+﻿//===---- ObjectBuffer.h - Utility class to wrap object image memory -----===//
 //
 //		       The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// MFC_DEMODoc.h : interface of the CMFC_DEMODoc class
+﻿// MFC_DEMODoc.h : interface of the CMFC_DEMODoc class
 //
 /////////////////////////////////////////////////////////////////////////////
 

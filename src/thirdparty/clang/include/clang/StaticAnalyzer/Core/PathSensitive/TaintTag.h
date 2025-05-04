@@ -1,4 +1,4 @@
-//== TaintTag.h - Path-sensitive "State" for tracking values -*- C++ -*--=//
+﻿//== TaintTag.h - Path-sensitive "State" for tracking values -*- C++ -*--=//
 //
 //                     The LLVM Compiler Infrastructure
 //

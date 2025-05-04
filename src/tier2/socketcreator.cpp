@@ -1,4 +1,4 @@
-//====== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//====== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose:  Utility class to help in socket creation. Works for clients + servers
 //

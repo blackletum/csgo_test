@@ -1,4 +1,4 @@
-// NextBotPlayerBody.h
+﻿// NextBotPlayerBody.h
 // Control and information about the bot's body state (posture, animation state, etc)
 // Author: Michael Booth, October 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

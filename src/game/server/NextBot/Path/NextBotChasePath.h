@@ -1,4 +1,4 @@
-// NextBotChasePath.h
+﻿// NextBotChasePath.h
 // Maintain and follow a "chase path" to a selected Actor
 // Author: Michael Booth, September 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

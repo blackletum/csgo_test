@@ -1,4 +1,4 @@
-/* Copyright (C) 2003-2008 Jean-Marc Valin
+﻿/* Copyright (C) 2003-2008 Jean-Marc Valin
    Copyright (C) 2007-2012 Xiph.Org Foundation */
 /**
    @file fixed_debug.h

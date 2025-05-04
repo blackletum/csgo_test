@@ -1,4 +1,4 @@
-#ifndef PAINT_ENUM_H
+﻿#ifndef PAINT_ENUM_H
 #define PAINT_ENUM_H
 
 //=============================================================================

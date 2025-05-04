@@ -1,4 +1,4 @@
-/// The unmanaged side of wrapping the app system for CLR
+﻿/// The unmanaged side of wrapping the app system for CLR
 
 #include "stdafx.h"
 #include "cli_appsystem_unmanaged_wrapper.h"

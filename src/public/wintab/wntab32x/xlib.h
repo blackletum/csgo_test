@@ -1,4 +1,4 @@
-typedef struct _PROCDATA {
+﻿typedef struct _PROCDATA {
 	LPCSTR				name;
 	int					ord;
 	FARPROC 			fp;

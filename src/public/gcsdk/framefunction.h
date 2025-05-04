@@ -1,4 +1,4 @@
-//====== Copyright (c), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (c), Valve Corporation, All rights reserved. =======
 //
 // Purpose: Provides a frame function manager that allows for different parts
 //  of a GC to hook into per frame updated

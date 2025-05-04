@@ -1,4 +1,4 @@
-//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
+﻿//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
 //
 // CSheetSequencePanel - Panel for selecting one sequence from a sprite sheet
 //

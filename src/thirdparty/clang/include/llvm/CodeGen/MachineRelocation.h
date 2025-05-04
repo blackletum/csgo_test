@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineRelocation.h - Target Relocation ----*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineRelocation.h - Target Relocation ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

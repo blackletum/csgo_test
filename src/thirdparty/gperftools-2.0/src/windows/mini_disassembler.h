@@ -1,4 +1,4 @@
-/* Copyright (c) 2007, Google Inc.
+ï»¿/* Copyright (c) 2007, Google Inc.
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without
@@ -72,7 +72,7 @@ namespace sidestep {
 // Disassemble() method.
 //
 // If you would like to extend this disassembler, please refer to the
-// IA-32 Intel® Architecture Software Developer’s Manual Volume 2:
+// IA-32 IntelÂ® Architecture Software Developerâ€™s Manual Volume 2:
 // Instruction Set Reference for information about operand decoding
 // etc.
 class PERFTOOLS_DLL_DECL MiniDisassembler {

@@ -1,4 +1,4 @@
-//===-- llvm/Support/ManagedStatic.h - Static Global wrapper ----*- C++ -*-===//
+﻿//===-- llvm/Support/ManagedStatic.h - Static Global wrapper ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

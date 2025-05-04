@@ -1,4 +1,4 @@
-//===-- llvm/Support/CodeGen.h - CodeGen Concepts ---------------*- C++ -*-===//
+﻿//===-- llvm/Support/CodeGen.h - CodeGen Concepts ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

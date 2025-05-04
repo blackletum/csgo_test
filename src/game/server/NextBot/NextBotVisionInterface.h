@@ -1,4 +1,4 @@
-// NextBotVisionInterface.h
+﻿// NextBotVisionInterface.h
 // Visual information query interface for bots
 // Author: Michael Booth, April 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

@@ -1,4 +1,4 @@
-//===--- PTHLexer.h - Lexer based on Pre-tokenized input --------*- C++ -*-===//
+﻿//===--- PTHLexer.h - Lexer based on Pre-tokenized input --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

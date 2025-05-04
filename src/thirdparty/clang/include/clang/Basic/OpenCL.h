@@ -1,4 +1,4 @@
-//===--- OpenCL.h - OpenCL enums --------------------------------*- C++ -*-===//
+﻿//===--- OpenCL.h - OpenCL enums --------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:  the interface to the old and new physics ragdoll glue code between Entity and Physics systems
 //

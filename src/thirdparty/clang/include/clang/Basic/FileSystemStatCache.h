@@ -1,4 +1,4 @@
-//===--- FileSystemStatCache.h - Caching for 'stat' calls -------*- C++ -*-===//
+﻿//===--- FileSystemStatCache.h - Caching for 'stat' calls -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

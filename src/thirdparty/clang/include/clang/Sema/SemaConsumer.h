@@ -1,4 +1,4 @@
-//===--- SemaConsumer.h - Abstract interface for AST semantics --*- C++ -*-===//
+﻿//===--- SemaConsumer.h - Abstract interface for AST semantics --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

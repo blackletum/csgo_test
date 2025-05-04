@@ -1,4 +1,4 @@
-//===- MCStreamer.h - High-level Streaming Machine Code Output --*- C++ -*-===//
+﻿//===- MCStreamer.h - High-level Streaming Machine Code Output --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

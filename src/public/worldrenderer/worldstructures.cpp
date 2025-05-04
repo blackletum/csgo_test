@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Byteswapping datadescs for the corresponding worldstructures.  These
 // must stay in sync with the stucts in worldstructures.h.

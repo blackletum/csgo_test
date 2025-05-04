@@ -1,4 +1,4 @@
-/*	see copyright notice in squirrel.h */
+﻿/*	see copyright notice in squirrel.h */
 #ifndef _SQCLOSURE_H_
 #define _SQCLOSURE_H_
 #if defined(VSCRIPT_DLL_EXPORT) || defined(VSQUIRREL_TEST)

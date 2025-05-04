@@ -1,4 +1,4 @@
-/*===-- clang-c/CXString.h - C Index strings  --------------------*- C -*-===*\
+﻿/*===-- clang-c/CXString.h - C Index strings  --------------------*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

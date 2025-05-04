@@ -1,4 +1,4 @@
-/*===========================================================================
+﻿/*===========================================================================
   nametab.h
     this header contains ASCII and UTF-8 tables for qualified 
     name checking + macros for comparing multibyte UTF-8 sequences:

@@ -1,4 +1,4 @@
-//===-- Passes.h - Target independent code generation passes ----*- C++ -*-===//
+﻿//===-- Passes.h - Target independent code generation passes ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

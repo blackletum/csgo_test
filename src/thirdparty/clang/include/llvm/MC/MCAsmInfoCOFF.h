@@ -1,4 +1,4 @@
-//===-- MCAsmInfoCOFF.h - COFF asm properties -------------------*- C++ -*-===//
+﻿//===-- MCAsmInfoCOFF.h - COFF asm properties -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#define IDD_BUTTONS                 100
+﻿#define IDD_BUTTONS                 100
 #define IDC_CURSORS                 101
 #define IDC_NAMES                   102
 #define IDC_LOGICAL                 103

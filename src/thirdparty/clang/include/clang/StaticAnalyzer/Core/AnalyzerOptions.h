@@ -1,4 +1,4 @@
-//===--- AnalyzerOptions.h - Analysis Engine Options ------------*- C++ -*-===//
+﻿//===--- AnalyzerOptions.h - Analysis Engine Options ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

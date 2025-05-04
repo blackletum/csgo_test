@@ -1,4 +1,4 @@
-#ifndef HK_BASE_BASE_TYPES_H
+﻿#ifndef HK_BASE_BASE_TYPES_H
 #define HK_BASE_BASE_TYPES_H
 
 #ifdef _LINUX

@@ -1,4 +1,4 @@
-//===--- Tooling.h - Framework for standalone Clang tools -------*- C++ -*-===//
+﻿//===--- Tooling.h - Framework for standalone Clang tools -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

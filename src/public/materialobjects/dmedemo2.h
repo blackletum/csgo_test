@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+ï»¿//====== Copyright Â© 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -143,9 +143,9 @@ private:
 // 1)	Python at commandline
 // 2)	import vs
 // 3)	vs.dm.SetUndoEnabled( 0 )
-// 4)	doc = vs.CreateElement( ‘DmeQuadDocV2’, ‘root’, -1 )
-// 5)	   … doc stuff, e.g. doc.AddQuad( 'quad1', 5, 5, 30, 40 )
-// 6)	vs.dm.SaveToFile( ‘file name’, ‘’, ‘keyvalues2’, ‘dmx’, doc )
+// 4)	doc = vs.CreateElement( â€˜DmeQuadDocV2â€™, â€˜rootâ€™, -1 )
+// 5)	   â€¦ doc stuff, e.g. doc.AddQuad( 'quad1', 5, 5, 30, 40 )
+// 6)	vs.dm.SaveToFile( â€˜file nameâ€™, â€˜â€™, â€˜keyvalues2â€™, â€˜dmxâ€™, doc )
 
 
 #endif // DMEDEMO2_H

@@ -1,4 +1,4 @@
-//========= Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//========= Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // this is even smaller profiler than miniprofiler: there is no linking or bookkeeping
 // of any kind, it's just to throw in quick profilers that don't mess with code speed

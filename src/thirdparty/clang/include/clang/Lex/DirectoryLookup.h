@@ -1,4 +1,4 @@
-//===--- DirectoryLookup.h - Info for searching for headers -----*- C++ -*-===//
+﻿//===--- DirectoryLookup.h - Info for searching for headers -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

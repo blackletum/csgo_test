@@ -1,4 +1,4 @@
-// ClientInferno.cpp
+﻿// ClientInferno.cpp
 // Render client-side Inferno effects
 // Author: Michael Booth, February 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

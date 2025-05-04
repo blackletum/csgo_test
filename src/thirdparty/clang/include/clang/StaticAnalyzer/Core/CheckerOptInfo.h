@@ -1,4 +1,4 @@
-//===--- CheckerOptInfo.h - Specifies which checkers to use -----*- C++ -*-===//
+﻿//===--- CheckerOptInfo.h - Specifies which checkers to use -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

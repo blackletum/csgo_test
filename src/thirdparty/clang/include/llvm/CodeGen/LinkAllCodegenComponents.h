@@ -1,4 +1,4 @@
-//===- llvm/Codegen/LinkAllCodegenComponents.h ------------------*- C++ -*-===//
+﻿//===- llvm/Codegen/LinkAllCodegenComponents.h ------------------*- C++ -*-===//
 //
 //                      The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//== Environment.h - Map from Stmt* to Locations/Values ---------*- C++ -*--==//
+﻿//== Environment.h - Map from Stmt* to Locations/Values ---------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

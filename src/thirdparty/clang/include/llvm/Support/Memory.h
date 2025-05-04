@@ -1,4 +1,4 @@
-//===- llvm/Support/Memory.h - Memory Support --------------------*- C++ -*-===//
+﻿//===- llvm/Support/Memory.h - Memory Support --------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

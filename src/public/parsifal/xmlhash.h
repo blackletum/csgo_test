@@ -1,4 +1,4 @@
-/* See xmlhash.c for copyright info */
+﻿/* See xmlhash.c for copyright info */
 
 #ifndef XMLHASH__H
 #define XMLHASH__H

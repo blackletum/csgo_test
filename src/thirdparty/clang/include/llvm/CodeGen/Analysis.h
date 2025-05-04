@@ -1,4 +1,4 @@
-//===- CodeGen/Analysis.h - CodeGen LLVM IR Analysis Utilities --*- C++ -*-===//
+﻿//===- CodeGen/Analysis.h - CodeGen LLVM IR Analysis Utilities --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

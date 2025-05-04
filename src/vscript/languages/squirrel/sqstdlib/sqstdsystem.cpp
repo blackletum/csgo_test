@@ -1,4 +1,4 @@
-/* see copyright notice in squirrel.h */
+﻿/* see copyright notice in squirrel.h */
 #include <squirrel.h>
 #include <time.h>
 #include <stdlib.h>

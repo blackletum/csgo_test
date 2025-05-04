@@ -1,4 +1,4 @@
-/* minwrpngconf.h: headers to make a minimal png-write-only library
+﻿/* minwrpngconf.h: headers to make a minimal png-write-only library
  *
  * Copyright (c) 2007, 2010-2013 Glenn Randers-Pehrson
  *

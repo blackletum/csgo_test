@@ -1,4 +1,4 @@
-/// Defines an interface which may be called from the MANAGED code's 
+﻿/// Defines an interface which may be called from the MANAGED code's 
 /// main function to start up (connect) and shut down (disconnect) 
 /// the app system interface.
 

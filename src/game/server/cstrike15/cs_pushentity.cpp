@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation,k All rights reserved. ============//
+﻿//========= Copyright Valve Corporation,k All rights reserved. ============//
 //
 //
 // Note: This code integrated then adapted from TF:

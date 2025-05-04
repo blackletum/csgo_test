@@ -1,4 +1,4 @@
-//===- llvm/Support/FileUtilities.h - File System Utilities -----*- C++ -*-===//
+﻿//===- llvm/Support/FileUtilities.h - File System Utilities -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- CompilerInvocation.h - Compiler Invocation Helper Data --*- C++ -*-===//
+﻿//===-- CompilerInvocation.h - Compiler Invocation Helper Data --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

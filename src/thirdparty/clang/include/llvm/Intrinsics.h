@@ -1,4 +1,4 @@
-//===-- llvm/Instrinsics.h - LLVM Intrinsic Function Handling ---*- C++ -*-===//
+﻿//===-- llvm/Instrinsics.h - LLVM Intrinsic Function Handling ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

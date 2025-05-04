@@ -1,4 +1,4 @@
-#ifndef IN_SIXENSE_GESTURES_H
+﻿#ifndef IN_SIXENSE_GESTURES_H
 #define IN_SIXENSE_GESTURES_H
 #ifdef _WIN32
 #pragma once

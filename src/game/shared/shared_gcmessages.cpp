@@ -1,4 +1,4 @@
-//====== Copyright �, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright ©, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Provides names for GC message types for inter GC messages
 //

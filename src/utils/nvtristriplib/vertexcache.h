@@ -1,4 +1,4 @@
-  
+﻿  
 #ifndef VERTEX_CACHE_H
 
 #define VERTEX_CACHE_H

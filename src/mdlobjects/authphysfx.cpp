@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
+﻿//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
 #include "mdlobjects/authphysfx.h"
 #include "resourcefile/resourcestream.h"
 #include "mathlib/femodeldesc.h"

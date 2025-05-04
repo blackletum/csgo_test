@@ -1,4 +1,4 @@
-//=- llvm/CodeGen/ScheduleHazardRecognizer.h - Scheduling Support -*- C++ -*-=//
+﻿//=- llvm/CodeGen/ScheduleHazardRecognizer.h - Scheduling Support -*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

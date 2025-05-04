@@ -1,4 +1,4 @@
-// ps_console.cpp - for communicating with vxconsole_ps3
+﻿// ps_console.cpp - for communicating with vxconsole_ps3
 
 #include <string.h>
 #include <sys/event.h>

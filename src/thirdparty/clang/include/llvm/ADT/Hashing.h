@@ -1,4 +1,4 @@
-//===-- llvm/ADT/Hashing.h - Utilities for hashing --------------*- C++ -*-===//
+﻿//===-- llvm/ADT/Hashing.h - Utilities for hashing --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

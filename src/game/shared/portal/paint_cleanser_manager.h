@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ============//
 //
 //=============================================================================//
 #ifndef PAINT_CLEANSER_MANAGER_H

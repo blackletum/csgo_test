@@ -1,4 +1,4 @@
-//===-- MachineFunctionAnalysis.h - Owner of MachineFunctions ----*-C++ -*-===//
+﻿//===-- MachineFunctionAnalysis.h - Owner of MachineFunctions ----*-C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 
 #ifndef CSM_PARALLEL_SPLIT_H
 #define CSM_PARALLEL_SPLIT_H

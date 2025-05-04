@@ -1,4 +1,4 @@
-/******************************************************************/
+﻿/******************************************************************/
 /* qsort.c  --  Non-Recursive ANSI Quicksort function             */
 /*                                                                */
 /* Public domain by Raymond Gardner, Englewood CO  February 1991  */

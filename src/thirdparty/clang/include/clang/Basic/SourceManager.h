@@ -1,4 +1,4 @@
-//===--- SourceManager.h - Track and cache source files ---------*- C++ -*-===//
+﻿//===--- SourceManager.h - Track and cache source files ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

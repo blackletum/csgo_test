@@ -1,4 +1,4 @@
-//===--- Linkage.h - Linkage enumeration and utilities ----------*- C++ -*-===//
+﻿//===--- Linkage.h - Linkage enumeration and utilities ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

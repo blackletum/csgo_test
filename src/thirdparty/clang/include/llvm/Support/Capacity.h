@@ -1,4 +1,4 @@
-//===--- Capacity.h - Generic computation of ADT memory use -----*- C++ -*-===//
+﻿//===--- Capacity.h - Generic computation of ADT memory use -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

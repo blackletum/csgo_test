@@ -1,4 +1,4 @@
-#ifndef SFHUDCHAT_H
+﻿#ifndef SFHUDCHAT_H
 #define SFHUDCHAT_H
 
 #include "hud.h"

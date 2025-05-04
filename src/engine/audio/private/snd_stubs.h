@@ -1,4 +1,4 @@
-
+﻿
 #ifndef SND_STUBS_H
 #define SND_STUBS_H
 

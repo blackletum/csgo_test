@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCMachObjectWriter.h - Mach Object Writer -------*- C++ -*-===//
+﻿//===-- llvm/MC/MCMachObjectWriter.h - Mach Object Writer -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- ModuleMap.h - Describe the layout of modules -----------*- C++ -*-===//
+﻿//===--- ModuleMap.h - Describe the layout of modules -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

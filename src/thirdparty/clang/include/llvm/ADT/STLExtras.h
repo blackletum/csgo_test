@@ -1,4 +1,4 @@
-//===- llvm/ADT/STLExtras.h - Useful STL related functions ------*- C++ -*-===//
+﻿//===- llvm/ADT/STLExtras.h - Useful STL related functions ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

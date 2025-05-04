@@ -1,4 +1,4 @@
-//===- ASTVector.h - Vector that uses ASTContext for allocation  --*- C++ -*-=//
+﻿//===- ASTVector.h - Vector that uses ASTContext for allocation  --*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

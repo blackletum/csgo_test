@@ -1,4 +1,4 @@
-/*===-- llvm/config/llvm-config.h - llvm configure variable -------*- C -*-===*/
+﻿/*===-- llvm/config/llvm-config.h - llvm configure variable -------*- C -*-===*/
 /*                                                                            */
 /*                     The LLVM Compiler Infrastructure                       */
 /*                                                                            */

@@ -1,4 +1,4 @@
-//===----- llvm/Analysis/CaptureTracking.h - Pointer capture ----*- C++ -*-===//
+﻿//===----- llvm/Analysis/CaptureTracking.h - Pointer capture ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

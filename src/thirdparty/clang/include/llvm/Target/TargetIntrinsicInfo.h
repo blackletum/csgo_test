@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetIntrinsicInfo.h - Instruction Info ----*- C++ -*-===//
+﻿//===-- llvm/Target/TargetIntrinsicInfo.h - Instruction Info ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- SourceMgr.h - Manager for Source Buffers & Diagnostics ---*- C++ -*-===//
+﻿//===- SourceMgr.h - Manager for Source Buffers & Diagnostics ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

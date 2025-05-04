@@ -1,4 +1,4 @@
-//===--- TemplateKinds.h - Enum values for C++ Template Kinds ---*- C++ -*-===//
+﻿//===--- TemplateKinds.h - Enum values for C++ Template Kinds ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

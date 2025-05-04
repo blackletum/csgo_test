@@ -1,4 +1,4 @@
-//===-- llvm/SymbolTableListTraits.h - Traits for iplist --------*- C++ -*-===//
+﻿//===-- llvm/SymbolTableListTraits.h - Traits for iplist --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

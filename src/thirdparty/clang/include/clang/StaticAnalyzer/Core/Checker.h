@@ -1,4 +1,4 @@
-//== Checker.h - Registration mechanism for checkers -------------*- C++ -*--=//
+﻿//== Checker.h - Registration mechanism for checkers -------------*- C++ -*--=//
 //
 //                     The LLVM Compiler Infrastructure
 //

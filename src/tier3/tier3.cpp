@@ -1,4 +1,4 @@
-//===== Copyright (c) 2005-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) 2005-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: A higher level link library for general use in the game and tools.
 //

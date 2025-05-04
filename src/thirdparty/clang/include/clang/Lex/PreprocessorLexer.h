@@ -1,4 +1,4 @@
-//===--- PreprocessorLexer.h - C Language Family Lexer ----------*- C++ -*-===//
+﻿//===--- PreprocessorLexer.h - C Language Family Lexer ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

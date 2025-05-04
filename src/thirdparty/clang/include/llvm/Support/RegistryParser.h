@@ -1,4 +1,4 @@
-//=== RegistryParser.h - Linker-supported plugin registries -----*- C++ -*-===//
+﻿//=== RegistryParser.h - Linker-supported plugin registries -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

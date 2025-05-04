@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2004, Valve LLC, All rights reserved. ============
+﻿//========= Copyright © 1996-2004, Valve LLC, All rights reserved. ============
 // 
 // This common file serves as redirection to make minimal SPU-only preparation
 // of a job and call into its Main function. The Main function is hidden behind

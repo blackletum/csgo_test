@@ -1,4 +1,4 @@
-//===--- LockFileManager.h - File-level locking utility ---------*- C++ -*-===//
+﻿//===--- LockFileManager.h - File-level locking utility ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

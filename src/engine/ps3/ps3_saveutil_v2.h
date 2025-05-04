@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2011, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2011, Valve Corporation, All rights reserved. ======//
 
 #ifndef PS3_SAVEUTIL_V2_H
 #define PS3_SAVEUTIL_V2_H

@@ -1,4 +1,4 @@
-//===- llvm/Analysis/MemoryDependenceAnalysis.h - Memory Deps  --*- C++ -*-===//
+﻿//===- llvm/Analysis/MemoryDependenceAnalysis.h - Memory Deps  --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

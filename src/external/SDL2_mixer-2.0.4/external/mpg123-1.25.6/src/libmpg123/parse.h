@@ -1,4 +1,4 @@
-/*
+﻿/*
 	parse: spawned from common; clustering around stream/frame parsing
 
 	copyright ?-2007 by the mpg123 project - free software under the terms of the LGPL 2.1

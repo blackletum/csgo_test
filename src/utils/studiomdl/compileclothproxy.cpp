@@ -1,4 +1,4 @@
-#include "movieobjects/dmemodel.h"
+﻿#include "movieobjects/dmemodel.h"
 #include "movieobjects/dmemesh.h"
 #include "compileclothproxy.h"
 #include "mdlobjects/clothproxymesh.h"

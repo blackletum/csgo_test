@@ -1,4 +1,4 @@
-// NextBotPlayer.h
+﻿// NextBotPlayer.h
 // A CBasePlayer bot based on the NextBot technology
 // Author: Michael Booth, November 2005
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

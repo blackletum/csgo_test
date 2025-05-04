@@ -1,4 +1,4 @@
-//===- RegionPass.h - RegionPass class ------------------------------------===//
+﻿//===- RegionPass.h - RegionPass class ------------------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

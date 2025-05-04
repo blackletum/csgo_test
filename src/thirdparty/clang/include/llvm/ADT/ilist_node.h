@@ -1,4 +1,4 @@
-//==-- llvm/ADT/ilist_node.h - Intrusive Linked List Helper ------*- C++ -*-==//
+﻿//==-- llvm/ADT/ilist_node.h - Intrusive Linked List Helper ------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

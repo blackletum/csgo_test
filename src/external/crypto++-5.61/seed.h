@@ -1,4 +1,4 @@
-#ifndef CRYPTOPP_SEED_H
+﻿#ifndef CRYPTOPP_SEED_H
 #define CRYPTOPP_SEED_H
 
 /** \file

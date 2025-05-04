@@ -1,4 +1,4 @@
-//====----- MachineBlockFrequencyInfo.h - MachineBlock Frequency Analysis ----====//
+﻿//====----- MachineBlockFrequencyInfo.h - MachineBlock Frequency Analysis ----====//
 //
 //                     The LLVM Compiler Infrastructure
 //

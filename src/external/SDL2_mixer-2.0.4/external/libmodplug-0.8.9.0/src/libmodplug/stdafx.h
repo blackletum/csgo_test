@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This source code is public domain.
  *
  * Authors: Rani Assaf <rani@magic.metawire.com>,

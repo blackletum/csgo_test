@@ -1,4 +1,4 @@
-//===- llvm/Analysis/AliasSetTracker.h - Build Alias Sets -------*- C++ -*-===//
+﻿//===- llvm/Analysis/AliasSetTracker.h - Build Alias Sets -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

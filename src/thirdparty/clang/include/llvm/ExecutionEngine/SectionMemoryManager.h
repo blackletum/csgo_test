@@ -1,4 +1,4 @@
-//===- SectionMemoryManager.h - Memory manager for MCJIT/RtDyld -*- C++ -*-===//
+﻿//===- SectionMemoryManager.h - Memory manager for MCJIT/RtDyld -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

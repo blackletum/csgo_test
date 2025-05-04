@@ -1,4 +1,4 @@
-#ifndef FUNFACTMGR_H
+﻿#ifndef FUNFACTMGR_H
 #define FUNFACTMGR_H
 #ifdef _WIN32
 #pragma once

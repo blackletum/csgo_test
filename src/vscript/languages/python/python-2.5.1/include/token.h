@@ -1,4 +1,4 @@
-
+﻿
 /* Token types */
 
 #ifndef Py_TOKEN_H

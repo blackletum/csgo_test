@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2005, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: provide a layer of abstraction between GC and vgui localization systems
 //

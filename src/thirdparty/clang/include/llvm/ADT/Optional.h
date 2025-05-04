@@ -1,4 +1,4 @@
-//===-- Optional.h - Simple variant for passing optional values ---*- C++ -*-=//
+﻿//===-- Optional.h - Simple variant for passing optional values ---*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

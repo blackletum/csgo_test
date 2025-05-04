@@ -1,4 +1,4 @@
-//==- LocalCheckers.h - Intra-Procedural+Flow-Sensitive Checkers -*- C++ -*-==//
+﻿//==- LocalCheckers.h - Intra-Procedural+Flow-Sensitive Checkers -*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

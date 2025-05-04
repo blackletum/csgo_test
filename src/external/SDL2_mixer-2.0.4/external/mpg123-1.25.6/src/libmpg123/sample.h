@@ -1,4 +1,4 @@
-/*
+﻿/*
 	sample.h: The conversion from internal data to output samples of differing formats.
 
 	copyright 2007-9 by the mpg123 project - free software under the terms of the LGPL 2.1

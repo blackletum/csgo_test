@@ -1,4 +1,4 @@
-#ifdef TRACY_ENABLE
+﻿#ifdef TRACY_ENABLE
 
 /* rpmalloc.c  -  Memory allocator  -  Public Domain  -  2016 Mattias Jansson
  *

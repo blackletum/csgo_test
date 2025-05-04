@@ -1,4 +1,4 @@
-#ifndef __PS3_HELPERS__
+﻿#ifndef __PS3_HELPERS__
 #define __PS3_HELPERS__
 
 #ifndef SN_TARGET_PS3

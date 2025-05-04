@@ -1,4 +1,4 @@
-// NextBotEventResponderInterface.h
+﻿// NextBotEventResponderInterface.h
 // Interface for propagating and responding to events
 // Author: Michael Booth, May 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

@@ -1,4 +1,4 @@
-//===- ScheduleDAGILP.h - ILP metric for ScheduleDAGInstrs ------*- C++ -*-===//
+﻿//===- ScheduleDAGILP.h - ILP metric for ScheduleDAGInstrs ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

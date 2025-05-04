@@ -1,4 +1,4 @@
-//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 //
 //	Purpose: Force pc .VTF to preferred .VTF 360 format conversion

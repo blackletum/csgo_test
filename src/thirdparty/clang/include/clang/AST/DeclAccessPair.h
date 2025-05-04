@@ -1,4 +1,4 @@
-//===--- DeclAccessPair.h - A decl bundled with its path access -*- C++ -*-===//
+﻿//===--- DeclAccessPair.h - A decl bundled with its path access -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

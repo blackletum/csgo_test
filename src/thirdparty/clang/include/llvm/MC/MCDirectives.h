@@ -1,4 +1,4 @@
-//===- MCDirectives.h - Enums for directives on various targets -*- C++ -*-===//
+﻿//===- MCDirectives.h - Enums for directives on various targets -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

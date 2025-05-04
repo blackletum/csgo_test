@@ -1,4 +1,4 @@
-//===---- CodeCompleteConsumer.h - Code Completion Interface ----*- C++ -*-===//
+﻿//===---- CodeCompleteConsumer.h - Code Completion Interface ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

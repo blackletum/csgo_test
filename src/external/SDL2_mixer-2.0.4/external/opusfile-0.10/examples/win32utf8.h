@@ -1,4 +1,4 @@
-#if !defined(_win32utf8_H)
+﻿#if !defined(_win32utf8_H)
 # define _win32utf8_H (1)
 # if defined(_WIN32)
 

@@ -1,4 +1,4 @@
-//  See Copyright Notice in gmMachine.h
+﻿//  See Copyright Notice in gmMachine.h
 
 #include <stdio.h>
 #include <stdlib.h>

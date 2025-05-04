@@ -1,4 +1,4 @@
-//===--- Designator.h - Initialization Designator ---------------*- C++ -*-===//
+﻿//===--- Designator.h - Initialization Designator ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

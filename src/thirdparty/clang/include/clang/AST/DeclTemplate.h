@@ -1,4 +1,4 @@
-//===-- DeclTemplate.h - Classes for representing C++ templates -*- C++ -*-===//
+﻿//===-- DeclTemplate.h - Classes for representing C++ templates -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

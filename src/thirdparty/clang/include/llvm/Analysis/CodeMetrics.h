@@ -1,4 +1,4 @@
-//===- CodeMetrics.h - Code cost measurements -------------------*- C++ -*-===//
+﻿//===- CodeMetrics.h - Code cost measurements -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

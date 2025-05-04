@@ -1,4 +1,4 @@
-//=== FileOutputBuffer.h - File Output Buffer -------------------*- C++ -*-===//
+﻿//=== FileOutputBuffer.h - File Output Buffer -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

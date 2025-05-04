@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 #ifndef BUILDRENDERABLES_PS3_HDR
 #define BUILDRENDERABLES_PS3_HDR
 

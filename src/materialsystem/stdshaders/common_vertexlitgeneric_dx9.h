@@ -1,4 +1,4 @@
-#ifndef COMMON_VERTEXLITGENERIC_DX9_H_
+﻿#ifndef COMMON_VERTEXLITGENERIC_DX9_H_
 #define COMMON_VERTEXLITGENERIC_DX9_H_
 
 #include "common_ps_fxc.h"

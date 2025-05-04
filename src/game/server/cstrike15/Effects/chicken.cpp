@@ -1,4 +1,4 @@
-// chicken.cpp
+﻿// chicken.cpp
 // An interactive, shootable chicken
 
 #include "cbase.h"

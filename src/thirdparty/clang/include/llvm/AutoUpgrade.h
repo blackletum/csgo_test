@@ -1,4 +1,4 @@
-//===-- llvm/AutoUpgrade.h - AutoUpgrade Helpers ----------------*- C++ -*-===//
+﻿//===-- llvm/AutoUpgrade.h - AutoUpgrade Helpers ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//=== BasicValueFactory.h - Basic values for Path Sens analysis --*- C++ -*---//
+﻿//=== BasicValueFactory.h - Basic values for Path Sens analysis --*- C++ -*---//
 //
 //                     The LLVM Compiler Infrastructure
 //

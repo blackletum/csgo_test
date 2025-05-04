@@ -1,4 +1,4 @@
-//====== Copyright (c) 1996-2014, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (c) 1996-2014, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Header for flatted SteamAPI. Use this for binding to other languages.
 // This file is auto-generated, do not edit it.

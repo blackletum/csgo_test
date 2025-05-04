@@ -1,4 +1,4 @@
-//===- InMemoryStruct.h - Indirect Struct Access Smart Pointer --*- C++ -*-===//
+﻿//===- InMemoryStruct.h - Indirect Struct Access Smart Pointer --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

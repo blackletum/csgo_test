@@ -1,4 +1,4 @@
-// EAX.H -- DirectSound Environmental Audio Extensions
+﻿// EAX.H -- DirectSound Environmental Audio Extensions
 
 #ifndef EAX_H
 #define EAX_H

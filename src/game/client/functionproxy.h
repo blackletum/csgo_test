@@ -1,4 +1,4 @@
-//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: These are a couple of base proxy classes to help us with
 // getting/setting source/result material vars

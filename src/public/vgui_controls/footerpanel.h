@@ -1,4 +1,4 @@
-#ifndef FOOTERPANEL_H
+﻿#ifndef FOOTERPANEL_H
 #define FOOTERPANEL_H
 
 #ifdef _WIN32

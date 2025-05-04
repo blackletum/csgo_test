@@ -1,4 +1,4 @@
-//===--- StmtVisitor.h - Visitor for Stmt subclasses ------------*- C++ -*-===//
+﻿//===--- StmtVisitor.h - Visitor for Stmt subclasses ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

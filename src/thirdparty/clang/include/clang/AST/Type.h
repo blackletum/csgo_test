@@ -1,4 +1,4 @@
-//===--- Type.h - C Language Family Type Representation ---------*- C++ -*-===//
+﻿//===--- Type.h - C Language Family Type Representation ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

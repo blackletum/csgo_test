@@ -1,4 +1,4 @@
-#include "intelglmallocworkaround.h"
+﻿#include "intelglmallocworkaround.h"
 #include "mach_override.h"
 
 // memdbgon -must- be the last include file in a .cpp file.

@@ -1,4 +1,4 @@
-// ChildView.cpp : implementation of the CChildView class
+﻿// ChildView.cpp : implementation of the CChildView class
 //
 //  See Copyright Notice in gmMachine.h
 

@@ -1,4 +1,4 @@
-//===-- Vectorize.h - Vectorization Transformations -------------*- C++ -*-===//
+﻿//===-- Vectorize.h - Vectorization Transformations -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

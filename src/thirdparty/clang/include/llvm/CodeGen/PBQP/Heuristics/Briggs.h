@@ -1,4 +1,4 @@
-//===-- Briggs.h --- Briggs Heuristic for PBQP ------------------*- C++ -*-===//
+﻿//===-- Briggs.h --- Briggs Heuristic for PBQP ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- PathProfileInfo.h --------------------------------------*- C++ -*---===//
+﻿//===- PathProfileInfo.h --------------------------------------*- C++ -*---===//
 //
 //                     The LLVM Compiler Infrastructure
 //

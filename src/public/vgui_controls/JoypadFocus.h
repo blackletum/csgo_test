@@ -1,4 +1,4 @@
-#ifndef _INCLUDED_JOYPAD_FOCUS_H
+﻿#ifndef _INCLUDED_JOYPAD_FOCUS_H
 #define _INCLUDED_JOYPAD_FOCUS_H
 #ifdef _WIN32
 #pragma once

@@ -1,4 +1,4 @@
-//===- RegionInfo.h - SESE region analysis ----------------------*- C++ -*-===//
+﻿//===- RegionInfo.h - SESE region analysis ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

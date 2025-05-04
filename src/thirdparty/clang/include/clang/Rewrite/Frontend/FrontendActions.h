@@ -1,4 +1,4 @@
-//===-- FrontendActions.h - Useful Frontend Actions -------------*- C++ -*-===//
+﻿//===-- FrontendActions.h - Useful Frontend Actions -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

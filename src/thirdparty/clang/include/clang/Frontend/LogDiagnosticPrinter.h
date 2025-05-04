@@ -1,4 +1,4 @@
-//===--- LogDiagnosticPrinter.h - Log Diagnostic Client ---------*- C++ -*-===//
+﻿//===--- LogDiagnosticPrinter.h - Log Diagnostic Client ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

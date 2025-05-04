@@ -1,4 +1,4 @@
-//===- llvm/Transforms/Utils/BypassSlowDivision.h --------------*- C++ -*-===//
+﻿//===- llvm/Transforms/Utils/BypassSlowDivision.h --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

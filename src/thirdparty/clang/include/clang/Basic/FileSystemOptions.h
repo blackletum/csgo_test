@@ -1,4 +1,4 @@
-//===--- FileSystemOptions.h - File System Options --------------*- C++ -*-===//
+﻿//===--- FileSystemOptions.h - File System Options --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

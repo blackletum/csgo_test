@@ -1,4 +1,4 @@
-//===- llvm/Analysis/TargetTransformInfo.h ----------------------*- C++ -*-===//
+﻿//===- llvm/Analysis/TargetTransformInfo.h ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

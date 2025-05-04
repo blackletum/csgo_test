@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #ifndef VJOBS_MP3DEC_SHARED_HDR
 #define VJOBS_MP3DEC_SHARED_HDR
 

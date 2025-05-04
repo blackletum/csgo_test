@@ -1,4 +1,4 @@
-#ifndef HK_BASE_MEMORY_UTIL_H
+﻿#ifndef HK_BASE_MEMORY_UTIL_H
 #define HK_BASE_MEMORY_UTIL_H
 
 class hk_Memory_Util

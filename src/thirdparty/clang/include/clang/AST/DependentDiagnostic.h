@@ -1,4 +1,4 @@
-//===-- DependentDiagnostic.h - Dependently-generated diagnostics -*- C++ -*-=//
+﻿//===-- DependentDiagnostic.h - Dependently-generated diagnostics -*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

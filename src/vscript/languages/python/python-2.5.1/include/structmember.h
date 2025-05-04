@@ -1,4 +1,4 @@
-#ifndef Py_STRUCTMEMBER_H
+﻿#ifndef Py_STRUCTMEMBER_H
 #define Py_STRUCTMEMBER_H
 #ifdef __cplusplus
 extern "C" {

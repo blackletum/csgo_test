@@ -1,4 +1,4 @@
-//===- PromoteMemToReg.h - Promote Allocas to Scalars -----------*- C++ -*-===//
+﻿//===- PromoteMemToReg.h - Promote Allocas to Scalars -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

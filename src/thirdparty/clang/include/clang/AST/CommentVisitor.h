@@ -1,4 +1,4 @@
-//===--- CommentVisitor.h - Visitor for Comment subclasses ------*- C++ -*-===//
+﻿//===--- CommentVisitor.h - Visitor for Comment subclasses ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

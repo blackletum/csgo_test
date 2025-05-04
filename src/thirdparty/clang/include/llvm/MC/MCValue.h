@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCValue.h - MCValue class -----------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCValue.h - MCValue class -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

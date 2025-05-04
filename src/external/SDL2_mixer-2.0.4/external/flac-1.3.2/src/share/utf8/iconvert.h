@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2001 Edmund Grimley Evans <edmundo@rano.org>
  *
  * This program is free software; you can redistribute it and/or modify

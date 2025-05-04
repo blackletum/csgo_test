@@ -1,4 +1,4 @@
-//===- MCSectionELF.h - ELF Machine Code Sections ---------------*- C++ -*-===//
+﻿//===- MCSectionELF.h - ELF Machine Code Sections ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

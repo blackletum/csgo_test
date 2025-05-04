@@ -1,4 +1,4 @@
-//===- llvm/ADT/PriorityQueue.h - Priority queues ---------------*- C++ -*-===//
+﻿//===- llvm/ADT/PriorityQueue.h - Priority queues ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

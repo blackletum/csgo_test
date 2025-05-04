@@ -1,4 +1,4 @@
-//  See Copyright Notice in gmMachine.h
+﻿//  See Copyright Notice in gmMachine.h
 #include "timer.h"
 
 bool Timer::Init()

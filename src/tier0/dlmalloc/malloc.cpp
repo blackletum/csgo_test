@@ -1,4 +1,4 @@
-/*
+﻿/*
   $Id: malloc.c,v 1.4 2006/03/30 16:47:29 wg Exp $
 
   This version of malloc.c was adapted for ptmalloc3 by Wolfram Gloger

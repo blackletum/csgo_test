@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #include "ps3/spu_job_shared.h"
 #include "vjobs/mp3dec_shared.h"
 

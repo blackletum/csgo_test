@@ -1,4 +1,4 @@
-//===- Target/TargetJITInfo.h - Target Information for JIT ------*- C++ -*-===//
+﻿//===- Target/TargetJITInfo.h - Target Information for JIT ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

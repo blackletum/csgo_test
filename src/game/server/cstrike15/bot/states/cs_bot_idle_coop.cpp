@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Idle update function for coop mode. Split into different file for clarity
 //

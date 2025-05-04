@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright ¿½ Valve Corporation, All rights reserved. ============//
 //
 //
 //==========================================================================//

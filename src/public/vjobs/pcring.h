@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 //
 // Producer-consumer FIFO ring buffers
 // THese are shared between SPU and PPU, and define some common misc functions

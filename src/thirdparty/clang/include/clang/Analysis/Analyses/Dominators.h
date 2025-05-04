@@ -1,4 +1,4 @@
-//==- Dominators.h - Implementation of dominators tree for Clang CFG C++ -*-==//
+﻿//==- Dominators.h - Implementation of dominators tree for Clang CFG C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

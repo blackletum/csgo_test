@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCSchedule.h - Scheduling -----------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCSchedule.h - Scheduling -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

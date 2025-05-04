@@ -1,4 +1,4 @@
-//=========== Copyright � Valve Corporation, All rights reserved. ============//
+﻿//=========== Copyright © Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Mesh class dmx loading functions
 //

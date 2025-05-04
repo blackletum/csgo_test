@@ -1,4 +1,4 @@
-
+﻿
 #if defined(__APPLE__) && !defined(__METAL_VERSION__)
 #include <TargetConditionals.h>
 #endif

@@ -1,4 +1,4 @@
-// NextBotHearingInterface.h
+﻿// NextBotHearingInterface.h
 // Interface for auditory queries of a bot
 // Author: Michael Booth, April 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

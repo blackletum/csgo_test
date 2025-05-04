@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2006, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2006, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: couple of helper functions for  win32 PE modules
 //

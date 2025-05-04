@@ -1,4 +1,4 @@
-//===- VerifyDiagnosticConsumer.h - Verifying Diagnostic Client -*- C++ -*-===//
+﻿//===- VerifyDiagnosticConsumer.h - Verifying Diagnostic Client -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

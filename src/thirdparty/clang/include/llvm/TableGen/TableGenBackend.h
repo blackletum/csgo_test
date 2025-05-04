@@ -1,4 +1,4 @@
-//===- llvm/TableGen/TableGenBackend.h - Backend utilities ------*- C++ -*-===//
+﻿//===- llvm/TableGen/TableGenBackend.h - Backend utilities ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

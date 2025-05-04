@@ -1,4 +1,4 @@
-//===- ChainedDiagnosticConsumer.h - Chain Diagnostic Clients ---*- C++ -*-===//
+﻿//===- ChainedDiagnosticConsumer.h - Chain Diagnostic Clients ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

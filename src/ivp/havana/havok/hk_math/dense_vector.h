@@ -1,4 +1,4 @@
-#ifndef HK_MATH_DENSE_VECTOR_H
+﻿#ifndef HK_MATH_DENSE_VECTOR_H
 #define HK_MATH_DENSE_VECTOR_H
 
 class hk_Dense_Vector

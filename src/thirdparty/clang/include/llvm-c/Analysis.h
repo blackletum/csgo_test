@@ -1,4 +1,4 @@
-/*===-- llvm-c/Analysis.h - Analysis Library C Interface --------*- C++ -*-===*\
+﻿/*===-- llvm-c/Analysis.h - Analysis Library C Interface --------*- C++ -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

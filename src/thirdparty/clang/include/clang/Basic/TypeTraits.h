@@ -1,4 +1,4 @@
-//===--- TypeTraits.h - C++ Type Traits Support Enumerations ----*- C++ -*-===//
+﻿//===--- TypeTraits.h - C++ Type Traits Support Enumerations ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

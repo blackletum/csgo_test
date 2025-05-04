@@ -1,4 +1,4 @@
-//===- llvm/ADT/SmallSet.h - 'Normally small' sets --------------*- C++ -*-===//
+﻿//===- llvm/ADT/SmallSet.h - 'Normally small' sets --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

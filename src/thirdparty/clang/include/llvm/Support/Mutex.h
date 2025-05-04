@@ -1,4 +1,4 @@
-//===- llvm/Support/Mutex.h - Mutex Operating System Concept -----*- C++ -*-===//
+﻿//===- llvm/Support/Mutex.h - Mutex Operating System Concept -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

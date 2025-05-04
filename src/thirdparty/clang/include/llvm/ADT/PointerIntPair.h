@@ -1,4 +1,4 @@
-//===- llvm/ADT/PointerIntPair.h - Pair for pointer and int -----*- C++ -*-===//
+﻿//===- llvm/ADT/PointerIntPair.h - Pair for pointer and int -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

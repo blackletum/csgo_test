@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ====//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ====//
 #include "tier0/platform.h"
 #ifdef _PS3
 #include "dxabstract.h"

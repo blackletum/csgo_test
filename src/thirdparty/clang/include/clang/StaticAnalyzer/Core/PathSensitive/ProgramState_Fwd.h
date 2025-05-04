@@ -1,4 +1,4 @@
-//== ProgramState_Fwd.h - Incomplete declarations of ProgramState -*- C++ -*--=/
+﻿//== ProgramState_Fwd.h - Incomplete declarations of ProgramState -*- C++ -*--=/
 //
 //                     The LLVM Compiler Infrastructure
 //

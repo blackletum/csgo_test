@@ -1,4 +1,4 @@
-//===--- PrettyPrinter.h - Classes for aiding with AST printing -*- C++ -*-===//
+﻿//===--- PrettyPrinter.h - Classes for aiding with AST printing -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

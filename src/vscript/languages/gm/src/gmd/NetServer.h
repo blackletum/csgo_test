@@ -1,4 +1,4 @@
-#ifndef _NETSERVER_H_
+﻿#ifndef _NETSERVER_H_
 #define _NETSERVER_H_
 
 //  See Copyright Notice in gmMachine.h

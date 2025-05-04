@@ -1,4 +1,4 @@
-
+﻿
 /* Generator object interface */
 
 #ifndef Py_GENOBJECT_H

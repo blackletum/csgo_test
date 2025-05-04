@@ -1,4 +1,4 @@
-/*===========================================================================
+﻿/*===========================================================================
   xmldef.h
     definitions, macros and function prototypes for parsifal.c
     see parsifal.h for copyright info

@@ -1,4 +1,4 @@
-//===--- NestedNameSpecifier.h - C++ nested name specifiers -----*- C++ -*-===//
+﻿//===--- NestedNameSpecifier.h - C++ nested name specifiers -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

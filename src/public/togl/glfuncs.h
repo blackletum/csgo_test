@@ -1,4 +1,4 @@
-// !!! FIXME: Some of these aren't base OpenGL...pick out the extensions.
+﻿// !!! FIXME: Some of these aren't base OpenGL...pick out the extensions.
 // !!! FIXME: Also, look up these -1, -1 versions numbers.
 GL_FUNC(OpenGL,true,GLenum,glGetError,(void),())
 GL_FUNC_VOID(OpenGL,true,glActiveTexture,(GLenum a),(a))

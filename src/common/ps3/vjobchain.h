@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #if !defined( VJOBS_CHAINUTILS_HDR ) && defined( _PS3 )
 #define VJOBS_CHAINUTILS_HDR
 

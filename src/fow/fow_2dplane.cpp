@@ -1,4 +1,4 @@
-#include "fow_2dplane.h"
+﻿#include "fow_2dplane.h"
 #include "mathlib/vector.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

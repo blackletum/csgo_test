@@ -1,4 +1,4 @@
-/* see copyright notice in squirrel.h */
+﻿/* see copyright notice in squirrel.h */
 #ifdef _PS3
 #include <ctype.h>
 #include <stdio.h>

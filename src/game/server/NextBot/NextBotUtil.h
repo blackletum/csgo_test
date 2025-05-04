@@ -1,4 +1,4 @@
-// NextBotUtil.h
+﻿// NextBotUtil.h
 // Utilities for the NextBot system
 // Author: Michael Booth, May 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

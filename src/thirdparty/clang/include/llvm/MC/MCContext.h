@@ -1,4 +1,4 @@
-//===- MCContext.h - Machine Code Context -----------------------*- C++ -*-===//
+﻿//===- MCContext.h - Machine Code Context -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

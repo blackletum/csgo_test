@@ -1,4 +1,4 @@
-//===--- SerializationDiagnostic.h - Serialization Diagnostics -*- C++ -*-===//
+﻿//===--- SerializationDiagnostic.h - Serialization Diagnostics -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

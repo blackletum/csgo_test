@@ -1,4 +1,4 @@
-//===--- PartialDiagnostic.h - Diagnostic "closures" ------------*- C++ -*-===//
+﻿//===--- PartialDiagnostic.h - Diagnostic "closures" ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

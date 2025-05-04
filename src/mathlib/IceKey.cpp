@@ -1,4 +1,4 @@
-// Purpose: C++ implementation of the ICE encryption algorithm.
+﻿// Purpose: C++ implementation of the ICE encryption algorithm.
 //			Taken from public domain code, as written by Matthew Kwan - July 1996
 //			http://www.darkside.com.au/ice/
 

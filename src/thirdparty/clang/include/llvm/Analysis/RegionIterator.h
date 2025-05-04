@@ -1,4 +1,4 @@
-//===- RegionIterator.h - Iterators to iteratate over Regions ---*- C++ -*-===//
+﻿//===- RegionIterator.h - Iterators to iteratate over Regions ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

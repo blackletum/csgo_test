@@ -1,4 +1,4 @@
-/* alloc.c -- Memory allocation without mmap.
+﻿/* alloc.c -- Memory allocation without mmap.
    Copyright (C) 2012-2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

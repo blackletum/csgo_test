@@ -1,4 +1,4 @@
-//===-- llvm/Support/AIXDataTypesFix.h - Fix datatype defs ------*- C++ -*-===//
+﻿//===-- llvm/Support/AIXDataTypesFix.h - Fix datatype defs ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

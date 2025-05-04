@@ -1,4 +1,4 @@
-//===-- llvm/Metadata.h - Metadata definitions ------------------*- C++ -*-===//
+﻿//===-- llvm/Metadata.h - Metadata definitions ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- llvm/Analysis/IVUsers.h - Induction Variable Users -------*- C++ -*-===//
+﻿//===- llvm/Analysis/IVUsers.h - Induction Variable Users -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

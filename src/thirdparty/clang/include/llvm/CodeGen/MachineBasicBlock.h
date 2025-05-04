@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineBasicBlock.h ------------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineBasicBlock.h ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

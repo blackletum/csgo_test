@@ -1,4 +1,4 @@
-//===-- llvm/Support/DotGraphTraits.h - Customize .dot output ---*- C++ -*-===//
+﻿//===-- llvm/Support/DotGraphTraits.h - Customize .dot output ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

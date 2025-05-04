@@ -1,4 +1,4 @@
-#include "TracyFilesystem.hpp"
+﻿#include "TracyFilesystem.hpp"
 #include "TracyView.hpp"
 
 namespace tracy

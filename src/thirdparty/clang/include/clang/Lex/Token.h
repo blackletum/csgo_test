@@ -1,4 +1,4 @@
-//===--- Token.h - Token interface ------------------------------*- C++ -*-===//
+﻿//===--- Token.h - Token interface ------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

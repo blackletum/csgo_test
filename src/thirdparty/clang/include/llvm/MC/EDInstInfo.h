@@ -1,4 +1,4 @@
-//===-- llvm/MC/EDInstInfo.h - EDis instruction info ------------*- C++ -*-===//
+﻿//===-- llvm/MC/EDInstInfo.h - EDis instruction info ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Describes our resource format. Resource files consist of two files:
 // The first is a resource descriptor file containing various blocks of

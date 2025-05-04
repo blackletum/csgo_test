@@ -1,4 +1,4 @@
-//===== Copyright (c) 1996-2008, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) 1996-2008, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Support for mapping from a quad mesh to Bicubic Patches, as a means
 //          of rendering approximate Catmull-Clark subdivision surfaces

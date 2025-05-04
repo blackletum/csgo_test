@@ -1,4 +1,4 @@
-//===-- RegisterClassInfo.h - Dynamic Register Class Info -*- C++ -*-------===//
+﻿//===-- RegisterClassInfo.h - Dynamic Register Class Info -*- C++ -*-------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

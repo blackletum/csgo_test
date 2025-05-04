@@ -1,4 +1,4 @@
-//===-- llvm/User.h - User class definition ---------------------*- C++ -*-===//
+﻿//===-- llvm/User.h - User class definition ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

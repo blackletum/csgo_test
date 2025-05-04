@@ -1,4 +1,4 @@
-//===--- Specifiers.h - Declaration and Type Specifiers ---------*- C++ -*-===//
+﻿//===--- Specifiers.h - Declaration and Type Specifiers ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

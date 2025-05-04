@@ -1,4 +1,4 @@
-//===--- ASTContext.h - Context to hold long-lived AST nodes ----*- C++ -*-===//
+﻿//===--- ASTContext.h - Context to hold long-lived AST nodes ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

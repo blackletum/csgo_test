@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 
 #ifndef ISTEAMMUSICREMOTE_H
 #define ISTEAMMUSICREMOTE_H

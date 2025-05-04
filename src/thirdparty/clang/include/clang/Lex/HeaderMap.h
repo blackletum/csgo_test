@@ -1,4 +1,4 @@
-//===--- HeaderMap.h - A file that acts like dir of symlinks ----*- C++ -*-===//
+﻿//===--- HeaderMap.h - A file that acts like dir of symlinks ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

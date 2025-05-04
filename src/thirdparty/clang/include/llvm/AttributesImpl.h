@@ -1,4 +1,4 @@
-//===-- AttributesImpl.h - Attributes Internals -----------------*- C++ -*-===//
+﻿//===-- AttributesImpl.h - Attributes Internals -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

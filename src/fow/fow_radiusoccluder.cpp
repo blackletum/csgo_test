@@ -1,4 +1,4 @@
-#include "fow.h"
+﻿#include "fow.h"
 #include "fow_radiusoccluder.h"
 #include "fow_viewer.h"
 #include "fow_2dplane.h"

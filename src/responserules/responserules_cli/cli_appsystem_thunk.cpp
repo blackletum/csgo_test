@@ -1,4 +1,4 @@
-/// These functions define the MANAGED interface. This file has /CLR.
+﻿/// These functions define the MANAGED interface. This file has /CLR.
 ///
 /// Defines an interface which may be called from the MANAGED code's 
 /// main function to start up (connect) and shut down (disconnect) 

@@ -1,4 +1,4 @@
-//===-- Transform/Utils/CodeExtractor.h - Code extraction util --*- C++ -*-===//
+﻿//===-- Transform/Utils/CodeExtractor.h - Code extraction util --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

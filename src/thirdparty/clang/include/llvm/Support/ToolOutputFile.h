@@ -1,4 +1,4 @@
-//===- ToolOutputFile.h - Output files for compiler-like tools -----------===//
+﻿//===- ToolOutputFile.h - Output files for compiler-like tools -----------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// turn off warnings that get generated when building Crypto++ in our environment
+﻿// turn off warnings that get generated when building Crypto++ in our environment
 
 #ifdef _WIN32
 #pragma warning( disable : 4100 ) // Warning C4100: unreferenced formal parameter

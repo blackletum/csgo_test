@@ -1,4 +1,4 @@
-//===--- OnDiskHashTable.h - On-Disk Hash Table Implementation --*- C++ -*-===//
+﻿//===--- OnDiskHashTable.h - On-Disk Hash Table Implementation --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===== Copyright   1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright   1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Access to the cuter features of the PS3
 //          devkit, like the front LEDs.

@@ -1,4 +1,4 @@
-//===--- ParseAST.h - Define the ParseAST method ----------------*- C++ -*-===//
+﻿//===--- ParseAST.h - Define the ParseAST method ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

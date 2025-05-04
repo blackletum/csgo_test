@@ -1,4 +1,4 @@
-//===-- llvm/Instruction.h - Instruction class definition -------*- C++ -*-===//
+﻿//===-- llvm/Instruction.h - Instruction class definition -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

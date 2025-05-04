@@ -1,4 +1,4 @@
-//===== Copyright (c) Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) Valve Corporation, All rights reserved. ======//
 //
 // Purpose: PS3-specific font code that for historical reasons is hidden 
 //          in the materialsystem.

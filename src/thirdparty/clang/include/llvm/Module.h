@@ -1,4 +1,4 @@
-//===-- llvm/Module.h - C++ class to represent a VM module ------*- C++ -*-===//
+﻿//===-- llvm/Module.h - C++ class to represent a VM module ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

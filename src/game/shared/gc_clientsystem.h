@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_GC_CLIENTSYSTEM_H
+﻿#ifndef KISAKSTRIKE_GC_CLIENTSYSTEM_H
 #define KISAKSTRIKE_GC_CLIENTSYSTEM_H
 
 #include <gcsdk/gcclientsdk.h>

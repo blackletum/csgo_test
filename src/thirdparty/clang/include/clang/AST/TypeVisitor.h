@@ -1,4 +1,4 @@
-//===--- TypeVisitor.h - Visitor for Type subclasses ------------*- C++ -*-===//
+﻿//===--- TypeVisitor.h - Visitor for Type subclasses ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// MFC_DEMOView.h : interface of the CMFC_DEMOView class
+﻿// MFC_DEMOView.h : interface of the CMFC_DEMOView class
 //
 /////////////////////////////////////////////////////////////////////////////
 

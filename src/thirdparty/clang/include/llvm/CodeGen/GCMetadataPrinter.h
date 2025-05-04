@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/GCMetadataPrinter.h - Prints asm GC tables -*- C++ -*-===//
+﻿//===-- llvm/CodeGen/GCMetadataPrinter.h - Prints asm GC tables -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

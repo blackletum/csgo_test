@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2008, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Contains the declaration of the CDmeControlGroup class. The
 // CDmeControlGroup class is a grouping of animation controls that is used for

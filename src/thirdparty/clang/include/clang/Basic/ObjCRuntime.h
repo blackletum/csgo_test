@@ -1,4 +1,4 @@
-//===--- ObjCRuntime.h - Objective-C Runtime Configuration ------*- C++ -*-===//
+﻿//===--- ObjCRuntime.h - Objective-C Runtime Configuration ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

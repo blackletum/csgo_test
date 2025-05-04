@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #ifndef VJOB_SPURS_UTILS_HDR
 #define VJOB_SPURS_UTILS_HDR
 

@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetOpcodes.h - Target Indep Opcodes ------*- C++ -*-===//
+﻿//===-- llvm/Target/TargetOpcodes.h - Target Indep Opcodes ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

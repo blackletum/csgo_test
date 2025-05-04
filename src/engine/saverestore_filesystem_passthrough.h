@@ -1,4 +1,4 @@
-//===== Copyright Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Implementation to execute traditional save to disk behavior
 //

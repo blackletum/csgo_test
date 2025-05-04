@@ -1,4 +1,4 @@
-//== ConstraintManager.h - Constraints on symbolic values.-------*- C++ -*--==//
+﻿//== ConstraintManager.h - Constraints on symbolic values.-------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

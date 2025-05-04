@@ -1,4 +1,4 @@
-//=== MachORelocation.h - Mach-O Relocation Info ----------------*- C++ -*-===//
+﻿//=== MachORelocation.h - Mach-O Relocation Info ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/* Copyright (c) 2001-2011 Timothy B. Terriberry
+﻿/* Copyright (c) 2001-2011 Timothy B. Terriberry
    Copyright (c) 2008-2009 Xiph.Org Foundation */
 /*
    Redistribution and use in source and binary forms, with or without

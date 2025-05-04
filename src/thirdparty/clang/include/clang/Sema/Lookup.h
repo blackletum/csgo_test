@@ -1,4 +1,4 @@
-//===--- Lookup.h - Classes for name lookup ---------------------*- C++ -*-===//
+﻿//===--- Lookup.h - Classes for name lookup ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

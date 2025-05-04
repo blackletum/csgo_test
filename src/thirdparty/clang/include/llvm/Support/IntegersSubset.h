@@ -1,4 +1,4 @@
-//===-- llvm/IntegersSubset.h - The subset of integers ----------*- C++ -*-===//
+﻿//===-- llvm/IntegersSubset.h - The subset of integers ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

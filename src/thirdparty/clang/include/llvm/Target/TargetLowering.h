@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetLowering.h - Target Lowering Info -----*- C++ -*-===//
+﻿//===-- llvm/Target/TargetLowering.h - Target Lowering Info -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

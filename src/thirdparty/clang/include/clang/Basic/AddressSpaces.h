@@ -1,4 +1,4 @@
-//===--- AddressSpaces.h - Language-specific address spaces -----*- C++ -*-===//
+﻿//===--- AddressSpaces.h - Language-specific address spaces -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

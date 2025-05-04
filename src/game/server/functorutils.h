@@ -1,4 +1,4 @@
-// FunctorUtils.h
+﻿// FunctorUtils.h
 // Useful functors
 // Author: Michael Booth, August 2005, Copyright 2005 Turtle Rock Studios, Inc.
 

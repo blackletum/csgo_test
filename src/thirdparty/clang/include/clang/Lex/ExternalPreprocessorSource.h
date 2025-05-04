@@ -1,4 +1,4 @@
-//===- ExternalPreprocessorSource.h - Abstract Macro Interface --*- C++ -*-===//
+﻿//===- ExternalPreprocessorSource.h - Abstract Macro Interface --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

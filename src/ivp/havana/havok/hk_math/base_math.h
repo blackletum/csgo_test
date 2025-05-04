@@ -1,4 +1,4 @@
-#ifndef HK_MATH_MATH_H
+﻿#ifndef HK_MATH_MATH_H
 #define HK_MATH_MATH_H
 
 #include <hk_base/base.h>

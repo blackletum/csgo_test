@@ -1,4 +1,4 @@
-#define IDM_FILE	0
+﻿#define IDM_FILE	0
 #define IDM_EDIT	1
 #define IDM_HELP	2
 

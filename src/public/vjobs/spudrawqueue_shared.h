@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 // the constants and declarations needed for the SPU draw queue
 //
 #ifndef VJOBS_SPUDRAWQUEUE_SHARED_HDR

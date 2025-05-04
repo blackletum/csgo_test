@@ -1,4 +1,4 @@
-#ifndef STDSTUFF_H
+﻿#ifndef STDSTUFF_H
 #define STDSTUFF_H
 
 //

@@ -1,4 +1,4 @@
-//===--- DeltaAlgorithm.h - A Set Minimization Algorithm -------*- C++ -*--===//
+﻿//===--- DeltaAlgorithm.h - A Set Minimization Algorithm -------*- C++ -*--===//
 //
 //                     The LLVM Compiler Infrastructure
 //

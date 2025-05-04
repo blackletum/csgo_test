@@ -1,4 +1,4 @@
-//=========== Copyright (c) Valve Corporation, All rights reserved. ===========
+﻿//=========== Copyright (c) Valve Corporation, All rights reserved. ===========
 //
 // Simple entity to switch the map's 2D skybox texture when triggered.
 //

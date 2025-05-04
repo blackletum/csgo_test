@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineFunction.h --------------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineFunction.h --------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

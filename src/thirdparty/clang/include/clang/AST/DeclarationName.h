@@ -1,4 +1,4 @@
-//===-- DeclarationName.h - Representation of declaration names -*- C++ -*-===//
+﻿//===-- DeclarationName.h - Representation of declaration names -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

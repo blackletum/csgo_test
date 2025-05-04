@@ -1,4 +1,4 @@
-#ifndef HK_BASE_MEMORY_H
+﻿#ifndef HK_BASE_MEMORY_H
 #define HK_BASE_MEMORY_H
 
 #define HK_MEMORY_MAX_ROW				12

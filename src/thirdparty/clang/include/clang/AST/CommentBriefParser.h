@@ -1,4 +1,4 @@
-//===--- CommentBriefParser.h - Dumb comment parser -------------*- C++ -*-===//
+﻿//===--- CommentBriefParser.h - Dumb comment parser -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

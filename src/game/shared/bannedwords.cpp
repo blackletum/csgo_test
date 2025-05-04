@@ -1,4 +1,4 @@
-//====== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Implementation of China Government Censorship enforced on all user-generated strings
 //

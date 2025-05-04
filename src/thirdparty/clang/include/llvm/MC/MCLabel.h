@@ -1,4 +1,4 @@
-//===- MCLabel.h - Machine Code Directional Local Labels --------*- C++ -*-===//
+﻿//===- MCLabel.h - Machine Code Directional Local Labels --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

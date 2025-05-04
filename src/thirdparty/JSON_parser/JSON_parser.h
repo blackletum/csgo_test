@@ -1,4 +1,4 @@
-/* See JSON_parser.c for copyright information and licensing. */
+﻿/* See JSON_parser.c for copyright information and licensing. */
 
 #ifndef JSON_PARSER_H
 #define JSON_PARSER_H

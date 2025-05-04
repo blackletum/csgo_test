@@ -1,4 +1,4 @@
-#define MODULE_TEMPLATE2(mod, fname)									\
+﻿#define MODULE_TEMPLATE2(mod, fname)									\
 																		\
 																		\
 	static HMODULE hMod = NULL;											\

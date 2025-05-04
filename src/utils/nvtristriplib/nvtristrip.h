@@ -1,4 +1,4 @@
-#ifndef NVTRISTRIP_H
+﻿#ifndef NVTRISTRIP_H
 #define NVTRISTRIP_H
 
 #ifndef NULL

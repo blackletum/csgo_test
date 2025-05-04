@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCInst.h - MCInst class -------------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCInst.h - MCInst class -------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// Use with instructions.xml retrieved from uops.info
+﻿// Use with instructions.xml retrieved from uops.info
 
 #include <algorithm>
 #include <assert.h>

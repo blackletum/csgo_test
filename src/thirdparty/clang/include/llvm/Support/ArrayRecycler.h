@@ -1,4 +1,4 @@
-//==- llvm/Support/ArrayRecycler.h - Recycling of Arrays ---------*- C++ -*-==//
+﻿//==- llvm/Support/ArrayRecycler.h - Recycling of Arrays ---------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

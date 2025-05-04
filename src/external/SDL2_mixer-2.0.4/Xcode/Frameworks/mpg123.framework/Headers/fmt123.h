@@ -1,4 +1,4 @@
-/*
+﻿/*
 	libmpg123: MPEG Audio Decoder library
 
 	separate header just for audio format definitions not tied to

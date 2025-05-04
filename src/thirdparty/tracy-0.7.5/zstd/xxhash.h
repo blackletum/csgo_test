@@ -1,4 +1,4 @@
-/*
+﻿/*
  * xxHash - Extremely Fast Hash algorithm
  * Header File
  * Copyright (c) 2012-2020, Yann Collet, Facebook, Inc.

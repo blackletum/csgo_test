@@ -1,4 +1,4 @@
-/* A manual version of config.h fit for windows machines. */
+﻿/* A manual version of config.h fit for windows machines. */
 
 /* Sometimes we accidentally #include this config.h instead of the one
    in .. -- this is particularly true for msys/mingw, which uses the

@@ -1,4 +1,4 @@
-//===== Copyright 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright 1996-2005, Valve Corporation, All rights reserved. ======//
 // This file is a force-include override
 
 #ifdef PLATFORM_OVERRIDE_MATERIALSYSTEM

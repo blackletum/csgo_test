@@ -1,4 +1,4 @@
-//===== Copyright 2005-2009, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright 2005-2009, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Helper methods + classes for sound
 //

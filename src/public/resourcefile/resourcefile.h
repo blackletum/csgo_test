@@ -1,4 +1,4 @@
-//===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Describes our resource format. All resource files have a simplistic
 // dictionary of resource "blocks", which can be looked up using a block type id.

@@ -1,4 +1,4 @@
-//===- MCSymbol.h - Machine Code Symbols ------------------------*- C++ -*-===//
+﻿//===- MCSymbol.h - Machine Code Symbols ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

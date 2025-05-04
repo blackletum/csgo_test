@@ -1,4 +1,4 @@
-/*
+﻿/*
 	synth_8bit.h: Wrappers over optimized synth_xtoy for converting signed short to 8bit.
 
 	copyright 1995-2008 by the mpg123 project - free software under the terms of the LGPL 2.1

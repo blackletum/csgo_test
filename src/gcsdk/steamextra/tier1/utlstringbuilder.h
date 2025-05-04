@@ -1,4 +1,4 @@
-//====== Copyright � Valve Corporation, All rights reserved. ==================
+﻿//====== Copyright © Valve Corporation, All rights reserved. ==================
 //
 // Purpose: String class thats more suited to frequent modification/appends
 //			than CUtlString. Copied from Steam's tier1 utlstring.h instead of

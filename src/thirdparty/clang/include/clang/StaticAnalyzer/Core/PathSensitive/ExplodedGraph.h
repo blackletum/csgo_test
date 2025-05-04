@@ -1,4 +1,4 @@
-//=-- ExplodedGraph.h - Local, Path-Sens. "Exploded Graph" -*- C++ -*-------==//
+﻿//=-- ExplodedGraph.h - Local, Path-Sens. "Exploded Graph" -*- C++ -*-------==//
 //
 //                     The LLVM Compiler Infrastructure
 //

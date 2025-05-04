@@ -1,4 +1,4 @@
-//===--- GlobalDecl.h - Global declaration holder ---------------*- C++ -*-===//
+﻿//===--- GlobalDecl.h - Global declaration holder ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

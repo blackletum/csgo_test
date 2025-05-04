@@ -1,4 +1,4 @@
-//===--- DiagnosticAnalysis.h - Diagnostics for libanalysis -----*- C++ -*-===//
+﻿//===--- DiagnosticAnalysis.h - Diagnostics for libanalysis -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

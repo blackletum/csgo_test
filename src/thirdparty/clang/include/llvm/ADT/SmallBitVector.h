@@ -1,4 +1,4 @@
-//===- llvm/ADT/SmallBitVector.h - 'Normally small' bit vectors -*- C++ -*-===//
+﻿//===- llvm/ADT/SmallBitVector.h - 'Normally small' bit vectors -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

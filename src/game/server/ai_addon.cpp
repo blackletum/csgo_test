@@ -1,4 +1,4 @@
-// ai_addon.cpp
+﻿// ai_addon.cpp
 #include "cbase.h"
 #include "ai_addon.h"
 #include "ai_basenpc.h"

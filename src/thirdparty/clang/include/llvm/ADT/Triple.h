@@ -1,4 +1,4 @@
-//===-- llvm/ADT/Triple.h - Target triple helper class ----------*- C++ -*-===//
+﻿//===-- llvm/ADT/Triple.h - Target triple helper class ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

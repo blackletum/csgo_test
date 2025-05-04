@@ -1,4 +1,4 @@
-#ifndef _ISEARCHMANAGER_H_
+﻿#ifndef _ISEARCHMANAGER_H_
 #define _ISEARCHMANAGER_H_
 
 class IMatchSearchResult;

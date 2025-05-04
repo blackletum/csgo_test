@@ -1,4 +1,4 @@
-/// @file response_system.cpp
+﻿/// @file response_system.cpp
 /// This file defines the editor's version 
 /// of a response-system. 
 

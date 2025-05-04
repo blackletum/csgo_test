@@ -1,4 +1,4 @@
-
+﻿
 /* Module object interface */
 
 #ifndef Py_MODULEOBJECT_H

@@ -1,4 +1,4 @@
-// func_elevator.h
+﻿// func_elevator.h
 // Copyright 2007 Turtle Rock Studios, Inc.
 
 #ifndef FUNC_ELEVATOR_H

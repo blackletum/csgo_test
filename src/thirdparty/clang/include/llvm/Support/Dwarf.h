@@ -1,4 +1,4 @@
-//===-- llvm/Support/Dwarf.h ---Dwarf Constants------------------*- C++ -*-===//
+﻿//===-- llvm/Support/Dwarf.h ---Dwarf Constants------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- Initialization.h - Semantic Analysis for Initializers --*- C++ -*-===//
+﻿//===--- Initialization.h - Semantic Analysis for Initializers --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

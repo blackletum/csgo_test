@@ -1,4 +1,4 @@
-
+﻿
 #include "tier0/platform.h"
 #include "crccheck_shared.h"
 #include "tier1/checksum_crc.h"

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * jversion.h
  *
  * Copyright (C) 1991-2010, Thomas G. Lane, Guido Vollbeding.

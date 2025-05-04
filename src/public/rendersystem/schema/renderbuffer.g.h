@@ -1,4 +1,4 @@
-#ifndef RENDERBUFFER_G_H
+﻿#ifndef RENDERBUFFER_G_H
 #define RENDERBUFFER_G_H
 
 #ifdef COMPILER_MSVC

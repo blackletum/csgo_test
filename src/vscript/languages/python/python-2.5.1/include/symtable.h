@@ -1,4 +1,4 @@
-#ifndef Py_SYMTABLE_H
+﻿#ifndef Py_SYMTABLE_H
 #define Py_SYMTABLE_H
 
 #ifdef __cplusplus

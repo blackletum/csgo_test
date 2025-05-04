@@ -1,4 +1,4 @@
-/* png.h - header file for PNG reference library
+﻿/* png.h - header file for PNG reference library
  *
  * libpng version 1.6.47
  *

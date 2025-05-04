@@ -1,4 +1,4 @@
-/*
+﻿/*
 	huffman.h: huffman tables ... recalcualted to work with optimized decoder scheme (MH)
 
 	copyright ?-2006 by the mpg123 project - free software under the terms of the LGPL 2.1

@@ -1,4 +1,4 @@
-//===- JITEventListener.h - Exposes events from JIT compilation -*- C++ -*-===//
+﻿//===- JITEventListener.h - Exposes events from JIT compilation -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

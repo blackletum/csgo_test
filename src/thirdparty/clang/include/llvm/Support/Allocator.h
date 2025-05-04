@@ -1,4 +1,4 @@
-//===--- Allocator.h - Simple memory allocation abstraction -----*- C++ -*-===//
+﻿//===--- Allocator.h - Simple memory allocation abstraction -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

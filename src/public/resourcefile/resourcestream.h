@@ -1,4 +1,4 @@
-//===== Copyright � Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Resource Stream is conceptually memory file where you write the data
 //          that you want to live both on disk and in memory. The constraint then is

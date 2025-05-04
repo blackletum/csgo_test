@@ -1,4 +1,4 @@
-//===-- Support/TargetRegistry.h - Target Registration ----------*- C++ -*-===//
+﻿//===-- Support/TargetRegistry.h - Target Registration ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

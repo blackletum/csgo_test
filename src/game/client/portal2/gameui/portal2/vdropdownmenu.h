@@ -1,4 +1,4 @@
-#ifndef __VDROPDOWNMENU_H__
+﻿#ifndef __VDROPDOWNMENU_H__
 #define __VDROPDOWNMENU_H__
 
 #include "basemodui.h"

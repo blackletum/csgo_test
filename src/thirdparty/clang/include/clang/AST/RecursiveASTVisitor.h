@@ -1,4 +1,4 @@
-//===--- RecursiveASTVisitor.h - Recursive AST Visitor ----------*- C++ -*-===//
+﻿//===--- RecursiveASTVisitor.h - Recursive AST Visitor ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

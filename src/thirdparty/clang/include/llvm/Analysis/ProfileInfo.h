@@ -1,4 +1,4 @@
-//===- llvm/Analysis/ProfileInfo.h - Profile Info Interface -----*- C++ -*-===//
+﻿//===- llvm/Analysis/ProfileInfo.h - Profile Info Interface -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

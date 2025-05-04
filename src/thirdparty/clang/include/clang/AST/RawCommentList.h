@@ -1,4 +1,4 @@
-//===--- RawCommentList.h - Classes for processing raw comments -*- C++ -*-===//
+﻿//===--- RawCommentList.h - Classes for processing raw comments -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

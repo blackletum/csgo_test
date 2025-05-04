@@ -1,4 +1,4 @@
-/*===========================================================================
+﻿/*===========================================================================
   isrcmem.h
     Provides helper macros and typedefs for parsing memory buffers
     see parsifal.h for copyright info

@@ -1,4 +1,4 @@
-//========= Copyright (c), Valve LLC, All rights reserved. ============
+﻿//========= Copyright (c), Valve LLC, All rights reserved. ============
 //
 // Purpose: A utility for printing out reports on the GC in an ordered manner
 //

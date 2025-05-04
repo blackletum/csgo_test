@@ -1,4 +1,4 @@
-#ifndef _NETCLIENT_H_
+﻿#ifndef _NETCLIENT_H_
 #define _NETCLIENT_H_
 
 //  See Copyright Notice in gmMachine.h

@@ -1,4 +1,4 @@
-//===-- RegisterScavenging.h - Machine register scavenging ------*- C++ -*-===//
+﻿//===-- RegisterScavenging.h - Machine register scavenging ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- CodeCompletionHandler.h - Preprocessor code completion -*- C++ -*-===//
+﻿//===--- CodeCompletionHandler.h - Preprocessor code completion -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

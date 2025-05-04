@@ -1,4 +1,4 @@
-//=- llvm/CodeGen/MachineDominators.h ----------------------------*- C++ -*-==//
+﻿//=- llvm/CodeGen/MachineDominators.h ----------------------------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

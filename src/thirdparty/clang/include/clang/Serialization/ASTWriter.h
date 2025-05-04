@@ -1,4 +1,4 @@
-//===--- ASTWriter.h - AST File Writer --------------------------*- C++ -*-===//
+﻿//===--- ASTWriter.h - AST File Writer --------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

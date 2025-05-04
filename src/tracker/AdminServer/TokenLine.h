@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 // TokenLine.h: interface for the CommandLine class.
 //
 //////////////////////////////////////////////////////////////////////

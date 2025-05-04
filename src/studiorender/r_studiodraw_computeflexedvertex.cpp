@@ -1,4 +1,4 @@
-//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============//
 #include "studiorender.h"
 #include "studio.h"
 #include "materialsystem/imesh.h"

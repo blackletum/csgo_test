@@ -1,4 +1,4 @@
-//  See Copyright Notice in gmMachine.h
+﻿//  See Copyright Notice in gmMachine.h
 
 #include "gmmachine.h"
 #include "gmthread.h"

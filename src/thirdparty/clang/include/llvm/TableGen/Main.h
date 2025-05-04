@@ -1,4 +1,4 @@
-//===- llvm/TableGen/Main.h - tblgen entry point ----------------*- C++ -*-===//
+﻿//===- llvm/TableGen/Main.h - tblgen entry point ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

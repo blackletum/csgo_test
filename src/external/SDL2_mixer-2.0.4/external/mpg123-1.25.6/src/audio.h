@@ -1,4 +1,4 @@
-/*
+﻿/*
 	audio: audio output interface
 
 	This is what is left after separating out libout123.

@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_RADAR_H
+﻿#ifndef KISAKSTRIKE_RKHUD_RADAR_H
 #define KISAKSTRIKE_RKHUD_RADAR_H
 
 #include <rocketui/rocketui.h>

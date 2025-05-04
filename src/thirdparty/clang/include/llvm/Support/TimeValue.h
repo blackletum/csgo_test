@@ -1,4 +1,4 @@
-//===-- TimeValue.h - Declare OS TimeValue Concept --------------*- C++ -*-===//
+﻿//===-- TimeValue.h - Declare OS TimeValue Concept --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

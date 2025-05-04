@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This source code is public domain.
  *
  * Handles unpacking of Powerpack PP20

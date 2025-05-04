@@ -1,4 +1,4 @@
-//===-- Scalar.h - Scalar Transformations -----------------------*- C++ -*-===//
+﻿//===-- Scalar.h - Scalar Transformations -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

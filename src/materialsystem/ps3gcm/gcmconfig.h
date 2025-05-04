@@ -1,4 +1,4 @@
-//================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
+﻿//================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
 //
 // Configure gcm be inline, unsfae etc....
 // Inlcude (spu or ppu) after cell headers

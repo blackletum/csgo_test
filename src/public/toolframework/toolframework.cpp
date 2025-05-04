@@ -1,4 +1,4 @@
-#include "toolframework/itooldictionary.h"
+﻿#include "toolframework/itooldictionary.h"
 #include "utlvector.h"
 
 class CToolDictionary : public IToolDictionary

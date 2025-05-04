@@ -1,4 +1,4 @@
-//========= Copyright (c) 2010, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c) 2010, Valve Corporation, All rights reserved. ============//
 /*   SCE CONFIDENTIAL                                       */
 /*   PlayStation(R)3 Programmer Tool Runtime Library 350.001 */
 /*   Copyright (C) 2009 Sony Computer Entertainment Inc.    */

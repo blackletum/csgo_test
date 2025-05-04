@@ -1,4 +1,4 @@
-//===-- llvm/ADT/EquivalenceClasses.h - Generic Equiv. Classes --*- C++ -*-===//
+﻿//===-- llvm/ADT/EquivalenceClasses.h - Generic Equiv. Classes --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

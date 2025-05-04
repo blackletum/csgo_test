@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_STIFF_SPRING_BP_H
+﻿#ifndef HK_PHYSICS_STIFF_SPRING_BP_H
 #define HK_PHYSICS_STIFF_SPRING_BP_H
 
 class hk_Stiff_Spring_BP  //: public hk_Constraint_BP 

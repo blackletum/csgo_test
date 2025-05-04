@@ -1,4 +1,4 @@
-//===--- StmtGraphTraits.h - Graph Traits for the class Stmt ----*- C++ -*-===//
+﻿//===--- StmtGraphTraits.h - Graph Traits for the class Stmt ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

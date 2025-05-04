@@ -1,4 +1,4 @@
-#ifndef VSLIDERCONTROL_H
+﻿#ifndef VSLIDERCONTROL_H
 #define VSLIDERCONTORL_H
 
 #include "basemodui.h"

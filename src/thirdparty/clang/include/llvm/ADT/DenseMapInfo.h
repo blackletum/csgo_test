@@ -1,4 +1,4 @@
-//===- llvm/ADT/DenseMapInfo.h - Type traits for DenseMap -------*- C++ -*-===//
+﻿//===- llvm/ADT/DenseMapInfo.h - Type traits for DenseMap -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

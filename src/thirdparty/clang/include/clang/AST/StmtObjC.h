@@ -1,4 +1,4 @@
-//===--- StmtObjC.h - Classes for representing ObjC statements --*- C++ -*-===//
+﻿//===--- StmtObjC.h - Classes for representing ObjC statements --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

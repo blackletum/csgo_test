@@ -1,4 +1,4 @@
-/* Copyright (c) 2007-2008 CSIRO
+﻿/* Copyright (c) 2007-2008 CSIRO
    Copyright (c) 2007-2009 Xiph.Org Foundation
    Copyright (c) 2007-2009 Timothy B. Terriberry
    Written by Timothy B. Terriberry and Jean-Marc Valin */

@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: this is the only public access point to the Fog of War routines
 //

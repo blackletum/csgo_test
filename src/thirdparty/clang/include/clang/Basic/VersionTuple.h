@@ -1,4 +1,4 @@
-//===- VersionTuple.h - Version Number Handling -----------------*- C++ -*-===//
+﻿//===- VersionTuple.h - Version Number Handling -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#ifndef CRYPTOPP_CCM_H
+﻿#ifndef CRYPTOPP_CCM_H
 #define CRYPTOPP_CCM_H
 
 #include "authenc.h"

@@ -1,4 +1,4 @@
-//
+﻿//
 // NOTE: Source has a bunch of windows SDK headers checked in to the dx9sdk directory.
 // This file is here to isolate dependencies on the newer version of the windows SDK
 // NOTE: This code only applies to VISTA and greater

@@ -1,4 +1,4 @@
-//-----------------------------------------------------------------------------
+﻿//-----------------------------------------------------------------------------
 // NOTE! This should never be called directly from leaf code
 // Just use new,delete,malloc,free etc. They will call into this eventually
 // Note: we might want to move to Large Page memory for servers (GC). See https://msdn.microsoft.com/en-us/library/windows/desktop/aa366720(v=vs.85).aspx

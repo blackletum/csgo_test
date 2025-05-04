@@ -1,4 +1,4 @@
-//== CheckerContext.h - Context info for path-sensitive checkers--*- C++ -*--=//
+﻿//== CheckerContext.h - Context info for path-sensitive checkers--*- C++ -*--=//
 //
 //                     The LLVM Compiler Infrastructure
 //

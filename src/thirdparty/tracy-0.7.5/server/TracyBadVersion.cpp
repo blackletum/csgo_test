@@ -1,4 +1,4 @@
-#include <assert.h>
+﻿#include <assert.h>
 
 #include "IconsFontAwesome5.h"
 #include "TracyBadVersion.hpp"

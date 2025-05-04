@@ -1,4 +1,4 @@
-//========= Copyright �, Valve LLC, All rights reserved. ============
+﻿//========= Copyright ©, Valve LLC, All rights reserved. ============
 //
 // Purpose: Makes enum-to-string and string-to-enum easier to declare
 //

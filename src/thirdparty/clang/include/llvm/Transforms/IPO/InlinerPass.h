@@ -1,4 +1,4 @@
-//===- InlinerPass.h - Code common to all inliners --------------*- C++ -*-===//
+﻿//===- InlinerPass.h - Code common to all inliners --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

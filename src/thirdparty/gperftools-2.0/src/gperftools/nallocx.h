@@ -1,4 +1,4 @@
-#ifndef _NALLOCX_H_
+﻿#ifndef _NALLOCX_H_
 #define _NALLOCX_H_
 #include <stddef.h>
 

@@ -1,4 +1,4 @@
-// ModelBrowser.cpp : implementation file
+﻿// ModelBrowser.cpp : implementation file
 //
 
 #include "stdafx.h"

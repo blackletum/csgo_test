@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_MANAGER_H
+﻿#ifndef HK_PHYSICS_MANAGER_H
 #define HK_PHYSICS_MANAGER_H
 
 class hk_Manager : public hk_Object

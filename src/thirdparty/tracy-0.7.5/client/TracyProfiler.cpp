@@ -1,4 +1,4 @@
-#ifdef TRACY_ENABLE
+﻿#ifdef TRACY_ENABLE
 
 #ifdef _WIN32
 #  ifndef NOMINMAX

@@ -1,4 +1,4 @@
-//===- MachO.h - MachO object file implementation ---------------*- C++ -*-===//
+﻿//===- MachO.h - MachO object file implementation ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- raw_os_ostream.h - std::ostream adaptor for raw_ostream --*- C++ -*-===//
+﻿//===- raw_os_ostream.h - std::ostream adaptor for raw_ostream --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

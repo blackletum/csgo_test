@@ -1,5 +1,5 @@
-#if defined( INCLUDE_SCALEFORM )
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿#if defined( INCLUDE_SCALEFORM )
+//========= Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //

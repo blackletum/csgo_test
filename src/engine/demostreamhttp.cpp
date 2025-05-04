@@ -1,4 +1,4 @@
-//========= Copyright (c), Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c), Valve Corporation, All rights reserved. ============//
 
 #include "client_pch.h"
 #include "demostreamhttp.h"

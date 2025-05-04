@@ -1,4 +1,4 @@
-//===--- Job.h - Commands to Execute ----------------------------*- C++ -*-===//
+﻿//===--- Job.h - Commands to Execute ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

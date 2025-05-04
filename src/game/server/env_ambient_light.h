@@ -1,4 +1,4 @@
-#ifndef _INCLUDED_ENV_AMBIENT_LIGHT_H
+﻿#ifndef _INCLUDED_ENV_AMBIENT_LIGHT_H
 #define _INCLUDED_ENV_AMBIENT_LIGHT_H
 
 #include "spatialentity.h"

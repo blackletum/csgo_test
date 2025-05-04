@@ -1,4 +1,4 @@
-// minimalSqPlus.cpp
+﻿// minimalSqPlus.cpp
 // A minimal example and an example with a simple class.
 // Example for use with the remote debugger is also shown.
 // Created 10/08/05, John Schultz

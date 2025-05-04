@@ -1,4 +1,4 @@
-//= ObjCNoReturn.h - Handling of Cocoa APIs known not to return --*- C++ -*---//
+﻿//= ObjCNoReturn.h - Handling of Cocoa APIs known not to return --*- C++ -*---//
 //
 //                     The LLVM Compiler Infrastructure
 //

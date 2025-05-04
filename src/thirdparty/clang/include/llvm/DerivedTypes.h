@@ -1,4 +1,4 @@
-//===-- llvm/DerivedTypes.h - Classes for handling data types ---*- C++ -*-===//
+﻿//===-- llvm/DerivedTypes.h - Classes for handling data types ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

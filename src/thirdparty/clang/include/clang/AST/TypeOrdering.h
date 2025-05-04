@@ -1,4 +1,4 @@
-//===-------------- TypeOrdering.h - Total ordering for types -------------===//
+﻿//===-------------- TypeOrdering.h - Total ordering for types -------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===---- llvm/Support/IRReader.h - Reader for LLVM IR files ----*- C++ -*-===//
+﻿//===---- llvm/Support/IRReader.h - Reader for LLVM IR files ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

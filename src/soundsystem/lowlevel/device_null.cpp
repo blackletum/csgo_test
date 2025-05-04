@@ -1,4 +1,4 @@
-#include "basetypes.h"
+﻿#include "basetypes.h"
 #include "commonmacros.h"
 #include "soundsystem/lowlevel.h"
 #include "soundsystem/audio_mix.h"

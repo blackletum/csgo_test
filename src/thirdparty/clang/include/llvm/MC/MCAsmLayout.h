@@ -1,4 +1,4 @@
-//===- MCAsmLayout.h - Assembly Layout Object -------------------*- C++ -*-===//
+﻿//===- MCAsmLayout.h - Assembly Layout Object -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

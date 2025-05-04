@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/GCStrategy.h - Garbage collection ----------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/GCStrategy.h - Garbage collection ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

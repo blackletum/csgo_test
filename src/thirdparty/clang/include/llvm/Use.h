@@ -1,4 +1,4 @@
-//===-- llvm/Use.h - Definition of the Use class ----------------*- C++ -*-===//
+﻿//===-- llvm/Use.h - Definition of the Use class ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

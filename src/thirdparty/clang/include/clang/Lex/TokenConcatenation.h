@@ -1,4 +1,4 @@
-//===--- TokenConcatenation.h - Token Concatenation Avoidance ---*- C++ -*-===//
+﻿//===--- TokenConcatenation.h - Token Concatenation Avoidance ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

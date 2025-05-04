@@ -1,4 +1,4 @@
-/*===-- clang-c/Platform.h - C Index platform decls   -------------*- C -*-===*\
+﻿/*===-- clang-c/Platform.h - C Index platform decls   -------------*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

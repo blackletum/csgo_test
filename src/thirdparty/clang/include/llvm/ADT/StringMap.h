@@ -1,4 +1,4 @@
-//===--- StringMap.h - String Hash table map interface ----------*- C++ -*-===//
+﻿//===--- StringMap.h - String Hash table map interface ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

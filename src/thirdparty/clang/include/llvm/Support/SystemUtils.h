@@ -1,4 +1,4 @@
-//===- SystemUtils.h - Utilities to do low-level system stuff ---*- C++ -*-===//
+﻿//===- SystemUtils.h - Utilities to do low-level system stuff ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- llvm/Support/PluginLoader.h - Plugin Loader for Tools ---*- C++ -*-===//
+﻿//===-- llvm/Support/PluginLoader.h - Plugin Loader for Tools ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- PostOrderCFGView.h - Post order view of CFG blocks ---------*- C++ --*-//
+﻿//===- PostOrderCFGView.h - Post order view of CFG blocks ---------*- C++ --*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

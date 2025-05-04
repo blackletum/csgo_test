@@ -1,4 +1,4 @@
-//===-- DeclCXX.h - Classes for representing C++ declarations -*- C++ -*-=====//
+﻿//===-- DeclCXX.h - Classes for representing C++ declarations -*- C++ -*-=====//
 //
 //                     The LLVM Compiler Infrastructure
 //

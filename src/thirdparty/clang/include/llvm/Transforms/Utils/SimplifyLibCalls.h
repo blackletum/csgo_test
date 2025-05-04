@@ -1,4 +1,4 @@
-//===- SimplifyLibCalls.h - Library call simplifier -------------*- C++ -*-===//
+﻿//===- SimplifyLibCalls.h - Library call simplifier -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- Stmt.h - Classes for representing statements -----------*- C++ -*-===//
+﻿//===--- Stmt.h - Classes for representing statements -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

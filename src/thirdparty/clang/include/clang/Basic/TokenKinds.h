@@ -1,4 +1,4 @@
-//===--- TokenKinds.h - Enum values for C Token Kinds -----------*- C++ -*-===//
+﻿//===--- TokenKinds.h - Enum values for C Token Kinds -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

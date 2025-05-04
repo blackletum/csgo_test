@@ -1,4 +1,4 @@
-// NextBotPlayerLocomotion.h
+﻿// NextBotPlayerLocomotion.h
 // Locomotor for CBasePlayer derived bots
 // Author: Michael Booth, November 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

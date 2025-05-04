@@ -1,4 +1,4 @@
-#ifndef ANALYSIS_ANNOTATIONS_H
+﻿#ifndef ANALYSIS_ANNOTATIONS_H
 #define ANALYSIS_ANNOTATIONS_H
 
 #if _MSC_VER >= 1600 // VS 2010 and above.

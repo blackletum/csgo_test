@@ -1,4 +1,4 @@
-//===---- llvm/MDBuilder.h - Builder for LLVM metadata ----------*- C++ -*-===//
+﻿//===---- llvm/MDBuilder.h - Builder for LLVM metadata ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

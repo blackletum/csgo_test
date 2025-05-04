@@ -1,4 +1,4 @@
-/* ******************************************************************
+﻿/* ******************************************************************
  * hist : Histogram functions
  * part of Finite State Entropy project
  * Copyright (c) 2013-2020, Yann Collet, Facebook, Inc.

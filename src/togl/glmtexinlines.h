@@ -1,4 +1,4 @@
-#ifndef CGLMTEXINLINES_H
+﻿#ifndef CGLMTEXINLINES_H
 #define	CGLMTEXINLINES_H
 
 #pragma once

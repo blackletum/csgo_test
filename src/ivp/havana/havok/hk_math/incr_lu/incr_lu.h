@@ -1,4 +1,4 @@
-#ifndef HK_INCR_LU_MATRIX
+﻿#ifndef HK_INCR_LU_MATRIX
 #define HK_INCR_LU_MATRIX
 
 #define hk_Incr_LU_EPS 1E-6f

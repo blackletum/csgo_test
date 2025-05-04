@@ -1,4 +1,4 @@
-//===--- NSAPI.h - NSFoundation APIs ----------------------------*- C++ -*-===//
+﻿//===--- NSAPI.h - NSFoundation APIs ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

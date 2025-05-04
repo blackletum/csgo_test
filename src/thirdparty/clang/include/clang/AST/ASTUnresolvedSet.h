@@ -1,4 +1,4 @@
-//===-- ASTUnresolvedSet.h - Unresolved sets of declarations  ---*- C++ -*-===//
+﻿//===-- ASTUnresolvedSet.h - Unresolved sets of declarations  ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

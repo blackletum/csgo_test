@@ -1,4 +1,4 @@
-// NextBotComponentInterface.h
+﻿// NextBotComponentInterface.h
 // Interface for all components
 // Author: Michael Booth, May 2006
 // Copyright (c) 2006 Turtle Rock Studios, Inc. - All Rights Reserved

@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2008, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Implementation of the CDmeControlGroup class. The CDmeControlGroup 
 // class provides hierarchical grouping of animation controls and used for 

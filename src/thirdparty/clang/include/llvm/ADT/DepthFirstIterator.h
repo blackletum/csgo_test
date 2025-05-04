@@ -1,4 +1,4 @@
-//===- llvm/ADT/DepthFirstIterator.h - Depth First iterator -----*- C++ -*-===//
+﻿//===- llvm/ADT/DepthFirstIterator.h - Depth First iterator -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

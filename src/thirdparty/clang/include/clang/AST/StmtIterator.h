@@ -1,4 +1,4 @@
-//===--- StmtIterator.h - Iterators for Statements --------------*- C++ -*-===//
+﻿//===--- StmtIterator.h - Iterators for Statements --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

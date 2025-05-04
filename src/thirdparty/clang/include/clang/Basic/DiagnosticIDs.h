@@ -1,4 +1,4 @@
-//===--- DiagnosticIDs.h - Diagnostic IDs Handling --------------*- C++ -*-===//
+﻿//===--- DiagnosticIDs.h - Diagnostic IDs Handling --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

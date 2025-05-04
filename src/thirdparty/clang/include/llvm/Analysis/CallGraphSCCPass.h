@@ -1,4 +1,4 @@
-//===- CallGraphSCCPass.h - Pass that operates BU on call graph -*- C++ -*-===//
+﻿//===- CallGraphSCCPass.h - Pass that operates BU on call graph -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

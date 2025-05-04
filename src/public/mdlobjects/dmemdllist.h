@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2008, Valve Corporation, All rights reserved. =====//
+﻿//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =====//
 //
 // A Dme element intended to be a base class for a common pattern of
 // MDLOBJECTS, that is an element which contains simply one attribute

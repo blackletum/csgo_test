@@ -1,4 +1,4 @@
-//===- llvm/Support/Errno.h - Portable+convenient errno handling -*- C++ -*-===//
+﻿//===- llvm/Support/Errno.h - Portable+convenient errno handling -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

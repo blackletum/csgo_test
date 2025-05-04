@@ -1,4 +1,4 @@
-//== CheckerHelpers.h - Helper functions for checkers ------------*- C++ -*--=//
+﻿//== CheckerHelpers.h - Helper functions for checkers ------------*- C++ -*--=//
 //
 //                     The LLVM Compiler Infrastructure
 //

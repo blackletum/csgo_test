@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/SelectionDAGISel.h - Common Base Class------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/SelectionDAGISel.h - Common Base Class------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

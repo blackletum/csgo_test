@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // glmgr.cpp
 //
@@ -6531,10 +6531,10 @@ void	GLMTester::Test0( void )
 	// lock and unlock them.
 	// use various combos of - 
 
-	//	√texel format
-	//	√2D | 3D | cube map
-	//	√mipped / not
-	//	√POT / NPOT
+	//	ˆštexel format
+	//	ˆš2D | 3D | cube map
+	//	ˆšmipped / not
+	//	ˆšPOT / NPOT
 	//	large / small / square / rect
 	//	square / rect
 	

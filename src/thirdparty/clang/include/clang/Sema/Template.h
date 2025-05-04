@@ -1,4 +1,4 @@
-//===------- SemaTemplate.h - C++ Templates ---------------------*- C++ -*-===/
+﻿//===------- SemaTemplate.h - C++ Templates ---------------------*- C++ -*-===/
 //
 //                     The LLVM Compiler Infrastructure
 //

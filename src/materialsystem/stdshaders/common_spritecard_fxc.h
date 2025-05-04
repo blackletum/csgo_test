@@ -1,4 +1,4 @@
-#ifdef PIXELSHADER
+﻿#ifdef PIXELSHADER
 	#define VS_OUTPUT PS_INPUT
 #endif
 

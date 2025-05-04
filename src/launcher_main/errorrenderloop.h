@@ -1,4 +1,4 @@
-//========= Copyright 2010, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 2010, Valve Corporation, All rights reserved. ============//
 #ifndef ERRORRENDERLOOP_HDR
 #define ERRORRENDERLOOP_HDR
 

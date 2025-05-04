@@ -1,4 +1,4 @@
-//===--- SemaInternal.h - Internal Sema Interfaces --------------*- C++ -*-===//
+﻿//===--- SemaInternal.h - Internal Sema Interfaces --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

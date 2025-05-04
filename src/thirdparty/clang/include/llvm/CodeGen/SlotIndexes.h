@@ -1,4 +1,4 @@
-//===- llvm/CodeGen/SlotIndexes.h - Slot indexes representation -*- C++ -*-===//
+﻿//===- llvm/CodeGen/SlotIndexes.h - Slot indexes representation -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
+﻿//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
 //
 //	Forwards game events to remote IP address. This is to facilitate the recording
 //	of the play tests and to be able to index into the recorded video based on events.

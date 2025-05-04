@@ -1,4 +1,4 @@
-//===-- llvm/TypeFinder.h - Class for finding used struct types -*- C++ -*-===//
+﻿//===-- llvm/TypeFinder.h - Class for finding used struct types -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-
+﻿
 #ifndef MAPDIFFDLG_H
 #define MAPDIFFDLG_H
 #ifdef _WIN32

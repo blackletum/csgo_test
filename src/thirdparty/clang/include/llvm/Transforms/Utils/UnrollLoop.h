@@ -1,4 +1,4 @@
-//===- llvm/Transforms/Utils/UnrollLoop.h - Unrolling utilities -*- C++ -*-===//
+﻿//===- llvm/Transforms/Utils/UnrollLoop.h - Unrolling utilities -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

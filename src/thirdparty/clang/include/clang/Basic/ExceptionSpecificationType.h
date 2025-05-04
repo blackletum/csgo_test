@@ -1,4 +1,4 @@
-//===--- ExceptionSpecificationType.h ---------------------------*- C++ -*-===//
+﻿//===--- ExceptionSpecificationType.h ---------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

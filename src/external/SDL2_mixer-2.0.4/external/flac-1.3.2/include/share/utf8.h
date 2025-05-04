@@ -1,4 +1,4 @@
-#ifndef SHARE__UTF8_H
+﻿#ifndef SHARE__UTF8_H
 #define SHARE__UTF8_H
 
 /*

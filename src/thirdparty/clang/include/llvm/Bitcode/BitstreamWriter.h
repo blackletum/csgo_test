@@ -1,4 +1,4 @@
-//===- BitstreamWriter.h - Low-level bitstream writer interface -*- C++ -*-===//
+﻿//===- BitstreamWriter.h - Low-level bitstream writer interface -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- CommentCommandTraits.h - Comment command properties ----*- C++ -*-===//
+﻿//===--- CommentCommandTraits.h - Comment command properties ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

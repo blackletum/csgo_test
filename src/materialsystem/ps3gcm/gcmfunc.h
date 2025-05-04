@@ -1,4 +1,4 @@
-//================ Copyright (c) 1996-2010 Valve Corporation. All Rights Reserved. =================
+﻿//================ Copyright (c) 1996-2010 Valve Corporation. All Rights Reserved. =================
 
 #ifndef PS3GCMFUNC_H
 #define PS3GCMFUNC_H

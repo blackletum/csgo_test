@@ -1,4 +1,4 @@
-//===-- BlackList.h - blacklist for sanitizers ------------------*- C++ -*-===//
+﻿//===-- BlackList.h - blacklist for sanitizers ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

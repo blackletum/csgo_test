@@ -1,4 +1,4 @@
-//===------ CXXInheritance.h - C++ Inheritance ------------------*- C++ -*-===//
+﻿//===------ CXXInheritance.h - C++ Inheritance ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

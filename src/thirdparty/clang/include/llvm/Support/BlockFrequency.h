@@ -1,4 +1,4 @@
-//===-------- BlockFrequency.h - Block Frequency Wrapper --------*- C++ -*-===//
+﻿//===-------- BlockFrequency.h - Block Frequency Wrapper --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

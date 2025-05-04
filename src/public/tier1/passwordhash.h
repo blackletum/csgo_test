@@ -1,4 +1,4 @@
-//========= Copyright � 2005, Valve Inc., All rights reserved. ==========
+﻿//========= Copyright © 2005, Valve Inc., All rights reserved. ==========
 //
 // Purpose: Cryptographic hash agility helper definitions
 //

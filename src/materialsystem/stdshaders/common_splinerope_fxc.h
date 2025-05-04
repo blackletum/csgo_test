@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 
 #ifdef PIXELSHADER
 	#define VS_OUTPUT PS_INPUT

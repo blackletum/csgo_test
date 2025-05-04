@@ -1,4 +1,4 @@
-//===-- llvm/Operator.h - Operator utility subclass -------------*- C++ -*-===//
+﻿//===-- llvm/Operator.h - Operator utility subclass -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

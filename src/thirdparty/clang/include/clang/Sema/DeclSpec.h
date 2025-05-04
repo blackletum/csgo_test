@@ -1,4 +1,4 @@
-//===--- DeclSpec.h - Parsed declaration specifiers -------------*- C++ -*-===//
+﻿//===--- DeclSpec.h - Parsed declaration specifiers -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

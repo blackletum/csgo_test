@@ -1,4 +1,4 @@
-//===-- CodeGen/MachineInstBundle.h - MI bundle utilities -------*- C++ -*-===//
+﻿//===-- CodeGen/MachineInstBundle.h - MI bundle utilities -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

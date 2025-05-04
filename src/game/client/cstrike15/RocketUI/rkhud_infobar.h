@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_INFOBAR_H
+﻿#ifndef KISAKSTRIKE_RKHUD_INFOBAR_H
 #define KISAKSTRIKE_RKHUD_INFOBAR_H
 
 #include <rocketui/rocketui.h>

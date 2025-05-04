@@ -1,4 +1,4 @@
-/* Bug report URL. */
+﻿/* Bug report URL. */
 #define BUG_REPORT_URL "http://llvm.org/bugs/"
 
 /* Relative directory for resource files */

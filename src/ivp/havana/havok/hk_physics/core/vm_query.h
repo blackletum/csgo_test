@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_VM_QUERY_H
+﻿#ifndef HK_PHYSICS_VM_QUERY_H
 #define HK_PHYSICS_VM_QUERY_H
 
 

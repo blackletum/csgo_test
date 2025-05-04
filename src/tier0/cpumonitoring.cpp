@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 //
 // A non-trivial number of Valve customers hit performance problems because their CPUs overheat
 // and are thermally throttled. While thermal throttling is better than melting it is still a

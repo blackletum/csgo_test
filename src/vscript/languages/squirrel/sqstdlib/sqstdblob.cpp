@@ -1,4 +1,4 @@
-/* see copyright notice in squirrel.h */
+﻿/* see copyright notice in squirrel.h */
 #include <new>
 #include <squirrel.h>
 #include <sqstdio.h>

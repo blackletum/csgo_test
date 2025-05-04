@@ -1,4 +1,4 @@
-//===--- Mangle.h - Mangle C++ Names ----------------------------*- C++ -*-===//
+﻿//===--- Mangle.h - Mangle C++ Names ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

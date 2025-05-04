@@ -1,4 +1,4 @@
-//===- llvm/PassSupport.h - Pass Support code -------------------*- C++ -*-===//
+﻿//===- llvm/PassSupport.h - Pass Support code -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

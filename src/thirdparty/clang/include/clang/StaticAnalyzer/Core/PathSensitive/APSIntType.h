@@ -1,4 +1,4 @@
-//== APSIntType.h - Simple record of the type of APSInts --------*- C++ -*--==//
+﻿//== APSIntType.h - Simple record of the type of APSInts --------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

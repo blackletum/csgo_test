@@ -1,4 +1,4 @@
-//===-- DeclBase.h - Base Classes for representing declarations -*- C++ -*-===//
+﻿//===-- DeclBase.h - Base Classes for representing declarations -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

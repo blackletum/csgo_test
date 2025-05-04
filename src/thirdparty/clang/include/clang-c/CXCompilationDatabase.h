@@ -1,4 +1,4 @@
-/*===-- clang-c/CXCompilationDatabase.h - Compilation database  ---*- C -*-===*\
+﻿/*===-- clang-c/CXCompilationDatabase.h - Compilation database  ---*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

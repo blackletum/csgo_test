@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCELFObjectWriter.h - ELF Object Writer ---------*- C++ -*-===//
+﻿//===-- llvm/MC/MCELFObjectWriter.h - ELF Object Writer ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

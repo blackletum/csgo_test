@@ -1,4 +1,4 @@
-// Purpose: Header file for the C++ ICE encryption class.
+﻿// Purpose: Header file for the C++ ICE encryption class.
 //			Taken from public domain code, as written by Matthew Kwan - July 1996
 //			http://www.darkside.com.au/ice/
 

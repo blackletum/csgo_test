@@ -1,4 +1,4 @@
-#ifndef GMGCROOTUTIL_H
+﻿#ifndef GMGCROOTUTIL_H
 #define GMGCROOTUTIL_H
 
 //

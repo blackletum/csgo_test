@@ -1,4 +1,4 @@
-//===- llvm/Analysis/Trace.h - Represent one trace of LLVM code -*- C++ -*-===//
+﻿//===- llvm/Analysis/Trace.h - Represent one trace of LLVM code -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

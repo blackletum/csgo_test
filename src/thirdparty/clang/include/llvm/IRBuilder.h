@@ -1,4 +1,4 @@
-//===---- llvm/IRBuilder.h - Builder for LLVM Instructions ------*- C++ -*-===//
+﻿//===---- llvm/IRBuilder.h - Builder for LLVM Instructions ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

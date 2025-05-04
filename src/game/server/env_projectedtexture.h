@@ -1,4 +1,4 @@
-#ifndef ENV_PROJECTEDTEXTURE_H
+﻿#ifndef ENV_PROJECTEDTEXTURE_H
 #define ENV_PROJECTEDTEXTURE_H
 #ifdef _WIN32
 #pragma once

@@ -1,4 +1,4 @@
-//===- DiagnosticCategories.h - Diagnostic Categories Enumerators-*- C++ -*===//
+﻿//===- DiagnosticCategories.h - Diagnostic Categories Enumerators-*- C++ -*===//
 //
 //                     The LLVM Compiler Infrastructure
 //

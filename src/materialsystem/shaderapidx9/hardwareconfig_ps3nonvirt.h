@@ -1,4 +1,4 @@
-//========== Copyright � 2005, Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © 2005, Valve Corporation, All rights reserved. ========
 #ifndef HARDWARECONFIG_PS3NONVIRT_H
 #define HARDWARECONFIG_PS3NONVIRT_H
 

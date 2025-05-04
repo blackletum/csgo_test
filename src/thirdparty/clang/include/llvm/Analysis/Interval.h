@@ -1,4 +1,4 @@
-//===- llvm/Analysis/Interval.h - Interval Class Declaration ----*- C++ -*-===//
+﻿//===- llvm/Analysis/Interval.h - Interval Class Declaration ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

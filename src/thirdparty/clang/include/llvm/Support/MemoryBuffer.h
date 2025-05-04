@@ -1,4 +1,4 @@
-//===--- MemoryBuffer.h - Memory Buffer Interface ---------------*- C++ -*-===//
+﻿//===--- MemoryBuffer.h - Memory Buffer Interface ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

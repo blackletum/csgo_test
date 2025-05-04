@@ -1,4 +1,4 @@
-//===-- BumpVector.h - Vector-like ADT that uses bump allocation --*- C++ -*-=//
+﻿//===-- BumpVector.h - Vector-like ADT that uses bump allocation --*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

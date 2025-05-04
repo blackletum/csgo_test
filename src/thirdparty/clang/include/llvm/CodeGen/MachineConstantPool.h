@@ -1,4 +1,4 @@
-//===-- CodeGen/MachineConstantPool.h - Abstract Constant Pool --*- C++ -*-===//
+﻿//===-- CodeGen/MachineConstantPool.h - Abstract Constant Pool --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

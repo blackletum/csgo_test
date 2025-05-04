@@ -1,4 +1,4 @@
-//===- TargetSelect.h - Target Selection & Registration ---------*- C++ -*-===//
+﻿//===- TargetSelect.h - Target Selection & Registration ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

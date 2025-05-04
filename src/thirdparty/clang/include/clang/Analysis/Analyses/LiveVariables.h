@@ -1,4 +1,4 @@
-//===- LiveVariables.h - Live Variable Analysis for Source CFGs -*- C++ --*-//
+﻿//===- LiveVariables.h - Live Variable Analysis for Source CFGs -*- C++ --*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

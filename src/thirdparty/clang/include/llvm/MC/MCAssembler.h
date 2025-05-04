@@ -1,4 +1,4 @@
-//===- MCAssembler.h - Object File Generation -------------------*- C++ -*-===//
+﻿//===- MCAssembler.h - Object File Generation -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

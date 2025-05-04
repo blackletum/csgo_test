@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
+﻿//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
 #ifndef PROP_BREAKABLE_DATA
 #define PROP_BREAKABLE_DATA
 

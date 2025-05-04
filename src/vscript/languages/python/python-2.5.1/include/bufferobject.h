@@ -1,4 +1,4 @@
-
+﻿
 /* Buffer object interface */
 
 /* Note: the object's structure is private */

@@ -1,4 +1,4 @@
-//========= Copyright 2012, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 2012, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //

@@ -1,4 +1,4 @@
-//===--- TextDiagnosticBuffer.h - Buffer Text Diagnostics -------*- C++ -*-===//
+﻿//===--- TextDiagnosticBuffer.h - Buffer Text Diagnostics -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

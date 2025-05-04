@@ -1,4 +1,4 @@
-/* Cell object interface */
+﻿/* Cell object interface */
 
 #ifndef Py_CELLOBJECT_H
 #define Py_CELLOBJECT_H

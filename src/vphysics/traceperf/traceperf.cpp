@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 // traceperf.cpp : Defines the entry point for the console application.
 //
 
@@ -183,7 +183,7 @@ void Benchmark_PHY( const CPhysCollide *pCollide, benchresults_t *pOut )
 #endif
 }
 
-//===== Copyright � 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //

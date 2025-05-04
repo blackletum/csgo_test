@@ -1,4 +1,4 @@
-/*
+﻿/*
 	mpg123clr: MPEG Audio Decoder library Common Language Runtime version.
 
 	copyright 2009-2011 by Malcolm Boczek - free software under the terms of the LGPL 2.1

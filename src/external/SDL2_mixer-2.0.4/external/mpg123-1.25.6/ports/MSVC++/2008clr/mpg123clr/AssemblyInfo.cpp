@@ -1,4 +1,4 @@
-/*
+﻿/*
 	mpg123clr: MPEG Audio Decoder library Common Language Runtime version.
 
 	copyright 2009 by Malcolm Boczek - free software under the terms of the LGPL 2.1
@@ -32,7 +32,7 @@ using namespace System::Runtime::CompilerServices;
 [assembly:AssemblyConfigurationAttribute("")];
 [assembly:AssemblyCompanyAttribute("mpg123 Project")];
 [assembly:AssemblyProductAttribute("mpg123clr.dll")];
-[assembly:AssemblyCopyrightAttribute("� 2009-2011 by the mpg123 project")];
+[assembly:AssemblyCopyrightAttribute("© 2009-2011 by the mpg123 project")];
 [assembly:AssemblyTrademarkAttribute("")];
 [assembly:AssemblyCultureAttribute("")];		
 

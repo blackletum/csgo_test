@@ -1,4 +1,4 @@
-//===== Copyright � Valve Corporation, All rights reserved. ========//
+﻿//===== Copyright © Valve Corporation, All rights reserved. ========//
 #include "platform.h"
 #include "bsplog.h"
 #include "qhConvex.h"

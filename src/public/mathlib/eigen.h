@@ -1,4 +1,4 @@
-//========= Copyright c 1996-2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright c 1996-2009, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: anything remotely related to eigen-[problem,solver,value,vector, whatever] goes here
 //

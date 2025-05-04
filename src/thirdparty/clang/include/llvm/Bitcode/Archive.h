@@ -1,4 +1,4 @@
-//===-- llvm/Bitcode/Archive.h - LLVM Bitcode Archive -----------*- C++ -*-===//
+﻿//===-- llvm/Bitcode/Archive.h - LLVM Bitcode Archive -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

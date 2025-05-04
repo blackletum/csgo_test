@@ -1,4 +1,4 @@
-#ifndef __GAMEMODES_H__
+﻿#ifndef __GAMEMODES_H__
 #define __GAMEMODES_H__
 
 #include "basemodui.h"

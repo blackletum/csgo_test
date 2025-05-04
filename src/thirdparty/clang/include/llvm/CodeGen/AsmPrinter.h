@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/AsmPrinter.h - AsmPrinter Framework --------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/AsmPrinter.h - AsmPrinter Framework --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

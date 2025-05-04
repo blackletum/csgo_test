@@ -1,4 +1,4 @@
-//==- ScheduleDAGInstrs.h - MachineInstr Scheduling --------------*- C++ -*-==//
+﻿//==- ScheduleDAGInstrs.h - MachineInstr Scheduling --------------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

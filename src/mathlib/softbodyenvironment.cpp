@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 // This is analogous to RnWorld from source2, but only for softbodies
 // 
 #include "mathlib/softbodyenvironment.h"

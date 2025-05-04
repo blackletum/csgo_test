@@ -1,4 +1,4 @@
-/* flacdiff - Displays where two FLAC streams differ
+﻿/* flacdiff - Displays where two FLAC streams differ
  * Copyright (C) 2007-2009  Josh Coalson
  * Copyright (C) 2011-2016  Xiph.Org Foundation
  *

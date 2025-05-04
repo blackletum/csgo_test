@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/TargetSchedule.h - Sched Machine Model -----*- C++ -*-===//
+﻿//===-- llvm/CodeGen/TargetSchedule.h - Sched Machine Model -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#if !defined( __ROCKETUI_H__ )
+﻿#if !defined( __ROCKETUI_H__ )
 #define __ROCKETUI_H__
 
 #include "appframework/iappsystem.h"

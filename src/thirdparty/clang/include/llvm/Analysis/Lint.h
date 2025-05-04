@@ -1,4 +1,4 @@
-//===-- llvm/Analysis/Lint.h - LLVM IR Lint ---------------------*- C++ -*-===//
+﻿//===-- llvm/Analysis/Lint.h - LLVM IR Lint ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

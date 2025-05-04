@@ -1,4 +1,4 @@
-#ifndef HK_SPATIAL_VECTOR_H
+﻿#ifndef HK_SPATIAL_VECTOR_H
 #define HK_SPATIAL_VECTOR_H
 
 #ifndef HK_MATH_VECMATH_H

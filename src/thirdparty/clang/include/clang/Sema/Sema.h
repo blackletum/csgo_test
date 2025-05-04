@@ -1,4 +1,4 @@
-//===--- Sema.h - Semantic Analysis & AST Building --------------*- C++ -*-===//
+﻿//===--- Sema.h - Semantic Analysis & AST Building --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

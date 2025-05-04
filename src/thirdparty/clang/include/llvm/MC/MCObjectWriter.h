@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCObjectWriter.h - Object File Writer Interface -*- C++ -*-===//
+﻿//===-- llvm/MC/MCObjectWriter.h - Object File Writer Interface -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

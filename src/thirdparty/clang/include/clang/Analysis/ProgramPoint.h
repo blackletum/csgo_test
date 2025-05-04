@@ -1,4 +1,4 @@
-//==- ProgramPoint.h - Program Points for Path-Sensitive Analysis --*- C++ -*-//
+﻿//==- ProgramPoint.h - Program Points for Path-Sensitive Analysis --*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 //========= Public Domain Code ================================================
 //
 // Purpose: C++ implementation of the ICE encryption algorithm.

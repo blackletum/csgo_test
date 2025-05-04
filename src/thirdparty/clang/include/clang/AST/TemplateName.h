@@ -1,4 +1,4 @@
-//===--- TemplateName.h - C++ Template Name Representation-------*- C++ -*-===//
+﻿//===--- TemplateName.h - C++ Template Name Representation-------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

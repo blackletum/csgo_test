@@ -1,4 +1,4 @@
-//===- llvm/Analysis/MemoryBuiltins.h- Calls to memory builtins -*- C++ -*-===//
+﻿//===- llvm/Analysis/MemoryBuiltins.h- Calls to memory builtins -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

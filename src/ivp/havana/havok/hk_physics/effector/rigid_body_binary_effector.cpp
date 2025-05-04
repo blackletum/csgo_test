@@ -1,4 +1,4 @@
-// Copyright (C) Ipion Software GmbH 1999-2000. All rights reserved.
+﻿// Copyright (C) Ipion Software GmbH 1999-2000. All rights reserved.
 
 #include <ivp_physics.hxx>
 #include <hk_physics/physics.h>

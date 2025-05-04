@@ -1,4 +1,4 @@
-#include "Config.h"
+﻿#include "Config.h"
 #include "Test.h"
 #include "Maths.h"
 #include <algorithm>

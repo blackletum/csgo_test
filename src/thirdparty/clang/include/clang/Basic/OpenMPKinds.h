@@ -1,4 +1,4 @@
-//===--- OpenMPKinds.h - OpenMP enums ---------------------------*- C++ -*-===//
+﻿//===--- OpenMPKinds.h - OpenMP enums ---------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

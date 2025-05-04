@@ -1,4 +1,4 @@
-//========== Copyright 2005, Valve Corporation, All rights reserved. ========
+﻿//========== Copyright 2005, Valve Corporation, All rights reserved. ========
 //
 // Purpose:
 //
@@ -1961,7 +1961,7 @@ bool ThreadInterlockedAssignIf64( int64 volatile * pDest, int64 value, int64 com
 
 #else
 // This will perform horribly,
-#error "Falling back to mutexed interlocked operations, you really don't have intrinsics you can use?"ß
+#error "Falling back to mutexed interlocked operations, you really don't have intrinsics you can use?"ÃŸ
 CThreadMutex g_InterlockedMutex;
 
 long ThreadInterlockedIncrement( long volatile *pDest )

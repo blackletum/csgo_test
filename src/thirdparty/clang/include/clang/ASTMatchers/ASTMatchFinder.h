@@ -1,4 +1,4 @@
-//===--- ASTMatchFinder.h - Structural query framework ----------*- C++ -*-===//
+﻿//===--- ASTMatchFinder.h - Structural query framework ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

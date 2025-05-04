@@ -1,4 +1,4 @@
-/*Copyright (c) 2003-2004, Mark Borgerding
+﻿/*Copyright (c) 2003-2004, Mark Borgerding
   Lots of modifications by Jean-Marc Valin
   Copyright (c) 2005-2007, Xiph.Org Foundation
   Copyright (c) 2008,      Xiph.Org Foundation, CSIRO

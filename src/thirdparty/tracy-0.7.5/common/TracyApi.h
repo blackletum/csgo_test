@@ -1,4 +1,4 @@
-#ifndef __TRACYAPI_H__
+﻿#ifndef __TRACYAPI_H__
 #define __TRACYAPI_H__
 
 #if defined _WIN32 || defined __CYGWIN__

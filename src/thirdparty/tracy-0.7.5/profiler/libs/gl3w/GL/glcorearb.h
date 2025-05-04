@@ -1,4 +1,4 @@
-#ifndef __glcorearb_h_
+﻿#ifndef __glcorearb_h_
 #define __glcorearb_h_
 
 #ifdef __cplusplus

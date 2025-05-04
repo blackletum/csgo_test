@@ -1,4 +1,4 @@
-//===- MCExpr.h - Assembly Level Expressions --------------------*- C++ -*-===//
+﻿//===- MCExpr.h - Assembly Level Expressions --------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

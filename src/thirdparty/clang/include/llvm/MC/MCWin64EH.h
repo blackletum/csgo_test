@@ -1,4 +1,4 @@
-//===- MCWin64EH.h - Machine Code Win64 EH support --------------*- C++ -*-===//
+﻿//===- MCWin64EH.h - Machine Code Win64 EH support --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

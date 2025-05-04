@@ -1,4 +1,4 @@
-//===- ChainedIncludesSource.h - Chained PCHs in Memory ---------*- C++ -*-===//
+﻿//===- ChainedIncludesSource.h - Chained PCHs in Memory ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

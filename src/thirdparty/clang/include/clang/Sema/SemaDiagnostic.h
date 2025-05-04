@@ -1,4 +1,4 @@
-//===--- DiagnosticSema.h - Diagnostics for libsema -------------*- C++ -*-===//
+﻿//===--- DiagnosticSema.h - Diagnostics for libsema -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

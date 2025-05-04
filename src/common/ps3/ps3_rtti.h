@@ -1,4 +1,4 @@
-#ifndef __PS3_RTTI__
+﻿#ifndef __PS3_RTTI__
 #define __PS3_RTTI__
 
 #include <stdio.h>

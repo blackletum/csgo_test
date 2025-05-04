@@ -1,4 +1,4 @@
-//===- llvm/Support/CommandLine.h - Command line handler --------*- C++ -*-===//
+﻿//===- llvm/Support/CommandLine.h - Command line handler --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

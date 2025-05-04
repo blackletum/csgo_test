@@ -1,4 +1,4 @@
-//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
+﻿//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
 //
 // Purpose: The base class from which all game entities are derived.
 //

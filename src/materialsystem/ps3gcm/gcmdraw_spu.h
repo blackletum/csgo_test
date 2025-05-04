@@ -1,4 +1,4 @@
-#ifndef INCLUDED_GCMDRAW_SPU_H
+﻿#ifndef INCLUDED_GCMDRAW_SPU_H
 #define INCLUDED_GCMDRAW_SPU_H
 //================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
 //

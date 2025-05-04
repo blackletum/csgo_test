@@ -1,4 +1,4 @@
-#define single_input 256
+﻿#define single_input 256
 #define file_input 257
 #define eval_input 258
 #define decorator 259

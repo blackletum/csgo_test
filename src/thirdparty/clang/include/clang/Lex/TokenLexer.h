@@ -1,4 +1,4 @@
-//===--- TokenLexer.h - Lex from a token buffer -----------------*- C++ -*-===//
+﻿//===--- TokenLexer.h - Lex from a token buffer -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

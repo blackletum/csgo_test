@@ -1,4 +1,4 @@
-
+﻿
 /* Newfangled version identification scheme.
 
    This scheme was added in Python 1.5.2b2; before that time, only PATCHLEVEL

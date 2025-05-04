@@ -1,4 +1,4 @@
-//========= Copyright, Valve Corporation, All rights reserved. ================//
+﻿//========= Copyright, Valve Corporation, All rights reserved. ================//
 //
 // std::pair style container; exists to work easily in our CUtlMap/CUtlHashMap classes
 //

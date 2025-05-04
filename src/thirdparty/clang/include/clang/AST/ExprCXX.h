@@ -1,4 +1,4 @@
-//===--- ExprCXX.h - Classes for representing expressions -------*- C++ -*-===//
+﻿//===--- ExprCXX.h - Classes for representing expressions -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

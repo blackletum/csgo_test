@@ -1,4 +1,4 @@
-//===--- ASTMatchersTypeTraits.h --------------------------------*- C++ -*-===//
+﻿//===--- ASTMatchersTypeTraits.h --------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

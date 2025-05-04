@@ -1,4 +1,4 @@
-//===--- OpenMP.h - Classes for representing OpenMP directives ---*- C++ -*-===//
+﻿//===--- OpenMP.h - Classes for representing OpenMP directives ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

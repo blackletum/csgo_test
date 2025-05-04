@@ -1,4 +1,4 @@
-#ifndef CS_ECON_ITEM_STRING_TABLE_H
+﻿#ifndef CS_ECON_ITEM_STRING_TABLE_H
 #define CS_ECON_ITEM_STRING_TABLE_H
 #ifdef _WIN32
 #pragma once

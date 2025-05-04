@@ -1,4 +1,4 @@
-/* Weak references objects for Python. */
+﻿/* Weak references objects for Python. */
 
 #ifndef Py_WEAKREFOBJECT_H
 #define Py_WEAKREFOBJECT_H

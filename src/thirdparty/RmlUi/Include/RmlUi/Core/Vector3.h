@@ -1,9 +1,9 @@
-/*
+﻿/*
  * This source file is part of RmlUi, the HTML/CSS Interface Middleware
  *
  * For the latest information, see http://github.com/mikke89/RmlUi
  *
- * Copyright (c) 2014 Markus Schöngart
+ * Copyright (c) 2014 Markus SchÃ¶ngart
  * Copyright (c) 2019 The RmlUi Team, and contributors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -36,7 +36,7 @@ namespace Rml {
 
 /**
 	Templated class for a generic three-component vector.
-	@author Markus Schöngart
+	@author Markus SchÃ¶ngart
  */
 
 template < typename Type >

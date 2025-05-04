@@ -1,4 +1,4 @@
-//===--- FixItRewriter.h - Fix-It Rewriter Diagnostic Client ----*- C++ -*-===//
+﻿//===--- FixItRewriter.h - Fix-It Rewriter Diagnostic Client ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

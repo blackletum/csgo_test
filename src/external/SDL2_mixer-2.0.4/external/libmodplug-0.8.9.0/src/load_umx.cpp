@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This source code is public domain.
  *
  * Epic Games Unreal UMX container loading for libmodplug

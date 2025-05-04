@@ -1,4 +1,4 @@
-//===--- ASTDiagnostic.h - Diagnostics for the AST library ------*- C++ -*-===//
+﻿//===--- ASTDiagnostic.h - Diagnostics for the AST library ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

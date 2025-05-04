@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 //
 // This job chain wrapper is an infinite job chain with dynamic job submission
 // It is single-threaded and not very fast in the current implementation,

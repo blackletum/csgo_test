@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Shortest Distance Utilities. Some static helper functions to help calculate
  * shortest distances
  */

@@ -1,4 +1,4 @@
-//===-- FileRemapper.h - File Remapping Helper ------------------*- C++ -*-===//
+﻿//===-- FileRemapper.h - File Remapping Helper ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// svd.cpp : Defines the entry point for the console application.
+﻿// svd.cpp : Defines the entry point for the console application.
 //
 #include "svd.h"
 

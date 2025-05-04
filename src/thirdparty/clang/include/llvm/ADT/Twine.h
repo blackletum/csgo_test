@@ -1,4 +1,4 @@
-//===-- Twine.h - Fast Temporary String Concatenation -----------*- C++ -*-===//
+﻿//===-- Twine.h - Fast Temporary String Concatenation -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

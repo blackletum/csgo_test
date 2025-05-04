@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2004, Valve LLC, All rights reserved. ============
+﻿//========= Copyright © 1996-2004, Valve LLC, All rights reserved. ============
 //
 // This is the common include file to be included in SPU jobs.
 // It takes care to remap/emulate some SPU-specific functinality on PPU

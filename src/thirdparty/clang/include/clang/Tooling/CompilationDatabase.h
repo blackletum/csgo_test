@@ -1,4 +1,4 @@
-//===--- CompilationDatabase.h - --------------------------------*- C++ -*-===//
+﻿//===--- CompilationDatabase.h - --------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

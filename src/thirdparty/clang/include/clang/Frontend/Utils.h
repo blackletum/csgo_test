@@ -1,4 +1,4 @@
-//===--- Utils.h - Misc utilities for the front-end -------------*- C++ -*-===//
+﻿//===--- Utils.h - Misc utilities for the front-end -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

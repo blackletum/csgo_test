@@ -1,4 +1,4 @@
-//===- llvm/Support/PassNameParser.h ----------------------------*- C++ -*-===//
+﻿//===- llvm/Support/PassNameParser.h ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

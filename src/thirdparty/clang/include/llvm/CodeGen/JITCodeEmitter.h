@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/JITCodeEmitter.h - Code emission ----------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/JITCodeEmitter.h - Code emission ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

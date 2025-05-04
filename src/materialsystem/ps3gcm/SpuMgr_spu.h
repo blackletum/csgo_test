@@ -1,4 +1,4 @@
-//================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
+ï»¿//================ Copyright (c) Valve Corporation. All Rights Reserved. ===========================
 //
 //
 //
@@ -312,15 +312,15 @@ inline int SpuMgr::DmaDone(uint32_t dmaTagMask, bool bBlocking /*=true*/)
 	// For polling for the completion of an MFC command or for the completion of a group of MFC commands, the
 	// basic procedure is as follows:
 	//	1. Clear any pending tag status update requests by:
-	//		• Writing a ‘0’ to the MFC Write Tag Status Update Request Channel (see page 116)
-	//		• Reading the channel count associated with the MFC Write Tag Status Update Request Channel (see
-	//		  page 116), until a value of ‘1’ is returned
-	//		• Reading the MFC Read Tag-Group Status Channel (see page 117) and discarding the tag status
+	//		â€¢ Writing a â€˜0â€™ to the MFC Write Tag Status Update Request Channel (see page 116)
+	//		â€¢ Reading the channel count associated with the MFC Write Tag Status Update Request Channel (see
+	//		  page 116), until a value of â€˜1â€™ is returned
+	//		â€¢ Reading the MFC Read Tag-Group Status Channel (see page 117) and discarding the tag status
 	//		  data.
 	//	2. Enable the tag groups of interest by writing the MFC Write Tag-Group Query Mask Channel (see page
 	//	   114) with the appropriate mask data (only needed if a new tag-group mask is required).
 	//	3. Request an immediate tag status update by writing the MFC Write Tag Status Update Request Channel
-	//	   (see page 116) with a value of ‘0’.
+	//	   (see page 116) with a value of â€˜0â€™.
 	//	4. Perform a read of the MFC Read Tag-Group Status Channel (see page 117). The data returned is the
 	//	   current status of each tag group with the tag-group mask applied.
 	//	5. Repeat steps 3 and 4 until the tag group or the tag groups of interest are complete.

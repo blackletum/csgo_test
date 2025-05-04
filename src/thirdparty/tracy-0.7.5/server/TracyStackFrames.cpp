@@ -1,4 +1,4 @@
-#include "TracyStackFrames.hpp"
+﻿#include "TracyStackFrames.hpp"
 
 namespace tracy
 {

@@ -1,4 +1,4 @@
-#ifndef _CEGCLIENTWRAPPER_H_
+﻿#ifndef _CEGCLIENTWRAPPER_H_
 #define _CEGCLIENTWRAPPER_H_
 
 #pragma once

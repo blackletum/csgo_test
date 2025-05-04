@@ -1,4 +1,4 @@
-//===-------- EdgeBundles.h - Bundles of CFG edges --------------*- c++ -*-===//
+﻿//===-------- EdgeBundles.h - Bundles of CFG edges --------------*- c++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

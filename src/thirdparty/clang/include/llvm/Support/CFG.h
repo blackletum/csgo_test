@@ -1,4 +1,4 @@
-//===-- llvm/Support/CFG.h - Process LLVM structures as graphs --*- C++ -*-===//
+﻿//===-- llvm/Support/CFG.h - Process LLVM structures as graphs --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

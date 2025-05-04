@@ -1,4 +1,4 @@
-//====== Copyright (C), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (C), Valve Corporation, All rights reserved. =======
 //
 // Purpose: This file defines all of our over-the-wire net protocols for the
 //			global system messages used by the GC. These are usually sent by

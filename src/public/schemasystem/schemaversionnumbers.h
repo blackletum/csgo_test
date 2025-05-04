@@ -1,4 +1,4 @@
-#ifndef SCHEMA_VERSION_NUMBERS_H_
+﻿#ifndef SCHEMA_VERSION_NUMBERS_H_
 #define SCHEMA_VERSION_NUMBERS_H_
 #pragma once
 

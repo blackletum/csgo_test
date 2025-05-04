@@ -1,4 +1,4 @@
-#include "TracySysTrace.hpp"
+﻿#include "TracySysTrace.hpp"
 
 #ifdef TRACY_HAS_SYSTEM_TRACING
 

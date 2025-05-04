@@ -1,4 +1,4 @@
-//===--- Rewriter.h - Code rewriting interface ------------------*- C++ -*-===//
+﻿//===--- Rewriter.h - Code rewriting interface ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

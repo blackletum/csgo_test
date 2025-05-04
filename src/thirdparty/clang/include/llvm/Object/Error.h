@@ -1,4 +1,4 @@
-//===- Error.h - system_error extensions for Object -------------*- C++ -*-===//
+﻿//===- Error.h - system_error extensions for Object -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/*===-- llvm-c/TargetMachine.h - Target Machine Library C Interface - C++ -*-=*\
+﻿/*===-- llvm-c/TargetMachine.h - Target Machine Library C Interface - C++ -*-=*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

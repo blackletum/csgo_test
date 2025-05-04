@@ -1,4 +1,4 @@
-//== DynamicTypeInfo.h - Runtime type information ----------------*- C++ -*--=//
+﻿//== DynamicTypeInfo.h - Runtime type information ----------------*- C++ -*--=//
 //
 //                     The LLVM Compiler Infrastructure
 //

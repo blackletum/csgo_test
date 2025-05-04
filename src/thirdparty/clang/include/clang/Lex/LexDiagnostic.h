@@ -1,4 +1,4 @@
-//===--- DiagnosticLex.h - Diagnostics for liblex ---------------*- C++ -*-===//
+﻿//===--- DiagnosticLex.h - Diagnostics for liblex ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

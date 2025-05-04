@@ -1,4 +1,4 @@
-#include <math.h>
+﻿#include <math.h>
 #include "mathlib/ssemath.h"
 #include "mix.h"
 #include "simple_filter.h"

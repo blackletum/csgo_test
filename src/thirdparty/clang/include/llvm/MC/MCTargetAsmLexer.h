@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCTargetAsmLexer.h - Target Assembly Lexer ------*- C++ -*-===//
+﻿//===-- llvm/MC/MCTargetAsmLexer.h - Target Assembly Lexer ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

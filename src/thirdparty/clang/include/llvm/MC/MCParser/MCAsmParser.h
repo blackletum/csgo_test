@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCAsmParser.h - Abstract Asm Parser Interface ---*- C++ -*-===//
+﻿//===-- llvm/MC/MCAsmParser.h - Abstract Asm Parser Interface ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

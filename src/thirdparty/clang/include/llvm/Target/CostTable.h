@@ -1,4 +1,4 @@
-//===-- CostTable.h - Instruction Cost Table handling -----------*- C++ -*-===//
+﻿//===-- CostTable.h - Instruction Cost Table handling -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

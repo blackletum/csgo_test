@@ -1,4 +1,4 @@
-// $Id$
+﻿// $Id$
 
 // halton.h - classes, etc for generating numbers using the Halton pseudo-random sequence.  See
 // http://halton-sequences.wikiverse.org/.

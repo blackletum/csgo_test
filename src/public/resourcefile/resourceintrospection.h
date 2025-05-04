@@ -1,4 +1,4 @@
-//===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Describes data which is used to help determine introspection
 // data for a resource file. Specifies which fields are what types, and

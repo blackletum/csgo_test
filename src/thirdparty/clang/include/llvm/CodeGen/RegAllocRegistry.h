@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/RegAllocRegistry.h -------------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/RegAllocRegistry.h -------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

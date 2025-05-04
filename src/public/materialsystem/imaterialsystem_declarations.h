@@ -1,4 +1,4 @@
-//===== Copyright (c), Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c), Valve Corporation, All rights reserved. ======//
 #ifndef imaterialsystem_declarations_h
 #define imaterialsystem_declarations_h
 

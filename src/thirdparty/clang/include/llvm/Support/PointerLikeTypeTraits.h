@@ -1,4 +1,4 @@
-//===- llvm/Support/PointerLikeTypeTraits.h - Pointer Traits ----*- C++ -*-===//
+﻿//===- llvm/Support/PointerLikeTypeTraits.h - Pointer Traits ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

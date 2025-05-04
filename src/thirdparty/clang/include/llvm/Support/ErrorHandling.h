@@ -1,4 +1,4 @@
-//===- llvm/Support/ErrorHandling.h - Fatal error handling ------*- C++ -*-===//
+﻿//===- llvm/Support/ErrorHandling.h - Fatal error handling ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

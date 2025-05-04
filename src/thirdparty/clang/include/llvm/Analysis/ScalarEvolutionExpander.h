@@ -1,4 +1,4 @@
-//===---- llvm/Analysis/ScalarEvolutionExpander.h - SCEV Exprs --*- C++ -*-===//
+﻿//===---- llvm/Analysis/ScalarEvolutionExpander.h - SCEV Exprs --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

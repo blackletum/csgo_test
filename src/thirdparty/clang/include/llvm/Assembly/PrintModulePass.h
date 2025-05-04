@@ -1,4 +1,4 @@
-//===- llvm/Assembly/PrintModulePass.h - Printing Pass ----------*- C++ -*-===//
+﻿//===- llvm/Assembly/PrintModulePass.h - Printing Pass ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

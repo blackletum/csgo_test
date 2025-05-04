@@ -1,4 +1,4 @@
-//===--- ExternalASTSource.h - Abstract External AST Interface --*- C++ -*-===//
+﻿//===--- ExternalASTSource.h - Abstract External AST Interface --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

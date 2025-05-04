@@ -1,4 +1,4 @@
-//  Copyright Electonic Arts(C) 2006 - All Rights Reserved
+﻿//  Copyright Electonic Arts(C) 2006 - All Rights Reserved
 
 #ifndef TLFONT_H
 #define TLFONT_H

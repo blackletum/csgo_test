@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 #include "pch_tier0.h"
 
 // This function is marked in the VPC file as always being optimized, even in debug

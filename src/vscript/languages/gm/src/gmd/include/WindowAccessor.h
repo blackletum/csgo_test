@@ -1,4 +1,4 @@
-// Scintilla source code edit control
+﻿// Scintilla source code edit control
 /** @file WindowAccessor.h
  ** Implementation of BufferAccess and StylingAccess on a Scintilla
  ** rapid easy access to contents of a Scintilla.

@@ -1,4 +1,4 @@
-/* Copyright (C) 2001 Erik de Castro Lopo <erikd AT mega-nerd DOT com> */
+﻿/* Copyright (C) 2001 Erik de Castro Lopo <erikd AT mega-nerd DOT com> */
 /*
    Redistribution and use in source and binary forms, with or without
    modification, are permitted provided that the following conditions

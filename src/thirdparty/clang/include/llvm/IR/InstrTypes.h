@@ -1,4 +1,4 @@
-//===-- llvm/InstrTypes.h - Important Instruction subclasses ----*- C++ -*-===//
+﻿//===-- llvm/InstrTypes.h - Important Instruction subclasses ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

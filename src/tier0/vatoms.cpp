@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 // NOTE: DO NOT INCLUDE vatoms.h, we don't want to rebuild tier0 every time
 // the header changes. 
 // 

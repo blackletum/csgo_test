@@ -1,4 +1,4 @@
-//===--- ToolChain.h - Collections of tools for one platform ----*- C++ -*-===//
+﻿//===--- ToolChain.h - Collections of tools for one platform ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#include <limits.h>
+﻿#include <limits.h>
 #if __WORDSIZE == 64
 #  define BACKTRACE_ELF_SIZE 64
 #else

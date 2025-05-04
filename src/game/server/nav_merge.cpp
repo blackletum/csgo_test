@@ -1,4 +1,4 @@
-// nav_merge.cpp
+﻿// nav_merge.cpp
 // Save/merge for partial nav meshes
 // Copyright 2005 Turtle Rock Studios, Inc.
 

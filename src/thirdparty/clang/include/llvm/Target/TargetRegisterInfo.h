@@ -1,4 +1,4 @@
-//=== Target/TargetRegisterInfo.h - Target Register Information -*- C++ -*-===//
+﻿//=== Target/TargetRegisterInfo.h - Target Register Information -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

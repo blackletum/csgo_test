@@ -1,4 +1,4 @@
-//===-- llvm/Support/Win64EH.h ---Win64 EH Constants-------------*- C++ -*-===//
+﻿//===-- llvm/Support/Win64EH.h ---Win64 EH Constants-------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

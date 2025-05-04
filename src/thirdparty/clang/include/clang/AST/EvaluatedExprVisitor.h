@@ -1,4 +1,4 @@
-//===--- EvaluatedExprVisitor.h - Evaluated expression visitor --*- C++ -*-===//
+﻿//===--- EvaluatedExprVisitor.h - Evaluated expression visitor --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

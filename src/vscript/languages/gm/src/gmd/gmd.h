@@ -1,4 +1,4 @@
-// gmd.h : main header file for the GMD application
+﻿// gmd.h : main header file for the GMD application
 //
 //  See Copyright Notice in gmMachine.h
 

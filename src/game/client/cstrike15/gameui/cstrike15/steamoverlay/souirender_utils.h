@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
 
 #ifndef SOUIRENDER_UTILS_H
 #define SOUIRENDER_UTILS_H

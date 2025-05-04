@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCInstrAnalysis.h - InstrDesc target hooks ------*- C++ -*-===//
+﻿//===-- llvm/MC/MCInstrAnalysis.h - InstrDesc target hooks ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

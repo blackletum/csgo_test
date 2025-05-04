@@ -1,4 +1,4 @@
-//===- llvm/ADT/SmallString.h - 'Normally small' strings --------*- C++ -*-===//
+﻿//===- llvm/ADT/SmallString.h - 'Normally small' strings --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

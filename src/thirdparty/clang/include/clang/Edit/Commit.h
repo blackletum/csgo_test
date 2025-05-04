@@ -1,4 +1,4 @@
-//===----- Commit.h - A unit of edits ---------------------------*- C++ -*-===//
+﻿//===----- Commit.h - A unit of edits ---------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

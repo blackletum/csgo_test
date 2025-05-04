@@ -1,4 +1,4 @@
-//===- llvm/ADT/TinyPtrVector.h - 'Normally tiny' vectors -------*- C++ -*-===//
+﻿//===- llvm/ADT/TinyPtrVector.h - 'Normally tiny' vectors -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/*
+﻿/*
 	see copyright notice in sqrdbg.h
 */
 #include "tier0/basetypes.h"

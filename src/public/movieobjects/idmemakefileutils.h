@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2004, Valve Corporation, All rights reserved. =====//
+﻿//====== Copyright © 1996-2004, Valve Corporation, All rights reserved. =====//
 //
 // Interface for makefiles to build differently depending on where they are run from
 //

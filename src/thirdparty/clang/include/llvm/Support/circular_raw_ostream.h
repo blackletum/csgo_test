@@ -1,4 +1,4 @@
-//===-- llvm/Support/circular_raw_ostream.h - Buffered streams --*- C++ -*-===//
+﻿//===-- llvm/Support/circular_raw_ostream.h - Buffered streams --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

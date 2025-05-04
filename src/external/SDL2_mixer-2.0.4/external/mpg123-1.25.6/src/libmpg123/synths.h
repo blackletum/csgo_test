@@ -1,4 +1,4 @@
-#ifndef MPG123_SYNTH_H
+﻿#ifndef MPG123_SYNTH_H
 #define MPG123_SYNTH_H
 
 /* This is included inside frame.h, which is included in mpg123lib_intern.h,

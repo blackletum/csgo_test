@@ -1,4 +1,4 @@
-//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: OSX Joystick implementation for inputsystem.dll
 //
@@ -177,7 +177,7 @@ bool CInputSystem::HIDCreateOpenDeviceInterface( io_object_t hidDevice, Joystick
 		{
             plugInResult = (*ppPlugInInterface)->QueryInterface(ppPlugInInterface, CFUUIDGetUUIDBytes(kIOHIDDeviceInterfaceID),(void **)&(info.m_Interface) );
             if ( plugInResult != S_OK )
-                HIDReportErrorNum("Couldn’t query HID class device interface from plugInInterface", plugInResult);
+                HIDReportErrorNum("Couldn€™t query HID class device interface from plugInInterface", plugInResult);
 			
 			(*ppPlugInInterface)->Release(ppPlugInInterface);
         } 

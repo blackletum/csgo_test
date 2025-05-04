@@ -1,4 +1,4 @@
-//===== Copyright Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright Valve Corporation, All rights reserved. ======//
 
 #include "stdafx.h"
 #include "hammer_mathlib.h"

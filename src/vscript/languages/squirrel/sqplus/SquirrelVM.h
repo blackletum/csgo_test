@@ -1,4 +1,4 @@
-#ifndef _SQUIRREL_VM_H_
+﻿#ifndef _SQUIRREL_VM_H_
 #define _SQUIRREL_VM_H_
 
 struct SquirrelError {

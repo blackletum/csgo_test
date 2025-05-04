@@ -1,4 +1,4 @@
-/*===-- llvm-c/EnhancedDisassembly.h - Disassembler C Interface ---*- C -*-===*\
+﻿/*===-- llvm-c/EnhancedDisassembly.h - Disassembler C Interface ---*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

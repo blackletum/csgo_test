@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/ISDOpcodes.h - CodeGen opcodes -------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/ISDOpcodes.h - CodeGen opcodes -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

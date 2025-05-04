@@ -1,4 +1,4 @@
-//===--- DAGDeltaAlgorithm.h - A DAG Minimization Algorithm ----*- C++ -*--===//
+﻿//===--- DAGDeltaAlgorithm.h - A DAG Minimization Algorithm ----*- C++ -*--===//
 //
 //                     The LLVM Compiler Infrastructure
 //

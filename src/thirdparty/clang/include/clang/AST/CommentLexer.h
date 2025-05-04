@@ -1,4 +1,4 @@
-//===--- CommentLexer.h - Lexer for structured comments ---------*- C++ -*-===//
+﻿//===--- CommentLexer.h - Lexer for structured comments ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

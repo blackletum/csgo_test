@@ -1,4 +1,4 @@
-/*
+﻿/*
 	abi_align: An attempt to avoid breakage because of mixing
 	compilers with different alignment.
 

@@ -1,4 +1,4 @@
-//== TaintManager.h - Managing taint --------------------------- -*- C++ -*--=//
+﻿//== TaintManager.h - Managing taint --------------------------- -*- C++ -*--=//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#include "TargetConditionals.h"
+﻿#include "TargetConditionals.h"
 
 #if TARGET_IPHONE_SIMULATOR
 	#define DEFAULT_OUTPUT_MODULE "dummy"

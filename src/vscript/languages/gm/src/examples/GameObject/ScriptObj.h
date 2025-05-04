@@ -1,4 +1,4 @@
-#ifndef SCRIPTOBJ_H
+﻿#ifndef SCRIPTOBJ_H
 #define SCRIPTOBJ_H
 
 //

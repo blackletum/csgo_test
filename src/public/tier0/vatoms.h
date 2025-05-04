@@ -1,4 +1,4 @@
-// This is the interface to Valve atoms, a simple global table of pointers
+﻿// This is the interface to Valve atoms, a simple global table of pointers
 // that does not change when we reload a game system. Its purpose is to facilitate
 // on-the-fly unloading and reloading of AppSystems. The intended use is this:
 // Appsystem allocates its interfaces on global heap (managed by tier0) and 

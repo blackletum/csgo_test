@@ -1,4 +1,4 @@
-#ifndef CRYPTOPP_GCM_H
+﻿#ifndef CRYPTOPP_GCM_H
 #define CRYPTOPP_GCM_H
 
 #include "authenc.h"

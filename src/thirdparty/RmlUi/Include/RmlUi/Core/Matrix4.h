@@ -1,9 +1,9 @@
-/*
+﻿/*
  * This source file is part of RmlUi, the HTML/CSS Interface Middleware
  *
  * For the latest information, see http://github.com/mikke89/RmlUi
  *
- * Copyright (c) 2014 Markus Schöngart
+ * Copyright (c) 2014 Markus SchÃ¶ngart
  * Copyright (c) 2019 The RmlUi Team, and contributors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -37,7 +37,7 @@ namespace Rml {
 
 /**
 	Templated class that acts as base strategy for vectors access patterns of matrices.
-	@author Markus Schöngart
+	@author Markus SchÃ¶ngart
  */
 template< typename Component >
 struct MatrixStorageBase
@@ -182,7 +182,7 @@ struct ColumnMajorStorage;
 
 /**
 	Templated class that defines the vectors access pattern for row-major matrices.
-	@author Markus Schöngart
+	@author Markus SchÃ¶ngart
  */
 template< typename Component >
 struct RowMajorStorage : public MatrixStorageBase< Component >
@@ -204,7 +204,7 @@ struct RowMajorStorage : public MatrixStorageBase< Component >
 
 /**
 	Templated class that defines the vectors access pattern for column-major matrices.
-	@author Markus Schöngart
+	@author Markus SchÃ¶ngart
  */
 template< typename Component >
 struct ColumnMajorStorage
@@ -226,7 +226,7 @@ struct ColumnMajorStorage
 
 /**
 	Templated class for a generic 4x4 matrix.
-	@author Markus Schöngart
+	@author Markus SchÃ¶ngart
  */
 
 template< typename Component, class Storage = ColumnMajorStorage< Component > >

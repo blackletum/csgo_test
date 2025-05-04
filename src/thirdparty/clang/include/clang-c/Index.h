@@ -1,4 +1,4 @@
-/*===-- clang-c/Index.h - Indexing Public C Interface -------------*- C -*-===*\
+﻿/*===-- clang-c/Index.h - Indexing Public C Interface -------------*- C -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

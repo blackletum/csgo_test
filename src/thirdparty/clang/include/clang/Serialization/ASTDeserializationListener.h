@@ -1,4 +1,4 @@
-//===- ASTDeserializationListener.h - Decl/Type PCH Read Events -*- C++ -*-===//
+﻿//===- ASTDeserializationListener.h - Decl/Type PCH Read Events -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

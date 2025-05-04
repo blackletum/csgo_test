@@ -1,4 +1,4 @@
-//================ Copyright (c) 1996-2009 Valve Corporation. All Rights Reserved. =================
+﻿//================ Copyright (c) 1996-2009 Valve Corporation. All Rights Reserved. =================
 #include "cgutils.h"
 #include "tier0/dbg.h"
 

@@ -1,4 +1,4 @@
-
+﻿
 #ifndef RENDERABLE_G_H
 #define RENDERABLE_G_H
 

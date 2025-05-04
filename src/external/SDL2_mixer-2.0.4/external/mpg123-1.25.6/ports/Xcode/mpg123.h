@@ -1,4 +1,4 @@
-/*
+﻿/*
 	mpg123.h: MPEG Audio Decoder library wrapper header for Xcode
 
 	copyright 2012 by the mpg123 project - free software under the terms of the LGPL 2.1

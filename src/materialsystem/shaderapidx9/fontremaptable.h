@@ -1,4 +1,4 @@
-		/////////////////////////
+﻿		/////////////////////////
 		// windows stock fonts //
 		/////////////////////////
 		{"courier new",				"platform/vgui/fonts/cour.ttf", false, false},

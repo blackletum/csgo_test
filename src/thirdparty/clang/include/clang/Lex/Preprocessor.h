@@ -1,4 +1,4 @@
-//===--- Preprocessor.h - C Language Family Preprocessor --------*- C++ -*-===//
+﻿//===--- Preprocessor.h - C Language Family Preprocessor --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

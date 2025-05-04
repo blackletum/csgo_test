@@ -1,4 +1,4 @@
-#ifndef IBLACKBOX_H
+﻿#ifndef IBLACKBOX_H
 #define IBLACKBOX_H
 
 #define BLACKBOX_INTERFACE_VERSION "BlackBoxVersion001"

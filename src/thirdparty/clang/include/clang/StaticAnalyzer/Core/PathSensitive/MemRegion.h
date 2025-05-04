@@ -1,4 +1,4 @@
-//== MemRegion.h - Abstract memory regions for static analysis --*- C++ -*--==//
+﻿//== MemRegion.h - Abstract memory regions for static analysis --*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

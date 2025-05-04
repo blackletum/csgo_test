@@ -1,9 +1,9 @@
-/*
+﻿/*
  * This source file is part of RmlUi, the HTML/CSS Interface Middleware
  *
  * For the latest information, see http://github.com/mikke89/RmlUi
  *
- * Copyright (c) 2014 Markus Schöngart
+ * Copyright (c) 2014 Markus SchÃ¶ngart
  * Copyright (c) 2019 The RmlUi Team, and contributors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -45,7 +45,7 @@ class Property;
 	During the Context::Render call the transforms of the current element and its ancestors will be
 	used to find the final transformation matrix for the global coordinate system.
 
-	@author Markus Schöngart
+	@author Markus SchÃ¶ngart
 	@see Rml::Variant
  */
 

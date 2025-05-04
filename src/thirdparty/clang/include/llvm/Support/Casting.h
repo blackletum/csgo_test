@@ -1,4 +1,4 @@
-//===-- llvm/Support/Casting.h - Allow flexible, checked, casts -*- C++ -*-===//
+﻿//===-- llvm/Support/Casting.h - Allow flexible, checked, casts -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

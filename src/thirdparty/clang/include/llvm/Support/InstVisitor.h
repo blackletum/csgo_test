@@ -1,4 +1,4 @@
-//===- llvm/Support/InstVisitor.h - Define instruction visitors -*- C++ -*-===//
+﻿//===- llvm/Support/InstVisitor.h - Define instruction visitors -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

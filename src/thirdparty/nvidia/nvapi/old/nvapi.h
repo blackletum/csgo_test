@@ -1,4 +1,4 @@
-#include"nvapi_lite_salstart.h"
+﻿#include"nvapi_lite_salstart.h"
 #include"nvapi_lite_common.h"
 #include"nvapi_lite_sli.h"
 #include"nvapi_lite_surround.h"

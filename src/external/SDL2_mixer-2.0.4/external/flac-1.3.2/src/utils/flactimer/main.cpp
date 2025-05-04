@@ -1,4 +1,4 @@
-/* flactimer - Runs a command and prints timing information
+﻿/* flactimer - Runs a command and prints timing information
  * Copyright (C) 2007-2009  Josh Coalson
  * Copyright (C) 2011-2016  Xiph.Org Foundation
  *

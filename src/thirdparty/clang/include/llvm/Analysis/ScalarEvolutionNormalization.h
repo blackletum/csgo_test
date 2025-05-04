@@ -1,4 +1,4 @@
-//===- llvm/Analysis/ScalarEvolutionNormalization.h - See below -*- C++ -*-===//
+﻿//===- llvm/Analysis/ScalarEvolutionNormalization.h - See below -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

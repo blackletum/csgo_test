@@ -1,4 +1,4 @@
-//===- llvm/ADT/DenseSet.h - Dense probed hash table ------------*- C++ -*-===//
+﻿//===- llvm/ADT/DenseSet.h - Dense probed hash table ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

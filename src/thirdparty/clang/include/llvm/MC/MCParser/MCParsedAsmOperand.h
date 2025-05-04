@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCParsedAsmOperand.h - Asm Parser Operand -------*- C++ -*-===//
+﻿//===-- llvm/MC/MCParsedAsmOperand.h - Asm Parser Operand -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

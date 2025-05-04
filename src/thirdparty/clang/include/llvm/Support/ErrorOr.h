@@ -1,4 +1,4 @@
-//===- llvm/Support/ErrorOr.h - Error Smart Pointer -----------------------===//
+﻿//===- llvm/Support/ErrorOr.h - Error Smart Pointer -----------------------===//
 //
 //                             The LLVM Linker
 //

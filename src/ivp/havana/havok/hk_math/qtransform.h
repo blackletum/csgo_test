@@ -1,4 +1,4 @@
-#ifndef HK_MATH_QTRANSFORM_H
+﻿#ifndef HK_MATH_QTRANSFORM_H
 #define HK_MATH_QTRANSFORM_H
 
 //:

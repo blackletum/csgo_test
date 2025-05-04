@@ -1,4 +1,4 @@
-//===-- FrontendAction.h - Generic Frontend Action Interface ----*- C++ -*-===//
+﻿//===-- FrontendAction.h - Generic Frontend Action Interface ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

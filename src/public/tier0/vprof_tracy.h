@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_VPROF_TRACY_H
+﻿#ifndef KISAKSTRIKE_VPROF_TRACY_H
 #define KISAKSTRIKE_VPROF_TRACY_H
 
 #include "../../thirdparty/tracy-0.7.5/Tracy.hpp"

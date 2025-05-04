@@ -1,4 +1,4 @@
-#define IDD_RULE                    100
+﻿#define IDD_RULE                    100
 #define ID_CLICK                    106
 #define ID_PRESS                    107
 #define ID_RELASE                   108

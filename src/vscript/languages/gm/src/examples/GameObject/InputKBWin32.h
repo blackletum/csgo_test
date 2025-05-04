@@ -1,4 +1,4 @@
-#ifndef INPUTKBWIN32_H
+﻿#ifndef INPUTKBWIN32_H
 #define INPUTKBWIN32_H
 
 //

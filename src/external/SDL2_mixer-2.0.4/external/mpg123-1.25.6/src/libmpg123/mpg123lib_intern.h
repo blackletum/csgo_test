@@ -1,4 +1,4 @@
-/*
+﻿/*
 	mpg123lib_intern: Common non-public stuff for libmpg123
 
 	copyright 1995-2008 by the mpg123 project - free software under the terms of the LGPL 2.1

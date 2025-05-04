@@ -1,4 +1,4 @@
-//===- CXXFieldCollector.h - Utility class for C++ class semantic analysis ===//
+﻿//===- CXXFieldCollector.h - Utility class for C++ class semantic analysis ===//
 //
 //                     The LLVM Compiler Infrastructure
 //

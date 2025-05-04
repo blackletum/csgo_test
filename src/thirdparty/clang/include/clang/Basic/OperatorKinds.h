@@ -1,4 +1,4 @@
-//===--- OperatorKinds.h - C++ Overloaded Operators -------------*- C++ -*-===//
+﻿//===--- OperatorKinds.h - C++ Overloaded Operators -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

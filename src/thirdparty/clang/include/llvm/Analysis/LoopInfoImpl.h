@@ -1,4 +1,4 @@
-//===- llvm/Analysis/LoopInfoImpl.h - Natural Loop Calculator ---*- C++ -*-===//
+﻿//===- llvm/Analysis/LoopInfoImpl.h - Natural Loop Calculator ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

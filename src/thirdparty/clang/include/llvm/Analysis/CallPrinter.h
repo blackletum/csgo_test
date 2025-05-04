@@ -1,4 +1,4 @@
-//===-- CallPrinter.h - Call graph printer external interface ----*- C++ -*-===//
+﻿//===-- CallPrinter.h - Call graph printer external interface ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

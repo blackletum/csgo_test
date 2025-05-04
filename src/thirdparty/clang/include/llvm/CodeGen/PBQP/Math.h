@@ -1,4 +1,4 @@
-//===------ Math.h - PBQP Vector and Matrix classes -------------*- C++ -*-===//
+﻿//===------ Math.h - PBQP Vector and Matrix classes -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

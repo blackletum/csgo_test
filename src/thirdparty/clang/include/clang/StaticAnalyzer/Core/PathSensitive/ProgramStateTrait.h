@@ -1,4 +1,4 @@
-//ProgramStateTrait.h - Partial implementations of ProgramStateTrait -*- C++ -*-
+﻿//ProgramStateTrait.h - Partial implementations of ProgramStateTrait -*- C++ -*-
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_SCOREBOARD_H
+﻿#ifndef KISAKSTRIKE_RKHUD_SCOREBOARD_H
 #define KISAKSTRIKE_RKHUD_SCOREBOARD_H
 
 #include <rocketui/rocketui.h>

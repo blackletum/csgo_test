@@ -1,4 +1,4 @@
-//===- CommonOptionsParser.h - common options for clang tools -*- C++ -*-=====//
+﻿//===- CommonOptionsParser.h - common options for clang tools -*- C++ -*-=====//
 //
 //                     The LLVM Compiler Infrastructure
 //

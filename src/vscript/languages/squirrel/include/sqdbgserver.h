@@ -1,4 +1,4 @@
-#ifndef _SQ_DBGSERVER_H_
+﻿#ifndef _SQ_DBGSERVER_H_
 #define _SQ_DBGSERVER_H_
 
 #define MAX_BP_PATH 512

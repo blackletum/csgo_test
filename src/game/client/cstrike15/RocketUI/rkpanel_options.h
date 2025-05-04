@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKPANEL_OPTIONS_H
+﻿#ifndef KISAKSTRIKE_RKPANEL_OPTIONS_H
 #define KISAKSTRIKE_RKPANEL_OPTIONS_H
 
 #include <rocketui/rocketui.h>

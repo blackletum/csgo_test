@@ -1,4 +1,4 @@
-/*===========================================================================
+﻿/*===========================================================================
   xmlcfg.h
     Global/platform spesific definitions + configuration for 
     GNU libiconv support etc. 

@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetLibraryInfo.h - Library information ---*- C++ -*-===//
+﻿//===-- llvm/Target/TargetLibraryInfo.h - Library information ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

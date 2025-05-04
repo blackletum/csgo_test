@@ -1,4 +1,4 @@
-/* Compiler.h -- Compiler ypes
+﻿/* Compiler.h -- Compiler ypes
 2013-11-12 : Igor Pavlov : Public domain */
 
 #ifndef __7Z_COMPILER_H

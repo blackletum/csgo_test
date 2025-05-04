@@ -1,4 +1,4 @@
-//===- llvm/Analysis/AliasAnalysis.h - Alias Analysis Interface -*- C++ -*-===//
+﻿//===- llvm/Analysis/AliasAnalysis.h - Alias Analysis Interface -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

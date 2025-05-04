@@ -1,4 +1,4 @@
-//  See Copyright Notice in gmMachine.h
+﻿//  See Copyright Notice in gmMachine.h
 #ifndef _timer_h
 #define _timer_h
 

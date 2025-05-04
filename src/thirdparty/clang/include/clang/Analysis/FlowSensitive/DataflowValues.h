@@ -1,4 +1,4 @@
-//===--- DataflowValues.h - Data structure for dataflow values --*- C++ -*-===//
+﻿//===--- DataflowValues.h - Data structure for dataflow values --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

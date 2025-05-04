@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCAsmBack.h - MC Asm Backend --------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCAsmBack.h - MC Asm Backend --------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

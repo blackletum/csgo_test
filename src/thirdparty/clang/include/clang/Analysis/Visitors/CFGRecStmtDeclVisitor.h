@@ -1,4 +1,4 @@
-//= CFGRecStmtDeclVisitor - Recursive visitor of CFG stmts/decls -*- C++ --*-=//
+﻿//= CFGRecStmtDeclVisitor - Recursive visitor of CFG stmts/decls -*- C++ --*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

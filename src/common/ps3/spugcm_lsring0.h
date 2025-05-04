@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 // Easy ("tier0") implementations of simple GCM contexts
 //
 #ifndef PS3_SPUGCM_LSRING0_HDR

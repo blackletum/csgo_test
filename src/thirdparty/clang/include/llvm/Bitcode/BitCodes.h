@@ -1,4 +1,4 @@
-//===- BitCodes.h - Enum values for the bitcode format ----------*- C++ -*-===//
+﻿//===- BitCodes.h - Enum values for the bitcode format ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

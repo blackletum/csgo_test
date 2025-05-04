@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 //
 // Declaration of CDmeGraphEditorState, a data model element which stores 
 // the active state data for the graph editor. 

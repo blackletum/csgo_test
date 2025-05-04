@@ -1,4 +1,4 @@
-#ifndef __QUICKJOIN_H__
+﻿#ifndef __QUICKJOIN_H__
 #define __QUICKJOIN_H__
 
 #include "basemodui.h"

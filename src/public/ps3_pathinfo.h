@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2010, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2010, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Utility class for discovering and caching path info on the PS3.
 //

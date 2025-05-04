@@ -1,4 +1,4 @@
-//===- IntervalPartition.h - Interval partition Calculation -----*- C++ -*-===//
+﻿//===- IntervalPartition.h - Interval partition Calculation -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

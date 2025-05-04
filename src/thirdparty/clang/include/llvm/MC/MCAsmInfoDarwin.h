@@ -1,4 +1,4 @@
-//===---- MCAsmInfoDarwin.h - Darwin asm properties -------------*- C++ -*-===//
+﻿//===---- MCAsmInfoDarwin.h - Darwin asm properties -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

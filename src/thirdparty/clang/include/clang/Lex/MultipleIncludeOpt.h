@@ -1,4 +1,4 @@
-//===--- MultipleIncludeOpt.h - Header Multiple-Include Optzn ---*- C++ -*-===//
+﻿//===--- MultipleIncludeOpt.h - Header Multiple-Include Optzn ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

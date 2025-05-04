@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ============
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ============
 #include "cbase.h"
 #include "game_timescale_shared.h"
 #include "usermessages.h"

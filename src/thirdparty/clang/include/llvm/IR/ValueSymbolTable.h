@@ -1,4 +1,4 @@
-//===-- llvm/ValueSymbolTable.h - Implement a Value Symtab ------*- C++ -*-===//
+﻿//===-- llvm/ValueSymbolTable.h - Implement a Value Symtab ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

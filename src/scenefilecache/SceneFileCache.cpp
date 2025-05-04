@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2005, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Cache for VCDs. PC async loads and uses the datacache to manage.
 // 360 uses a baked resident image of aggregated compiled VCDs.

@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 
 // X360 and PS3 cascaded shadow mapping
 

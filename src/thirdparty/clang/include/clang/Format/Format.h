@@ -1,4 +1,4 @@
-//===--- Format.h - Format C++ code -----------------------------*- C++ -*-===//
+﻿//===--- Format.h - Format C++ code -----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

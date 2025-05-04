@@ -1,4 +1,4 @@
-
+﻿
 class ConVar;
 
 #include "cbase.h"

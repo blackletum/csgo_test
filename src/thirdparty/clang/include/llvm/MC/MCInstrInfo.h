@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCInstrInfo.h - Target Instruction Info ---------*- C++ -*-===//
+﻿//===-- llvm/MC/MCInstrInfo.h - Target Instruction Info ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

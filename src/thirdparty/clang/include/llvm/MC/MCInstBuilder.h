@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCInstBuilder.h - Simplify creation of MCInsts --*- C++ -*-===//
+﻿//===-- llvm/MC/MCInstBuilder.h - Simplify creation of MCInsts --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

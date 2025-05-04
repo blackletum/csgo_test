@@ -1,4 +1,4 @@
-//===-- LiveIntervalAnalysis.h - Live Interval Analysis ---------*- C++ -*-===//
+﻿//===-- LiveIntervalAnalysis.h - Live Interval Analysis ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

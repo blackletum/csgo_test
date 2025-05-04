@@ -1,4 +1,4 @@
-//===- llvm/Support/Disassembler.h ------------------------------*- C++ -*-===//
+﻿//===- llvm/Support/Disassembler.h ------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

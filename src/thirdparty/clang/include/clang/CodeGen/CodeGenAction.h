@@ -1,4 +1,4 @@
-//===--- CodeGenAction.h - LLVM Code Generation Frontend Action -*- C++ -*-===//
+﻿//===--- CodeGenAction.h - LLVM Code Generation Frontend Action -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/* contrib/libtests/pngstest-errors.h
+﻿/* contrib/libtests/pngstest-errors.h
  *
  * BUILT USING: libpng version 1.6.19beta03 - September 25, 2015
  *

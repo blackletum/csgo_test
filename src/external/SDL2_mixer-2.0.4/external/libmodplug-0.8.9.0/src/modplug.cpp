@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This source code is public domain.
  *
  * Authors: Kenton Varda <temporal@gauge3d.org> (C interface wrapper)

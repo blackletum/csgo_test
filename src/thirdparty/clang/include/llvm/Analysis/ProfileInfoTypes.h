@@ -1,4 +1,4 @@
-/*===-- ProfileInfoTypes.h - Profiling info shared constants --------------===*\
+﻿/*===-- ProfileInfoTypes.h - Profiling info shared constants --------------===*\
 |*
 |*                     The LLVM Compiler Infrastructure
 |*

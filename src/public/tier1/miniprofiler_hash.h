@@ -1,4 +1,4 @@
-//========= Copyright c 2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright c 2009, Valve Corporation, All rights reserved. ============//
 #ifndef TIER1_MINIPROFILER_HASH_HDR
 #define TIER1_MINIPROFILER_HASH_HDR
 

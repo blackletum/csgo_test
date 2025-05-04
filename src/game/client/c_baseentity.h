@@ -1,4 +1,4 @@
-//===== Copyright (c) Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) Valve Corporation, All rights reserved. ======//
 //
 // Purpose: A base class for the client-side representation of entities.
 //

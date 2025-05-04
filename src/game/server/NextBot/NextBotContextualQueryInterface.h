@@ -1,4 +1,4 @@
-// NextBotContextualQueryInterface.h
+﻿// NextBotContextualQueryInterface.h
 // Queries within the context of the bot's current behavior state
 // Author: Michael Booth, June 2007
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

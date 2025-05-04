@@ -1,4 +1,4 @@
-//===- ProfileDataLoader.h - Load & convert profile info ----*- C++ -*-===//
+﻿//===- ProfileDataLoader.h - Load & convert profile info ----*- C++ -*-===//
 //
 //                      The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-/*
+﻿/*
 	decode.h: common definitions for decode functions
 
 	This file is strongly tied with optimize.h concerning the synth functions.

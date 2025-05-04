@@ -1,4 +1,4 @@
-//===--- LocInfoType.h - Parsed Type with Location Information---*- C++ -*-===//
+﻿//===--- LocInfoType.h - Parsed Type with Location Information---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

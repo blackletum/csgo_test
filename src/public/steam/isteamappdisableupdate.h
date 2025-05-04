@@ -1,4 +1,4 @@
-//====== Copyright 1996-2013, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright 1996-2013, Valve Corporation, All rights reserved. =======
 //
 // Purpose: interface to allow apps to temporarily prevent steam from updating
 //

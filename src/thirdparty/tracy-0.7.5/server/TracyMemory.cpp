@@ -1,4 +1,4 @@
-#include "TracyMemory.hpp"
+﻿#include "TracyMemory.hpp"
 
 namespace tracy
 {

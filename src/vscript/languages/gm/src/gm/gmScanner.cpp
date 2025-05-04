@@ -1,4 +1,4 @@
-#define yy_create_buffer gm_create_buffer
+﻿#define yy_create_buffer gm_create_buffer
 #define yy_delete_buffer gm_delete_buffer
 #define yy_scan_buffer gm_scan_buffer
 #define yy_scan_string gm_scan_string

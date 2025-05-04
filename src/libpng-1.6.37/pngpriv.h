@@ -1,4 +1,4 @@
-
+﻿
 /* pngpriv.h - private declarations for use inside libpng
  *
  * Copyright (c) 2018-2019 Cosmin Truta

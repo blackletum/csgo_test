@@ -1,4 +1,4 @@
-#ifndef HK_ROTATION_H
+﻿#ifndef HK_ROTATION_H
 #define HK_ROTATION_H
 
 #ifndef HK_MATH_VECMATH_H

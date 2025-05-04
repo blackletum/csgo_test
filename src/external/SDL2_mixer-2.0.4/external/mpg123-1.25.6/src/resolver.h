@@ -1,4 +1,4 @@
-/*
+﻿/*
 	resolver.c: TCP network stuff, for IPv4 and IPv6
 
 	copyright 2008 by the mpg123 project - free software under the terms of the LGPL 2.1

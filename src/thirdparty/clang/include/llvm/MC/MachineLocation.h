@@ -1,4 +1,4 @@
-//===-- llvm/MC/MachineLocation.h -------------------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MachineLocation.h -------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

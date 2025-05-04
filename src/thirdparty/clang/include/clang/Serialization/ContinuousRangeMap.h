@@ -1,4 +1,4 @@
-//===--- ContinuousRangeMap.h - Map with int range as key -------*- C++ -*-===//
+﻿//===--- ContinuousRangeMap.h - Map with int range as key -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

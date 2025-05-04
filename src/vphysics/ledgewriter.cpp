@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 //
 // Purpose: low-level code to write IVP_Compact_Ledge/IVP_Compact_Triangle.
 //			also includes code to pack/unpack outer hull ledges to 8-bit rep

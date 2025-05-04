@@ -1,4 +1,4 @@
-#ifndef Py_CSTRINGIO_H
+﻿#ifndef Py_CSTRINGIO_H
 #define Py_CSTRINGIO_H
 #ifdef __cplusplus
 extern "C" {

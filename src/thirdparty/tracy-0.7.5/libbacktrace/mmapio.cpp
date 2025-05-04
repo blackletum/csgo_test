@@ -1,4 +1,4 @@
-/* mmapio.c -- File views using mmap.
+﻿/* mmapio.c -- File views using mmap.
    Copyright (C) 2012-2020 Free Software Foundation, Inc.
    Written by Ian Lance Taylor, Google.
 

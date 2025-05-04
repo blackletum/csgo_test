@@ -1,4 +1,4 @@
-#ifndef Py_PYPORT_H
+﻿#ifndef Py_PYPORT_H
 #define Py_PYPORT_H
 
 #include "pyconfig.h" /* include for defines */

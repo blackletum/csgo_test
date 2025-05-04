@@ -1,4 +1,4 @@
-//===-- JITMemoryManager.h - Interface JIT uses to Allocate Mem -*- C++ -*-===//
+﻿//===-- JITMemoryManager.h - Interface JIT uses to Allocate Mem -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

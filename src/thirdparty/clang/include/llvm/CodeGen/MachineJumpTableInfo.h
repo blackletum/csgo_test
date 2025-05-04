@@ -1,4 +1,4 @@
-//===-- CodeGen/MachineJumpTableInfo.h - Abstract Jump Tables  --*- C++ -*-===//
+﻿//===-- CodeGen/MachineJumpTableInfo.h - Abstract Jump Tables  --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- AssemblyAnnotationWriter.h - Annotation .ll files -------*- C++ -*-===//
+﻿//===-- AssemblyAnnotationWriter.h - Annotation .ll files -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

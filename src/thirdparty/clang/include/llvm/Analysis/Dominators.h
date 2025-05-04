@@ -1,4 +1,4 @@
-//===- llvm/Analysis/Dominators.h - Dominator Info Calculation --*- C++ -*-===//
+﻿//===- llvm/Analysis/Dominators.h - Dominator Info Calculation --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

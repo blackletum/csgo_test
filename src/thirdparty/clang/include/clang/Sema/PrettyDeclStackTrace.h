@@ -1,4 +1,4 @@
-//===- PrettyDeclStackTrace.h - Stack trace for decl processing -*- C++ -*-===//
+﻿//===- PrettyDeclStackTrace.h - Stack trace for decl processing -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

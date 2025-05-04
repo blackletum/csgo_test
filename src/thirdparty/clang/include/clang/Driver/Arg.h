@@ -1,4 +1,4 @@
-//===--- Arg.h - Parsed Argument Classes ------------------------*- C++ -*-===//
+﻿//===--- Arg.h - Parsed Argument Classes ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

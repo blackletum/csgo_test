@@ -1,4 +1,4 @@
-//============ Copyright (c) Valve Corporation, All rights reserved. ==========
+﻿//============ Copyright (c) Valve Corporation, All rights reserved. ==========
 #ifndef CLOTHPROXYCOMPILER_HDR
 #define CLOTHPROXYCOMPILER_HDR
 

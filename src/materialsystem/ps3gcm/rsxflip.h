@@ -1,4 +1,4 @@
-//========== Copyright � 2010, Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © 2010, Valve Corporation, All rights reserved. ========
 #ifndef MATERIALSYSTEM_PS3GCM_RSXFLIP_HDR
 #define MATERIALSYSTEM_PS3GCM_RSXFLIP_HDR
 

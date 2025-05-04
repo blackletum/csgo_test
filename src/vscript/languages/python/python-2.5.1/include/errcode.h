@@ -1,4 +1,4 @@
-#ifndef Py_ERRCODE_H
+﻿#ifndef Py_ERRCODE_H
 #define Py_ERRCODE_H
 #ifdef __cplusplus
 extern "C" {

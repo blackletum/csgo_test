@@ -1,4 +1,4 @@
-#ifndef HK_LCP_SOLVER
+﻿#ifndef HK_LCP_SOLVER
 #define HK_LCP_SOLVER
 
 class hk_LCP_Input {

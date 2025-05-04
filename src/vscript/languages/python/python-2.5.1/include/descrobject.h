@@ -1,4 +1,4 @@
-/* Descriptors */
+﻿/* Descriptors */
 #ifndef Py_DESCROBJECT_H
 #define Py_DESCROBJECT_H
 #ifdef __cplusplus

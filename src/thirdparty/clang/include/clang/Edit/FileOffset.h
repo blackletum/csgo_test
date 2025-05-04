@@ -1,4 +1,4 @@
-//===----- FileOffset.h - Offset in a file ----------------------*- C++ -*-===//
+﻿//===----- FileOffset.h - Offset in a file ----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

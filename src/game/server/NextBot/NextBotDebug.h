@@ -1,4 +1,4 @@
-#ifndef NEXTBOT_DEBUG_H
+﻿#ifndef NEXTBOT_DEBUG_H
 #define NEXTBOT_DEBUG_H
 //------------------------------------------------------------------------------
 // Debug flags for nextbot

@@ -1,4 +1,4 @@
-//===--- MultiplexExternalSemaSource.h - External Sema Interface-*- C++ -*-===//
+﻿//===--- MultiplexExternalSemaSource.h - External Sema Interface-*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

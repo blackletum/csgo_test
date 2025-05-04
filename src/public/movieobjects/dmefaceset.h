@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2004, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2004, Valve Corporation, All rights reserved. =======
 //
 // A class representing an abstract shape (ie drawable object)
 //

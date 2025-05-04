@@ -1,4 +1,4 @@
-/*
+﻿/*
   Native File Dialog
 
   Internal, common across platforms

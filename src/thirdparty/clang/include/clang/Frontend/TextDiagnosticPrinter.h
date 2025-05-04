@@ -1,4 +1,4 @@
-//===--- TextDiagnosticPrinter.h - Text Diagnostic Client -------*- C++ -*-===//
+﻿//===--- TextDiagnosticPrinter.h - Text Diagnostic Client -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

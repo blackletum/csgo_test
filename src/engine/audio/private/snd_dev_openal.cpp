@@ -1,4 +1,4 @@
-//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -144,7 +144,7 @@ void CAudioDeviceOpenAL::OpenWaveOut( void )
 	ALCdevice    *newDevice = NULL;
 	
 	// Create a new OpenAL Device
-	// Pass NULL to specify the system‚use default output device
+	// Pass NULL to specify the system€šuse default output device
 	const ALCchar *initStr = (const ALCchar *)"\'( (sampling-rate 44100 ))";
     
 	newDevice = alcOpenDevice(initStr);

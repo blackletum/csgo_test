@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ====//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ====//
 //
 // Fragment Program Constant Patcher: an SPU implementation, V0
 //

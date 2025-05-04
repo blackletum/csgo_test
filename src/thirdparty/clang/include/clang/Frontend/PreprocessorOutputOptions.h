@@ -1,4 +1,4 @@
-//===--- PreprocessorOutputOptions.h ----------------------------*- C++ -*-===//
+﻿//===--- PreprocessorOutputOptions.h ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

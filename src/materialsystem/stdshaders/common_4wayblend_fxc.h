@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 
 void GetBaseTextureAndNormal( sampler base, sampler base2, sampler base3, sampler base4, sampler bump, bool bBump,
 							  float3 coords, float2 bumpcoords, float4 uvScales23, float2 uvScales4, HALF3 vWeights,

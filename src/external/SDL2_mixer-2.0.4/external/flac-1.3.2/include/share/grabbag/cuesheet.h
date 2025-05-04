@@ -1,4 +1,4 @@
-/* grabbag - Convenience lib for various routines common to several tools
+﻿/* grabbag - Convenience lib for various routines common to several tools
  * Copyright (C) 2002-2009  Josh Coalson
  * Copyright (C) 2011-2016  Xiph.Org Foundation
  *

@@ -1,4 +1,4 @@
-//====== Copyright  Valve Corporation, All rights reserved. =================
+﻿//====== Copyright  Valve Corporation, All rights reserved. =================
 //
 // Achievements (aka Medals) are divided into categories. Progress towards
 // completing a category of medals gives the player a higher 'rank'. Player

@@ -1,4 +1,4 @@
-#include "gc_clientsystem.h"
+﻿#include "gc_clientsystem.h"
 
 // If this errors out, you need to include the protobuf_builder cmake part
 // for whatever project you are doing

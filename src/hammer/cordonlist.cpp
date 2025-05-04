@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2009, Valve Corporation, All rights reserved. ====
+﻿//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ====
 //
 // A tree list control for cordons. Supports drag and drop, and posts a
 // registered windows message to the list view's parent window when cordons

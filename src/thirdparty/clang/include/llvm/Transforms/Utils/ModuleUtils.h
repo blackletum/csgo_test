@@ -1,4 +1,4 @@
-//===-- ModuleUtils.h - Functions to manipulate Modules ---------*- C++ -*-===//
+﻿//===-- ModuleUtils.h - Functions to manipulate Modules ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

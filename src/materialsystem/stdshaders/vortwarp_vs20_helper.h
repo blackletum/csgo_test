@@ -1,4 +1,4 @@
-#include "common_vs_fxc.h"
+﻿#include "common_vs_fxc.h"
 
 float Sine( float min, float max, float t )
 {

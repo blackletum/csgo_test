@@ -1,4 +1,4 @@
-//===--- ExprObjC.h - Classes for representing ObjC expressions -*- C++ -*-===//
+﻿//===--- ExprObjC.h - Classes for representing ObjC expressions -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

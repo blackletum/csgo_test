@@ -1,4 +1,4 @@
-/*
+﻿/*
 ** $Id: lstate.h,v 2.24.1.2 2008/01/03 15:20:39 roberto Exp $
 ** Global State
 ** See Copyright Notice in lua.h

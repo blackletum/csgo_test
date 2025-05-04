@@ -1,4 +1,4 @@
-/*
+﻿/*
 
  MikMod Sound System
 

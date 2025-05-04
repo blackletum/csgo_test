@@ -1,4 +1,4 @@
-//===== Copyright  Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright  Valve Corporation, All rights reserved. ======//
 //
 //  Radial, context-sensitive menu for co-op communication
 //

@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 #ifndef FINITE_ELEMENT_MODEL_BUILDER_HDR
 #define FINITE_ELEMENT_MODEL_BUILDER_HDR
 

@@ -1,4 +1,4 @@
-#ifndef TIER0_CACHE_HINTS_HDR
+﻿#ifndef TIER0_CACHE_HINTS_HDR
 #define TIER0_CACHE_HINTS_HDR
 
 #if defined(_X360)

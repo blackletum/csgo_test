@@ -1,4 +1,4 @@
-//===- COFF.h - COFF object file implementation -----------------*- C++ -*-===//
+﻿//===- COFF.h - COFF object file implementation -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

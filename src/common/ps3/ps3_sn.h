@@ -1,4 +1,4 @@
-//========= Copyright � , Valve LLC, All rights reserved. ============
+﻿//========= Copyright © , Valve LLC, All rights reserved. ============
 //
 // These are the workarounds for snTuner inability to patch prx'es, 
 // as well as access prx symbols after attaching to a running game 

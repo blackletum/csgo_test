@@ -1,4 +1,4 @@
-//===- MCDwarf.h - Machine Code Dwarf support -------------------*- C++ -*-===//
+﻿//===- MCDwarf.h - Machine Code Dwarf support -------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

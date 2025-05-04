@@ -1,4 +1,4 @@
-//=========== Copyright � Valve Corporation, All rights reserved. ===========//
+﻿//=========== Copyright © Valve Corporation, All rights reserved. ===========//
 //
 // Purpose: Decal flags that can be set publicly by other modules for the decal system.
 //

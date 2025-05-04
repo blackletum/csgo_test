@@ -1,4 +1,4 @@
-//===- llvm/ADT/BitVector.h - Bit vectors -----------------------*- C++ -*-===//
+﻿//===- llvm/ADT/BitVector.h - Bit vectors -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

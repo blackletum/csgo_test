@@ -1,4 +1,4 @@
-#include "vbsp.h"
+﻿#include "vbsp.h"
 #include "map_shared.h"
 #include "fgdlib/fgdlib.h"
 #include "manifest.h"

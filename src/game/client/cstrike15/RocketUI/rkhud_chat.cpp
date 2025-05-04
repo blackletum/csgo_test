@@ -1,4 +1,4 @@
-#include "rkhud_chat.h"
+﻿#include "rkhud_chat.h"
 
 #include "cbase.h"
 #include "cs_gamerules.h"

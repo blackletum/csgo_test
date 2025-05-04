@@ -1,4 +1,4 @@
-//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
+﻿//===================== Copyright (c) Valve Corporation. All Rights Reserved. ======================
 #include "mathlib/femodelbuilder.h"
 #include "tier1/utlhashtable.h"
 #include "tier1/utlsortvector.h"

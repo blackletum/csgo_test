@@ -1,4 +1,4 @@
-//===--- Types.h - Input & Temporary Driver Types ---------------*- C++ -*-===//
+﻿//===--- Types.h - Input & Temporary Driver Types ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

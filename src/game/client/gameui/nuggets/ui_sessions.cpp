@@ -1,4 +1,4 @@
-//=========== (C) Copyright Valve, L.L.C. All rights reserved. ===========
+﻿//=========== (C) Copyright Valve, L.L.C. All rights reserved. ===========
 
 #include "cbase.h"
 #include "ui_nugget.h"

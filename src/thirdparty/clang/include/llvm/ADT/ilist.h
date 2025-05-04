@@ -1,4 +1,4 @@
-//==-- llvm/ADT/ilist.h - Intrusive Linked List Template ---------*- C++ -*-==//
+﻿//==-- llvm/ADT/ilist.h - Intrusive Linked List Template ---------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

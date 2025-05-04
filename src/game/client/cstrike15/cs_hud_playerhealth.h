@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 //
 // Purpose: To display the player's health with the use of one graphic over another.  A cross in this case
 //			Currently this is only used on the freeze cam panel

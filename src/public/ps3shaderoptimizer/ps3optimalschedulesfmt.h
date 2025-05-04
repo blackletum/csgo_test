@@ -1,4 +1,4 @@
-//===== Copyright � 2005-2009, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 2005-2009, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Format of the ps3optimalschedules.bin file, written
 // by the ps3shaderoptimizer command line tool.

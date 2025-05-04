@@ -1,4 +1,4 @@
-//===--- SourceLocation.h - Compact identifier for Source Files -*- C++ -*-===//
+﻿//===--- SourceLocation.h - Compact identifier for Source Files -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

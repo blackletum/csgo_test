@@ -1,4 +1,4 @@
-//===- llvm/DefaultPasses.h - Default Pass Support code --------*- C++ -*-===//
+﻿//===- llvm/DefaultPasses.h - Default Pass Support code --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

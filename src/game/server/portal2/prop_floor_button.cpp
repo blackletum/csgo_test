@@ -1,4 +1,4 @@
-//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 //  Purpose: button that can be pressed by a weighted cube or player standing on it
 //

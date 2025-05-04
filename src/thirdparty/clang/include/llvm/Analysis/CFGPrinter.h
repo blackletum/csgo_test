@@ -1,4 +1,4 @@
-//===-- CFGPrinter.h - CFG printer external interface -----------*- C++ -*-===//
+﻿//===-- CFGPrinter.h - CFG printer external interface -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

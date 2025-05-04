@@ -1,4 +1,4 @@
-/* The PyObject_ memory family:  high-level object memory interfaces.
+﻿/* The PyObject_ memory family:  high-level object memory interfaces.
    See pymem.h for the low-level PyMem_ family.
 */
 

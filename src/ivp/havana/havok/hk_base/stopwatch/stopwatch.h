@@ -1,4 +1,4 @@
-#ifndef HK_BASE_STOPWATCH_H
+﻿#ifndef HK_BASE_STOPWATCH_H
 #define HK_BASE_STOPWATCH_H
 
 #include <hk_base/base_types.h>

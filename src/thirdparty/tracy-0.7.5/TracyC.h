@@ -1,4 +1,4 @@
-#ifndef __TRACYC_HPP__
+﻿#ifndef __TRACYC_HPP__
 #define __TRACYC_HPP__
 
 #include <stddef.h>

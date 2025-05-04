@@ -1,4 +1,4 @@
-//===- AsmCond.h - Assembly file conditional assembly  ----------*- C++ -*-===//
+﻿//===- AsmCond.h - Assembly file conditional assembly  ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

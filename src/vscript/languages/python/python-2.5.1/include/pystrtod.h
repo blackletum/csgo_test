@@ -1,4 +1,4 @@
-#ifndef Py_STRTOD_H
+﻿#ifndef Py_STRTOD_H
 #define Py_STRTOD_H
 
 #ifdef __cplusplus

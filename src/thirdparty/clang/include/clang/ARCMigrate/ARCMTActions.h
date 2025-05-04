@@ -1,4 +1,4 @@
-//===--- ARCMTActions.h - ARC Migrate Tool Frontend Actions -----*- C++ -*-===//
+﻿//===--- ARCMTActions.h - ARC Migrate Tool Frontend Actions -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// ------------------------------------------------------------------------------------------------
+ï»¿// ------------------------------------------------------------------------------------------------
 
 #include <windows.h>
 
@@ -288,7 +288,7 @@ bool IIEP::CFileIn::Seek(long nOffset, long nOrigin)
       return true;
 
     case SEEK_END:
-      ASSERT(nOffset <= 0);   // Õâ¸ö±ØÐëÊÇ¸ºÊý
+      ASSERT(nOffset <= 0);   // Ã•Â¸Ã¶Â±Ã˜ÃÃ«ÃŠÃ‡Â¸ÂºÃŠÃ½
       nOffset = m_dwLength - 1 + nOffset;
       if (nOffset < 0 || nOffset >= (long) m_dwLength) return false;
       m_dwReadPos = nOffset;

@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 
 #ifndef WEAPONDECAL_HELPER_H
 #define WEAPONDECAL_HELPER_H

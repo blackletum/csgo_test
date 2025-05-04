@@ -1,4 +1,4 @@
-//===--- AttrIterator.h - Classes for attribute iteration -------*- C++ -*-===//
+﻿//===--- AttrIterator.h - Classes for attribute iteration -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

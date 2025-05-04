@@ -1,4 +1,4 @@
-//===-- StringPool.h - Interned string pool ---------------------*- C++ -*-===//
+﻿//===-- StringPool.h - Interned string pool ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

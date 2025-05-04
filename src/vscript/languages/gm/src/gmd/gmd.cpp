@@ -1,4 +1,4 @@
-// gmd.cpp : Defines the class behaviors for the application.
+﻿// gmd.cpp : Defines the class behaviors for the application.
 //
 //  See Copyright Notice in gmMachine.h
 

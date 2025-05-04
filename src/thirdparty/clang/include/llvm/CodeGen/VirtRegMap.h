@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/VirtRegMap.h - Virtual Register Map -*- C++ -*--------===//
+﻿//===-- llvm/CodeGen/VirtRegMap.h - Virtual Register Map -*- C++ -*--------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

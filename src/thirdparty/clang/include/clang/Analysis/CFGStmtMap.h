@@ -1,4 +1,4 @@
-//===--- CFGStmtMap.h - Map from Stmt* to CFGBlock* -----------*- C++ -*-===//
+﻿//===--- CFGStmtMap.h - Map from Stmt* to CFGBlock* -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

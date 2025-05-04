@@ -1,4 +1,4 @@
-//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============
+﻿//========= Copyright c 1996-2008, Valve Corporation, All rights reserved. ============
 // This will contain things like helper functions to measure tick count of small pieces
 // of code precisely; or measure performance counters (L2 misses, mispredictions etc.)
 // on different hardware.

@@ -1,4 +1,4 @@
-/* Copyright (C) 2002 Jean-Marc Valin & David Rowe
+﻿/* Copyright (C) 2002 Jean-Marc Valin & David Rowe
    File: cb_search.c
    Overlapped codebook search
 

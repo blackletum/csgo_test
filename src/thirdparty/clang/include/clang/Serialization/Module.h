@@ -1,4 +1,4 @@
-//===--- Module.h - Module description --------------------------*- C++ -*-===//
+﻿//===--- Module.h - Module description --------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

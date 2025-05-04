@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 
 // ps2b cascaded shadow mapping
 // can be used for OSX in absence of GL3.x

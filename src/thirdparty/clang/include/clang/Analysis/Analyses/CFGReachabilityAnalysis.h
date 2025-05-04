@@ -1,4 +1,4 @@
-//==- CFGReachabilityAnalysis.h - Basic reachability analysis ----*- C++ -*-==//
+﻿//==- CFGReachabilityAnalysis.h - Basic reachability analysis ----*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

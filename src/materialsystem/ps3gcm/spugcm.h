@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 // This is the central hub for controlling SPU activities relating to 
 // RSX/graphics processing/rendering
 //

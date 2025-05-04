@@ -1,4 +1,4 @@
-/* The PyMem_ family:  low-level memory allocation interfaces.
+﻿/* The PyMem_ family:  low-level memory allocation interfaces.
    See objimpl.h for the PyObject_ memory family.
 */
 

@@ -1,4 +1,4 @@
-//===--- BackendUtil.h - LLVM Backend Utilities -----------------*- C++ -*-===//
+﻿//===--- BackendUtil.h - LLVM Backend Utilities -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

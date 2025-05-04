@@ -1,4 +1,4 @@
-//===-- llvm/Analysis/DependenceAnalysis.h -------------------- -*- C++ -*-===//
+﻿//===-- llvm/Analysis/DependenceAnalysis.h -------------------- -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

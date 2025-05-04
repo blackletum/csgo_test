@@ -1,4 +1,4 @@
-//====== Copyright (C), Valve Corporation, All rights reserved. =======
+﻿//====== Copyright (C), Valve Corporation, All rights reserved. =======
 //
 // Purpose:  GC based lobby.  Matchmaking assigns players to a lobby
 //			

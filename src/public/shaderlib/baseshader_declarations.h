@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: These are declarations (functions, structs, enums) used in both 
 // SPU and PPU on PS/3, as well as potentially on different processor targets

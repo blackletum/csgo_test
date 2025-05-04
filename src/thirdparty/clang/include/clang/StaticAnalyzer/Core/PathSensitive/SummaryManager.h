@@ -1,4 +1,4 @@
-//== SummaryManager.h - Generic handling of function summaries --*- C++ -*--==//
+﻿//== SummaryManager.h - Generic handling of function summaries --*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

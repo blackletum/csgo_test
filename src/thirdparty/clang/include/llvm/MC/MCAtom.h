@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCAtom.h - MCAtom class ---------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCAtom.h - MCAtom class ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

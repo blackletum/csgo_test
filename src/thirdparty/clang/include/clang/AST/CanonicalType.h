@@ -1,4 +1,4 @@
-//===-- CanonicalType.h - C Language Family Type Representation -*- C++ -*-===//
+﻿//===-- CanonicalType.h - C Language Family Type Representation -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

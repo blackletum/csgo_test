@@ -1,4 +1,4 @@
-// ManifestDialog.cpp : implementation file
+﻿// ManifestDialog.cpp : implementation file
 //
 
 #include "stdafx.h"

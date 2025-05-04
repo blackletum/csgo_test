@@ -1,4 +1,4 @@
-//= FormatString.h - Analysis of printf/fprintf format strings --*- C++ -*-===//
+﻿//= FormatString.h - Analysis of printf/fprintf format strings --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- CodeGen/ValueTypes.h - Low-Level Target independ. types --*- C++ -*-===//
+﻿//===- CodeGen/ValueTypes.h - Low-Level Target independ. types --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

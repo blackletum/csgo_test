@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 //
 // Agglomerative clustering algorithm variant suitable for FE deformable body collision detection
 // Clusters given set of points, with given connectivity, bottom-up (agglomerative clustering, see http://en.wikipedia.org/wiki/Hierarchical_clustering).

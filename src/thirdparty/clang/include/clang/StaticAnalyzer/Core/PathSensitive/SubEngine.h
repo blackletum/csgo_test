@@ -1,4 +1,4 @@
-//== SubEngine.h - Interface of the subengine of CoreEngine --------*- C++ -*-//
+﻿//== SubEngine.h - Interface of the subengine of CoreEngine --------*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

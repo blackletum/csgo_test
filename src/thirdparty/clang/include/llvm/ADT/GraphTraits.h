@@ -1,4 +1,4 @@
-//===-- llvm/ADT/GraphTraits.h - Graph traits template ----------*- C++ -*-===//
+﻿//===-- llvm/ADT/GraphTraits.h - Graph traits template ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- CommentOptions.h - Options for parsing comments -----*- C++ -*-===//
+﻿//===--- CommentOptions.h - Options for parsing comments -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

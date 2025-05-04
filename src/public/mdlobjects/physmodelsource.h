@@ -1,4 +1,4 @@
-//===== Copyright � Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © Valve Corporation, All rights reserved. ======//
 //
 // This is a declaration of an abstraction of data used to generate collision mesh and potentially other physics data
 //

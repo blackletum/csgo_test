@@ -1,4 +1,4 @@
-//====== Copyright Valve Corporation, All rights reserved. =======
+﻿//====== Copyright Valve Corporation, All rights reserved. =======
 #ifndef GOTV_HTTP_STREAM_HDR
 #define GOTV_HTTP_STREAM_HDR
 

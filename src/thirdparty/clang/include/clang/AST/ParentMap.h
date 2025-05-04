@@ -1,4 +1,4 @@
-//===--- ParentMap.h - Mappings from Stmts to their Parents -----*- C++ -*-===//
+﻿//===--- ParentMap.h - Mappings from Stmts to their Parents -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

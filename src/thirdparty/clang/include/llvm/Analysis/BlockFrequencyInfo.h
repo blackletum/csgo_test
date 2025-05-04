@@ -1,4 +1,4 @@
-//========-------- BlockFrequencyInfo.h - Block Frequency Analysis -------========//
+﻿//========-------- BlockFrequencyInfo.h - Block Frequency Analysis -------========//
 //
 //                     The LLVM Compiler Infrastructure
 //

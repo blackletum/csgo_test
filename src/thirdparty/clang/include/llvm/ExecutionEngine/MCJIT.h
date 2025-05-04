@@ -1,4 +1,4 @@
-//===-- MCJIT.h - MC-Based Just-In-Time Execution Engine --------*- C++ -*-===//
+﻿//===-- MCJIT.h - MC-Based Just-In-Time Execution Engine --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

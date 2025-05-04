@@ -1,4 +1,4 @@
-//===--- DiagnosticRenderer.h - Diagnostic Pretty-Printing ------*- C++ -*-===//
+﻿//===--- DiagnosticRenderer.h - Diagnostic Pretty-Printing ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

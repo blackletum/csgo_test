@@ -1,4 +1,4 @@
-/*
+﻿/*
 	synth_ntom.h: ntom-resampling synth functions
 
 	This header is used multiple times to create different variants of this function.

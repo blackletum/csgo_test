@@ -1,4 +1,4 @@
-/**
+﻿/**
  * EntityUtil.h
  * Various utility functions
  */

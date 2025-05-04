@@ -1,4 +1,4 @@
-//===--- CFGStmtVisitor.h - Visitor for Stmts in a CFG ----------*- C++ -*-===//
+﻿//===--- CFGStmtVisitor.h - Visitor for Stmts in a CFG ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// chicken.h
+﻿// chicken.h
 // An interactive, shootable chicken
 
 #ifndef CHICKEN_H

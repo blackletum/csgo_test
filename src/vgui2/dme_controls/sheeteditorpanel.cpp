@@ -1,4 +1,4 @@
-//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
+﻿//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
 //
 // CSheetEditorPanel - Tool panel for editing sprite sheet information
 //

@@ -1,4 +1,4 @@
-/*===-- llvm-c/Linker.h - Module Linker C Interface -------------*- C++ -*-===*\
+﻿/*===-- llvm-c/Linker.h - Module Linker C Interface -------------*- C++ -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

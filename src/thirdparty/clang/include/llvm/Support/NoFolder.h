@@ -1,4 +1,4 @@
-//======-- llvm/Support/NoFolder.h - Constant folding helper -*- C++ -*-======//
+﻿//======-- llvm/Support/NoFolder.h - Constant folding helper -*- C++ -*-======//
 //
 //                     The LLVM Compiler Infrastructure
 //

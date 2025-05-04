@@ -1,4 +1,4 @@
-//===--- DelayedDiagnostic.h - Delayed declarator diagnostics ---*- C++ -*-===//
+﻿//===--- DelayedDiagnostic.h - Delayed declarator diagnostics ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

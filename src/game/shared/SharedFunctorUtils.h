@@ -1,4 +1,4 @@
-// SharedFunctorUtils.h
+﻿// SharedFunctorUtils.h
 // Useful functors for client and server
 // Author: Graham Smallwood, August 2006, Copyright 2006 Turtle Rock Studios, Inc.
 

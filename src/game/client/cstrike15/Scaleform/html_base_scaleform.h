@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2013, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2013, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Base class for every scaleform screen that need to display html
 //		    (using Chrome to display html in a texture)

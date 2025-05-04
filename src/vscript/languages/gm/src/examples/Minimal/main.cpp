@@ -1,4 +1,4 @@
-#if 0 // This is trully the smallest app
+﻿#if 0 // This is trully the smallest app
 
 #include "gmThread.h" // game monkey script
 

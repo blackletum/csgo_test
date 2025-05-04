@@ -1,4 +1,4 @@
-//===-- llvm/ADT/IntEqClasses.h - Equiv. Classes of Integers ----*- C++ -*-===//
+﻿//===-- llvm/ADT/IntEqClasses.h - Equiv. Classes of Integers ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

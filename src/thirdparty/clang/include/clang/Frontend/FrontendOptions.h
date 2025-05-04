@@ -1,4 +1,4 @@
-//===--- FrontendOptions.h --------------------------------------*- C++ -*-===//
+﻿//===--- FrontendOptions.h --------------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

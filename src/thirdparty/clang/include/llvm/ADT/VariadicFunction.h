@@ -1,4 +1,4 @@
-//===--- VariadicFunctions.h - Variadic Functions ---------------*- C++ -*-===//
+﻿//===--- VariadicFunctions.h - Variadic Functions ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- PPCallbacks.h - Callbacks for Preprocessor actions -----*- C++ -*-===//
+﻿//===--- PPCallbacks.h - Callbacks for Preprocessor actions -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

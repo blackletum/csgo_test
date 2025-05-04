@@ -1,4 +1,4 @@
-//===- TemplateDeduction.h - C++ template argument deduction ----*- C++ -*-===/
+﻿//===- TemplateDeduction.h - C++ template argument deduction ----*- C++ -*-===/
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- None.h - Simple null value for implicit construction ------*- C++ -*-=//
+﻿//===-- None.h - Simple null value for implicit construction ------*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

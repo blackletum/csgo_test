@@ -1,4 +1,4 @@
-#ifndef HK_MATH_VECTOR3_UTIL
+﻿#ifndef HK_MATH_VECTOR3_UTIL
 #define HK_MATH_VECTOR3_UTIL
 
 class hk_Vector3_Util

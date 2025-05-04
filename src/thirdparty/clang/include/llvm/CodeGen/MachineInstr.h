@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineInstr.h - MachineInstr class --------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineInstr.h - MachineInstr class --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

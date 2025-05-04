@@ -1,4 +1,4 @@
-//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: The VTF file format I/O class to help simplify access to VTF files
 //

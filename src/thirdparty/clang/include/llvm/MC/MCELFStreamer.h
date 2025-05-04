@@ -1,4 +1,4 @@
-//===- MCELFStreamer.h - MCStreamer ELF Object File Interface ---*- C++ -*-===//
+﻿//===- MCELFStreamer.h - MCStreamer ELF Object File Interface ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

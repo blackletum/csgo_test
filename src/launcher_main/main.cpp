@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A redirection tool that allows the DLLs to reside elsewhere.
 //

@@ -1,4 +1,4 @@
-// simple_bot.h
+﻿// simple_bot.h
 // A mininal example of a NextBotCombatCharacter (ie: non-player) bot
 // Michael Booth, February 2009
 

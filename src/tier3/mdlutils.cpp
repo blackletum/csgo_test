@@ -1,4 +1,4 @@
-//===== Copyright � 2005-2013, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright ¿½ 2005-2013, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Utility methods for mdl files
 //

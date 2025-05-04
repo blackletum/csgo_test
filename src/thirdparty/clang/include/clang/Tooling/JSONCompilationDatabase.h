@@ -1,4 +1,4 @@
-//===--- JSONCompilationDatabase.h - ----------------------------*- C++ -*-===//
+﻿//===--- JSONCompilationDatabase.h - ----------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

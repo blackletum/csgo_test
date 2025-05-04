@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2008, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Describes an asset: something that is compiled from sources, 
 // in potentially multiple steps, to a compiled resource

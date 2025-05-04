@@ -1,4 +1,4 @@
-#include "cs_gc_client.h"
+﻿#include "cs_gc_client.h"
 
 #include <gcsdk/msgbase.h>
 #include "gcsystemmsgs.pb.h"

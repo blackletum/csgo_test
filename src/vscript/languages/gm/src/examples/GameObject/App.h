@@ -1,4 +1,4 @@
-//
+﻿//
 // Example application
 //
 #include <Windows.h>

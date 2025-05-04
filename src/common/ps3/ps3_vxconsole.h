@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2007, Valve LLC, All rights reserved. ============
+﻿//========= Copyright © 1996-2007, Valve LLC, All rights reserved. ============
 //
 // Purpose: PS3 VXConsole Common. Used for public remote access items and types.
 //

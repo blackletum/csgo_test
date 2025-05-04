@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2005, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright ¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Model loading / unloading interface
 //

@@ -1,4 +1,4 @@
-//===- MCSectionCOFF.h - COFF Machine Code Sections -------------*- C++ -*-===//
+﻿//===- MCSectionCOFF.h - COFF Machine Code Sections -------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

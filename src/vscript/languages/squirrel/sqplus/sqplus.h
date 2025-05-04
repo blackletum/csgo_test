@@ -1,4 +1,4 @@
-// SqPlus.h
+﻿// SqPlus.h
 // Created by John Schultz 9/05/05, major update 10/05/05.
 // Template function call design from LuaPlusCD by Joshua C. Jensen, 
 // inspired by luabind which was inspired by boost::python.

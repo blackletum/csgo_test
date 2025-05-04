@@ -1,4 +1,4 @@
-//===- llvm/LinkAllPasses.h ------------ Reference All Passes ---*- C++ -*-===//
+﻿//===- llvm/LinkAllPasses.h ------------ Reference All Passes ---*- C++ -*-===//
 //
 //                      The LLVM Compiler Infrastructure
 //

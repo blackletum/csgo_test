@@ -1,4 +1,4 @@
-//===---- ObjectImage.h - Format independent executuable object image -----===//
+﻿//===---- ObjectImage.h - Format independent executuable object image -----===//
 //
 //		       The LLVM Compiler Infrastructure
 //

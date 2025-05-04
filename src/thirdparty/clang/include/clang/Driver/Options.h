@@ -1,4 +1,4 @@
-//===--- Options.h - Option info & table ------------------------*- C++ -*-===//
+﻿//===--- Options.h - Option info & table ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

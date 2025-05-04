@@ -1,4 +1,4 @@
-//===-- UnifyFunctionExitNodes.h - Ensure fn's have one return --*- C++ -*-===//
+﻿//===-- UnifyFunctionExitNodes.h - Ensure fn's have one return --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

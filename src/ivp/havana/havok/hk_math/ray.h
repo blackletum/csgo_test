@@ -1,4 +1,4 @@
-#ifndef HK_MATH_RAY_H
+﻿#ifndef HK_MATH_RAY_H
 #define HK_MATH_RAY_H
 
 #include <hk_math/vecmath.h>

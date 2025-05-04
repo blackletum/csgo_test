@@ -1,4 +1,4 @@
-//===--- Diagnostic.h - C Language Family Diagnostic Handling ---*- C++ -*-===//
+﻿//===--- Diagnostic.h - C Language Family Diagnostic Handling ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

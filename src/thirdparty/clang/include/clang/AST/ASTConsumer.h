@@ -1,4 +1,4 @@
-//===--- ASTConsumer.h - Abstract interface for reading ASTs ----*- C++ -*-===//
+﻿//===--- ASTConsumer.h - Abstract interface for reading ASTs ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

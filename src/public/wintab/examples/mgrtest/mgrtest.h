@@ -1,4 +1,4 @@
-#include <wintab.h>
+﻿#include <wintab.h>
 
 #define IDM_TEST	0
 #define IDM_EDIT	1

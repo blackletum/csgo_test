@@ -1,4 +1,4 @@
-#ifndef MINIMP3_H
+﻿#ifndef MINIMP3_H
 #define MINIMP3_H
 /*
     https://github.com/lieff/minimp3

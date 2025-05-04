@@ -1,4 +1,4 @@
-//===- llvm/ADT/SmallVector.h - 'Normally small' vectors --------*- C++ -*-===//
+﻿//===- llvm/ADT/SmallVector.h - 'Normally small' vectors --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

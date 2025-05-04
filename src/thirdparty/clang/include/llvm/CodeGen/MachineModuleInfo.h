@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineModuleInfo.h ------------------------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineModuleInfo.h ------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

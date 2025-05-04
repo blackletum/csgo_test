@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2010, Valve Corporation, All rights reserved. ======//
+ï»¿//===== Copyright Â© 1996-2010, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Utility class for discovering and caching path info on the PS3.
 //
@@ -129,7 +129,7 @@ int CPs3ContentPathInfo::Init( unsigned int uiFlagsMask )
 	//////////////////////////////////////////////////////////////////////////
 
 	// get the base to the content directory.
-	CellGameContentSize size; // For game content of a disc boot game, sizeKB and sysSizeKB take no meaning – please do not use them
+	CellGameContentSize size; // For game content of a disc boot game, sizeKB and sysSizeKB take no meaning â€“ please do not use them
 	memset(&size, 0, sizeof(CellGameContentSize));
 	char bootdir[CELL_GAME_DIRNAME_SIZE] = {0};
 

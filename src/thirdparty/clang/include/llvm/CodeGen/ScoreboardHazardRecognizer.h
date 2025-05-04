@@ -1,4 +1,4 @@
-//=- llvm/CodeGen/ScoreboardHazardRecognizer.h - Schedule Support -*- C++ -*-=//
+﻿//=- llvm/CodeGen/ScoreboardHazardRecognizer.h - Schedule Support -*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

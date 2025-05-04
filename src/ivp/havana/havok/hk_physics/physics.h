@@ -1,4 +1,4 @@
-#ifndef IVP_PHYSICS_PHYSICS_H
+﻿#ifndef IVP_PHYSICS_PHYSICS_H
 #define IVP_PHYSICS_PHYSICS_H
 
 #include <hk_base/base.h>

@@ -1,4 +1,4 @@
-//===- llvm/Analysis/ValueTracking.h - Walk computations --------*- C++ -*-===//
+﻿//===- llvm/Analysis/ValueTracking.h - Walk computations --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

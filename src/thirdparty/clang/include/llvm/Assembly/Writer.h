@@ -1,4 +1,4 @@
-//===-- llvm/Assembly/Writer.h - Printer for LLVM assembly files --*- C++ -*-=//
+﻿//===-- llvm/Assembly/Writer.h - Printer for LLVM assembly files --*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

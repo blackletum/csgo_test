@@ -1,4 +1,4 @@
-//===-- ObjCARC.h - ObjCARC Scalar Transformations --------------*- C++ -*-===//
+﻿//===-- ObjCARC.h - ObjCARC Scalar Transformations --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-// MapDiffDlg.cpp : implementation file
+﻿// MapDiffDlg.cpp : implementation file
 //
 #include "stdafx.h"
 #include "GlobalFunctions.h"

@@ -1,4 +1,4 @@
-#ifndef __FTCONFIG_H__MULTILIB
+﻿#ifndef __FTCONFIG_H__MULTILIB
 #define __FTCONFIG_H__MULTILIB
 
 #include <bits/wordsize.h>

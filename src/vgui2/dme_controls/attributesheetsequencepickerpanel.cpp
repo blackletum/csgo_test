@@ -1,4 +1,4 @@
-//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
+﻿//======= Copyright (c) 1996-2009, Valve Corporation, All rights reserved. ======
 //
 // CAttributeSheetSequencePickerPanel - Panel for editing int attributes that select a sprite sheet sequence
 //

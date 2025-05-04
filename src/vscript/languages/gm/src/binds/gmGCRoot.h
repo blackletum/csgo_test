@@ -1,4 +1,4 @@
-#ifndef GMGCROOT_H
+﻿#ifndef GMGCROOT_H
 #define GMGCROOT_H
 
 //

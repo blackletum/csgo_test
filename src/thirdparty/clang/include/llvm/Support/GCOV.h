@@ -1,4 +1,4 @@
-//===-- llvm/Support/GCOV.h - LLVM coverage tool ----------------*- C++ -*-===//
+﻿//===-- llvm/Support/GCOV.h - LLVM coverage tool ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

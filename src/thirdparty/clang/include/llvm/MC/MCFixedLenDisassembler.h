@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCFixedLenDisassembler.h - Decoder driver -------*- C++ -*-===//
+﻿//===-- llvm/MC/MCFixedLenDisassembler.h - Decoder driver -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

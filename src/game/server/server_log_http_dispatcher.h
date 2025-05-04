@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Forward server log lines to remote listeners. Holds all log lines
 // for this map, up to a maximum. 

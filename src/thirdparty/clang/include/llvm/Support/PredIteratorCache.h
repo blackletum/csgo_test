@@ -1,4 +1,4 @@
-//===- llvm/Support/PredIteratorCache.h - pred_iterator Cache ---*- C++ -*-===//
+﻿//===- llvm/Support/PredIteratorCache.h - pred_iterator Cache ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

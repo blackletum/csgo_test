@@ -1,4 +1,4 @@
-#include "basetypes.h"
+﻿#include "basetypes.h"
 #include "commonmacros.h"
 
 #if !defined( _X360 ) && defined( WIN32 )

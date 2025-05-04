@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKHUD_BUYMENU_H
+﻿#ifndef KISAKSTRIKE_RKHUD_BUYMENU_H
 #define KISAKSTRIKE_RKHUD_BUYMENU_H
 
 #include <rocketui/rocketui.h>

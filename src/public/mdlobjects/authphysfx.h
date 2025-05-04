@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
+﻿//========== Copyright (c) Valve Corporation. All Rights Reserved. ============
 #ifndef AUTHPHYSMODEL_HDR
 #define AUTHPHYSMODEL_HDR
 

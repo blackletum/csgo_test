@@ -1,4 +1,4 @@
-//===- llvm/Support/ValueHandle.h - Value Smart Pointer classes -*- C++ -*-===//
+﻿//===- llvm/Support/ValueHandle.h - Value Smart Pointer classes -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

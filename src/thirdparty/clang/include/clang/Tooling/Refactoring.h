@@ -1,4 +1,4 @@
-//===--- Refactoring.h - Framework for clang refactoring tools --*- C++ -*-===//
+﻿//===--- Refactoring.h - Framework for clang refactoring tools --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

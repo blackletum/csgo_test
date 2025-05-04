@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 // This is shared between SPU and PPU 
 
 #ifndef COMMON_PS3_VJOBUTILS_SHARED_HDR

@@ -1,4 +1,4 @@
-#include "platform.h"
+ï»¿#include "platform.h"
 #include "box_buoyancy.h"
 #include "mathlib/vector4d.h"
 #include "hardware_clock_fast.h"
@@ -391,7 +391,7 @@ fltx4 GetBoxBuoyancy3x4( const FourVectors &box_in )
 	boxB.x = PermYZZW( box.x );
 	boxB.y = PermYZZW( box.y );
 	boxB.z = PermYZZW( box.z );
-	FourVectors boxC; // "c" maps to ±c,b,a
+	FourVectors boxC; // "c" maps to Â±c,b,a
 	boxC.x = PermZYXW( box.x );
 	boxC.y = PermZYXW( box.y );
 	boxC.z = PermZYXW( box.z );
@@ -439,9 +439,9 @@ fltx4 GetBoxBuoyancy3x4( const FourVectors &box_in )
 	//fltx4 f4FullZ0_Cpos = boxCenterZ + boxC.z, f4FullZ0_Cneg = boxCenterZ - boxC.z;
 	
 	// 4/3 (3 x0 z0 + xA zA + xB zB) type of integral : take x0 z0 + (xA zA + xB zB) / 3
-	// consider that x0 = ± boxC.x and z0 = boxCenterZ ± boxC.z, we're left with
-	// ± boxCenter boxC.x + boxC.x boxC.z + (xA zA + xB zB) / 3
-	// Again, the only part that changes is (± boxCenterZ boxC.x)
+	// consider that x0 = Â± boxC.x and z0 = boxCenterZ Â± boxC.z, we're left with
+	// Â± boxCenter boxC.x + boxC.x boxC.z + (xA zA + xB zB) / 3
+	// Again, the only part that changes is (Â± boxCenterZ boxC.x)
 
 	fltx4 f4Full_X_common = boxC.x * boxC.z + Four_Thirds * ( boxA.x * boxA.z + boxB.x * boxB.z );
 	fltx4 f4Full_X_Cpos = Four_Fours * (boxCenterZ * boxC.x + f4Full_X_common); 
@@ -453,7 +453,7 @@ fltx4 GetBoxBuoyancy3x4( const FourVectors &box_in )
 	fltx4 f4Full_Y_Cpos = Four_Fours * ( boxCenterZ * boxC.y + f4Full_Y_common ) ;  
 	fltx4 f4Full_Y_Cneg = Four_Fours * ( f4Full_Y_common - boxCenterZ * boxC.y ) ;  
 
-	// z is different: 2/3 (3 z0^2 + zA^2 + zB^2) ;  z0 = boxCenterZ ± boxC.z, 
+	// z is different: 2/3 (3 z0^2 + zA^2 + zB^2) ;  z0 = boxCenterZ Â± boxC.z, 
 	// so we can just add the difference of 4 * boxCenterZ * boxC.z to get from Cneg to Cpos
 	fltx4 f4Full_Z_common = Four_TwoThirds * ( Sqr( boxA.z ) + Sqr( boxB.z ) );
 	fltx4 f4Full_Z_Cpos = MaddSIMD( Four_Twos, Sqr( boxCenterZ + boxC.z ), f4Full_Z_common );
@@ -491,8 +491,8 @@ fltx4 GetBoxBuoyancy3x4( const FourVectors &box_in )
 	// to find the fraction of right side of rectangle (the +b side) that has z=0
 	// this is different for +C and -C sides
 	//
-	//              (a+b) ± c + p	   a+b ± c + p
-	// computed as --------------  == ------------                // note: ± is typed by Alt + 0177
+	//              (a+b) Â± c + p	   a+b Â± c + p
+	// computed as --------------  == ------------                // note: Â± is typed by Alt + 0177
 	//			   (a+b)-(b-a)	       2 a
 	// 
 	// Warning: I take special care in cases of flat faces (z=const, when rcpAz is undefined)
@@ -523,7 +523,7 @@ fltx4 GetBoxBuoyancy3x4( const FourVectors &box_in )
 	fltx4 f4CenterRangeSqr_Cneg = f4CenterRange_Cneg * f4CenterRange_Cneg;
 
 
-	// to integrate the central piece, we need the center point (pos±(c-a*q)), q = ; and m=b-cut a
+	// to integrate the central piece, we need the center point (posÂ±(c-a*q)), q = ; and m=b-cut a
 	// because it cancels out lots of terms in the integral
 
 	FourVectors boxM = MsubSIMD( boxA, f4CutPart, boxB ); // m=b-ra, replacement for b in the integrals

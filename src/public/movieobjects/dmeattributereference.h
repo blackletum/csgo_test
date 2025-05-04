@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 // 
 // Purpose: Declaration of the CDmeAttributeReference class, a simple DmElement
 // used to store references to attributes within other DmElements.

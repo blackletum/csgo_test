@@ -1,4 +1,4 @@
-//========= Copyright � 2006, Electonic Arts(C) 2006 - All Rights Reserved ============//
+﻿//========= Copyright © 2006, Electonic Arts(C) 2006 - All Rights Reserved ============//
 
 #ifndef FILEGROUP_H
 #define FILEGROUP_H

@@ -1,4 +1,4 @@
-//===- llvm/ADT/SetVector.h - Set with insert order iteration ---*- C++ -*-===//
+﻿//===- llvm/ADT/SetVector.h - Set with insert order iteration ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

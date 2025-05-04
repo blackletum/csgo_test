@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/MachineCodeEmitter.h - Code emission -------*- C++ -*-===//
+﻿//===-- llvm/CodeGen/MachineCodeEmitter.h - Code emission -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

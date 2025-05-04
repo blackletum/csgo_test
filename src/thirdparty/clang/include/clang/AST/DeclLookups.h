@@ -1,4 +1,4 @@
-//===-- DeclLookups.h - Low-level interface to all names in a DC-*- C++ -*-===//
+﻿//===-- DeclLookups.h - Low-level interface to all names in a DC-*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

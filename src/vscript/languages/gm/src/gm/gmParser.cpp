@@ -1,4 +1,4 @@
-
+﻿
 /*  A Bison parser, made from gmparser.y with Bison version GNU Bison version 1.24
   */
 

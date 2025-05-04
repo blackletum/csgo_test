@@ -1,4 +1,4 @@
-// seed.cpp - written and placed in the public domain by Wei Dai
+﻿// seed.cpp - written and placed in the public domain by Wei Dai
 
 #include "pch.h"
 #include "seed.h"

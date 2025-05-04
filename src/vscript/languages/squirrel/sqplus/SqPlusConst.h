@@ -1,4 +1,4 @@
-// SqPlusConst.h
+﻿// SqPlusConst.h
 // SqPlus constant type and constant member function support created by Simon Michelmore.
 // Modular integration 11/14/05 jcs.
 

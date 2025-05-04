@@ -1,4 +1,4 @@
-//===-- IntrinsicLowering.h - Intrinsic Function Lowering -------*- C++ -*-===//
+﻿//===-- IntrinsicLowering.h - Intrinsic Function Lowering -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

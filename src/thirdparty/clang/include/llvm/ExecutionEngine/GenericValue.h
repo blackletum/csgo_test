@@ -1,4 +1,4 @@
-//===-- GenericValue.h - Represent any type of LLVM value -------*- C++ -*-===//
+﻿//===-- GenericValue.h - Represent any type of LLVM value -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

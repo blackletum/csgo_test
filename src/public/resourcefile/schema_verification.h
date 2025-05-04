@@ -1,4 +1,4 @@
-#ifndef SCHEMA_VERIFICATION_H_
+﻿#ifndef SCHEMA_VERIFICATION_H_
 #define SCHEMA_VERIFICATION_H_
 /*
 inline int SchemaVerificationMemberSize( const char *pStructName, const char *pMemberName )

@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_HUD_CHAT_H
+﻿#ifndef KISAKSTRIKE_HUD_CHAT_H
 #define KISAKSTRIKE_HUD_CHAT_H
 
 #include "hudelement.h"

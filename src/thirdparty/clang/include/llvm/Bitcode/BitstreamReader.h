@@ -1,4 +1,4 @@
-//===- BitstreamReader.h - Low-level bitstream reader interface -*- C++ -*-===//
+﻿//===- BitstreamReader.h - Low-level bitstream reader interface -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

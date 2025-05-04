@@ -1,4 +1,4 @@
-//
+﻿//
 //                 mxToolKit (c) 1999 by Mete Ciragan
 //
 // file:           mxRadioButton.h

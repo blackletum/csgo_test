@@ -1,4 +1,4 @@
-//===--- OperatorPrecedence.h - Operator precedence levels ------*- C++ -*-===//
+﻿//===--- OperatorPrecedence.h - Operator precedence levels ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

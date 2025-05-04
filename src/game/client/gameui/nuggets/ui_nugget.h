@@ -1,4 +1,4 @@
-//=========== (C) Copyright Valve, L.L.C. All rights reserved. ===========
+﻿//=========== (C) Copyright Valve, L.L.C. All rights reserved. ===========
 
 #ifndef UI_NUGGET_H
 #define UI_NUGGET_H

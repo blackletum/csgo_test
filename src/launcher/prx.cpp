@@ -1,4 +1,4 @@
-#include "platform.h"
+﻿#include "platform.h"
 #include "basetypes.h"
 #include "dbg.h"
 #include "logging.h"

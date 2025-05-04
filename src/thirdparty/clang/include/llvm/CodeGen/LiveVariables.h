@@ -1,4 +1,4 @@
-//===-- llvm/CodeGen/LiveVariables.h - Live Variable Analysis ---*- C++ -*-===//
+﻿//===-- llvm/CodeGen/LiveVariables.h - Live Variable Analysis ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

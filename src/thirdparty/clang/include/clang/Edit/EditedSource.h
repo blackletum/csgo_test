@@ -1,4 +1,4 @@
-//===----- EditedSource.h - Collection of source edits ----------*- C++ -*-===//
+﻿//===----- EditedSource.h - Collection of source edits ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetOptions.h - Target Options ------------*- C++ -*-===//
+﻿//===-- llvm/Target/TargetOptions.h - Target Options ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- llvm/ADT/FoldingSet.h - Uniquing Hash Set ---------------*- C++ -*-===//
+﻿//===-- llvm/ADT/FoldingSet.h - Uniquing Hash Set ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

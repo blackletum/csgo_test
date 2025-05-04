@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCModule.h - MCModule class ---------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCModule.h - MCModule class ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

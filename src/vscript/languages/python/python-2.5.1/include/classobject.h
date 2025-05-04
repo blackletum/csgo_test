@@ -1,4 +1,4 @@
-
+﻿
 /* Class object interface */
 
 /* Revealing some structures (not for general use) */

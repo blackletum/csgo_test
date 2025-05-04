@@ -1,4 +1,4 @@
-/*===-- llvm-c/BitWriter.h - BitWriter Library C Interface ------*- C++ -*-===*\
+﻿/*===-- llvm-c/BitWriter.h - BitWriter Library C Interface ------*- C++ -*-===*\
 |*                                                                            *|
 |*                     The LLVM Compiler Infrastructure                       *|
 |*                                                                            *|

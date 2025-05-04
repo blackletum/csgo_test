@@ -1,4 +1,4 @@
-//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
+﻿//========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 //
 // Purpose: A header describing use of the delegate system. It's hiding
 // the highly complex implementation details of the delegate system

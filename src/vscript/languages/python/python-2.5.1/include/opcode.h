@@ -1,4 +1,4 @@
-#ifndef Py_OPCODE_H
+﻿#ifndef Py_OPCODE_H
 #define Py_OPCODE_H
 #ifdef __cplusplus
 extern "C" {

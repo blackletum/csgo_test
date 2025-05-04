@@ -1,4 +1,4 @@
-//=- AnalysisBasedWarnings.h - Sema warnings based on libAnalysis -*- C++ -*-=//
+﻿//=- AnalysisBasedWarnings.h - Sema warnings based on libAnalysis -*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

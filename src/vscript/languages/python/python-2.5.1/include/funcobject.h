@@ -1,4 +1,4 @@
-
+﻿
 /* Function object interface */
 
 #ifndef Py_FUNCOBJECT_H

@@ -1,4 +1,4 @@
-//========= Copyright (c) 2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright (c) 2009, Valve Corporation, All rights reserved. ============//
 #include "tier0/platform.h"
 #include "tier1/miniprofiler_hash.h"
 

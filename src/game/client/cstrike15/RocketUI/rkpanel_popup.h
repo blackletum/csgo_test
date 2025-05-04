@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKPANEL_POPUP_H
+﻿#ifndef KISAKSTRIKE_RKPANEL_POPUP_H
 #define KISAKSTRIKE_RKPANEL_POPUP_H
 
 #include <rocketui/rocketui.h>

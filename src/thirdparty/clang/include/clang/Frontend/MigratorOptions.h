@@ -1,4 +1,4 @@
-//===--- MigratorOptions.h - MigratorOptions Options ------------*- C++ -*-===//
+﻿//===--- MigratorOptions.h - MigratorOptions Options ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 // 
 // Purpose: Declaration of the CDmeConnectionOperator class, a CDmeOperator 
 // which copies one attribute value to another, providing similar functionality

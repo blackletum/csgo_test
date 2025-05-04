@@ -1,4 +1,4 @@
-//====== Copyright 1996-2015, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright 1996-2015, Valve Corporation, All rights reserved. =======
 //
 // Purpose: Internal private Steamworks API declarations and definitions
 //

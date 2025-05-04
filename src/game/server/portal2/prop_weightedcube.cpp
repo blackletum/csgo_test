@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2009, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: First-class cube entity so we can query by type and generally make inferences
 //			that are harder to do without an entity of that type.

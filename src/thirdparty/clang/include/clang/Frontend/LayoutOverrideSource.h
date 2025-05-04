@@ -1,4 +1,4 @@
-//===--- LayoutOverrideSource.h --Override Record Layouts -----------------===//
+﻿//===--- LayoutOverrideSource.h --Override Record Layouts -----------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

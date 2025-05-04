@@ -1,4 +1,4 @@
-//===--- Ownership.h - Parser ownership helpers -----------------*- C++ -*-===//
+﻿//===--- Ownership.h - Parser ownership helpers -----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

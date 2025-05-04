@@ -1,4 +1,4 @@
-// Inferno.h
+﻿// Inferno.h
 // An Inferno
 // Author: Michael S. Booth, February 2005
 // Copyright (c) 2005 Turtle Rock Studios, Inc. - All Rights Reserved

@@ -1,4 +1,4 @@
-//===- CallGraph.h - Build a Module's call graph ----------------*- C++ -*-===//
+﻿//===- CallGraph.h - Build a Module's call graph ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

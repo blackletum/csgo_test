@@ -1,4 +1,4 @@
-//===---------------- lib/CodeGen/CalcSpillWeights.h ------------*- C++ -*-===//
+﻿//===---------------- lib/CodeGen/CalcSpillWeights.h ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

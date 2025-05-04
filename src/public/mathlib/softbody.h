@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 //
 // A port of CRnSoftbody
 // Note: mathlib is tentative place for this code. We will probably move it to a separate lib or dll or vphysics.dll

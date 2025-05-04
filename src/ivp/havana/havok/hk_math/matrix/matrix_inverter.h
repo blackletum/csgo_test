@@ -1,4 +1,4 @@
-#ifndef HK_MATH_MATRIX_INVERTER
+﻿#ifndef HK_MATH_MATRIX_INVERTER
 #define HK_MATH_MATRIX_INVERTER
 
 #include <hk_math/vector_fpu/vector_fpu.h>

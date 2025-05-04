@@ -1,4 +1,4 @@
-//===--- CheckerRegistry.h - Maintains all available checkers ---*- C++ -*-===//
+﻿//===--- CheckerRegistry.h - Maintains all available checkers ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

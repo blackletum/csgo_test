@@ -1,4 +1,4 @@
-//===- llvm/TableGen/Error.h - tblgen error handling helpers ----*- C++ -*-===//
+﻿//===- llvm/TableGen/Error.h - tblgen error handling helpers ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

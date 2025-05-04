@@ -1,4 +1,4 @@
-//===-- llvm/Support/MathExtras.h - Useful math functions -------*- C++ -*-===//
+﻿//===-- llvm/Support/MathExtras.h - Useful math functions -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

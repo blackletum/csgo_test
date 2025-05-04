@@ -1,4 +1,4 @@
-//========= Copyright Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright Valve Corporation, All rights reserved. ============//
 #include "HapticControlBox.h"
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/Panel.h>

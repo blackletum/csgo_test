@@ -1,4 +1,4 @@
-//== Store.h - Interface for maps from Locations to Values ------*- C++ -*--==//
+﻿//== Store.h - Interface for maps from Locations to Values ------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

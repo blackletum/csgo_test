@@ -1,4 +1,4 @@
-#include "sqplus.h"
+﻿#include "sqplus.h"
 
 //#include "SquirrelObject.h"
 //#include "SquirrelVM.h"

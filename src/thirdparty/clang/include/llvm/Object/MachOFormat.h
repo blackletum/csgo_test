@@ -1,4 +1,4 @@
-//===- MachOFormat.h - Mach-O Format Structures And Constants ---*- C++ -*-===//
+﻿//===- MachOFormat.h - Mach-O Format Structures And Constants ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

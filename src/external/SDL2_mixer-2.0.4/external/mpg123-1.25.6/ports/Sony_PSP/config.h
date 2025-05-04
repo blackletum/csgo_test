@@ -1,4 +1,4 @@
-/* src/config.h.  Generated from config.h.in by configure.  */
+﻿/* src/config.h.  Generated from config.h.in by configure.  */
 /* src/config.h.in.  Generated from configure.ac by autoheader.  */
 
 /* Define if your architecture wants/needs/can use attribute_align_arg and

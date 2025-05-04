@@ -1,4 +1,4 @@
-// NextBotGroundLocomotion.h
+﻿// NextBotGroundLocomotion.h
 // Basic ground-based movement for NextBotCombatCharacters
 // Author: Michael Booth, February 2009
 // Note: This is a refactoring of ZombieBotLocomotion from L4D

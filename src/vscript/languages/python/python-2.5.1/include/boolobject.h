@@ -1,4 +1,4 @@
-/* Boolean object interface */
+﻿/* Boolean object interface */
 
 #ifndef Py_BOOLOBJECT_H
 #define Py_BOOLOBJECT_H

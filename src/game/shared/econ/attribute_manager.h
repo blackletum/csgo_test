@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2003, Valve LLC, All rights reserved. ============
+﻿//========= Copyright © 1996-2003, Valve LLC, All rights reserved. ============
 //
 // Purpose: Attributable entities contain one of these, which handles game specific handling:
 //				- Save / Restore

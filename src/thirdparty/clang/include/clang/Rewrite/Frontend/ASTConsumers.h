@@ -1,4 +1,4 @@
-//===--- ASTConsumers.h - ASTConsumer implementations -----------*- C++ -*-===//
+﻿//===--- ASTConsumers.h - ASTConsumer implementations -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

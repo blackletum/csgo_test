@@ -1,4 +1,4 @@
-//===--- ASTImporter.h - Importing ASTs from other Contexts -----*- C++ -*-===//
+﻿//===--- ASTImporter.h - Importing ASTs from other Contexts -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- LibCallAliasAnalysis.h - Implement AliasAnalysis for libcalls ------===//
+﻿//===- LibCallAliasAnalysis.h - Implement AliasAnalysis for libcalls ------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

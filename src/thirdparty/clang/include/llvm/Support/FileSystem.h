@@ -1,4 +1,4 @@
-//===- llvm/Support/FileSystem.h - File System OS Concept -------*- C++ -*-===//
+﻿//===- llvm/Support/FileSystem.h - File System OS Concept -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

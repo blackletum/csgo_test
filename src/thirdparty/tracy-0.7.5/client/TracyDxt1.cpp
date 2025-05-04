@@ -1,4 +1,4 @@
-#include "TracyDxt1.hpp"
+﻿#include "TracyDxt1.hpp"
 #include "../common/TracyForceInline.hpp"
 
 #include <assert.h>

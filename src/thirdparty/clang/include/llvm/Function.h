@@ -1,4 +1,4 @@
-//===-- llvm/Function.h - Class to represent a single function --*- C++ -*-===//
+﻿//===-- llvm/Function.h - Class to represent a single function --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

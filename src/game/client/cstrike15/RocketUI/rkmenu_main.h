@@ -1,4 +1,4 @@
-#ifndef KISAKSTRIKE_RKMENU_MAIN_H
+﻿#ifndef KISAKSTRIKE_RKMENU_MAIN_H
 #define KISAKSTRIKE_RKMENU_MAIN_H
 
 #include <rocketui/rocketui.h>

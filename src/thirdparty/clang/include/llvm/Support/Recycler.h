@@ -1,4 +1,4 @@
-//==- llvm/Support/Recycler.h - Recycling Allocator --------------*- C++ -*-==//
+﻿//==- llvm/Support/Recycler.h - Recycling Allocator --------------*- C++ -*-==//
 //
 //                     The LLVM Compiler Infrastructure
 //

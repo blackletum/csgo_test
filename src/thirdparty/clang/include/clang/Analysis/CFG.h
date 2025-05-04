@@ -1,4 +1,4 @@
-//===--- CFG.h - Classes for representing and building CFGs------*- C++ -*-===//
+﻿//===--- CFG.h - Classes for representing and building CFGs------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

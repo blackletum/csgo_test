@@ -1,4 +1,4 @@
-//========= Public Domain Code ================================================
+﻿//========= Public Domain Code ================================================
 //
 // Purpose: Header file for the C++ ICE encryption class.
 //			Taken from public domain code, as written by Matthew Kwan - July 1996

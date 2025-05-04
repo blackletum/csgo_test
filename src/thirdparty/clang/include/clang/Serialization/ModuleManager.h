@@ -1,4 +1,4 @@
-//===--- ModuleManager.cpp - Module Manager ---------------------*- C++ -*-===//
+﻿//===--- ModuleManager.cpp - Module Manager ---------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

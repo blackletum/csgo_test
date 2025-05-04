@@ -1,4 +1,4 @@
-//=--- CommonBugCategories.h - Provides common issue categories -*- C++ -*-===//
+﻿//=--- CommonBugCategories.h - Provides common issue categories -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

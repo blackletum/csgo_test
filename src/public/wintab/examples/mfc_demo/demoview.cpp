@@ -1,4 +1,4 @@
-// MFC_DEMOView.cpp : implementation of the CMFC_DEMOView class
+﻿// MFC_DEMOView.cpp : implementation of the CMFC_DEMOView class
 //
 
 #include "stdafx.h"

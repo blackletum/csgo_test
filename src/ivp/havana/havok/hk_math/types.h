@@ -1,4 +1,4 @@
-#ifndef HK_MATH_TYPES_H
+﻿#ifndef HK_MATH_TYPES_H
 #define HK_MATH_TYPES_H
 
 typedef float hk_incrlu_real;

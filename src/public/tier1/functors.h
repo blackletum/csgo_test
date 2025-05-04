@@ -1,4 +1,4 @@
-//========== Copyright © 2006, Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © 2006, Valve Corporation, All rights reserved. ========
 //
 // Purpose: Implements a generic infrastucture for functors combining
 //			a number of techniques to provide transparent parameter type

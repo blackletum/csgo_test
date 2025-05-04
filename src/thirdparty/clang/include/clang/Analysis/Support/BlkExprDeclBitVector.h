@@ -1,4 +1,4 @@
-// BlkExprDeclBitVector.h - Dataflow types for Bitvector Analysis --*- C++ --*--
+﻿// BlkExprDeclBitVector.h - Dataflow types for Bitvector Analysis --*- C++ --*--
 //
 //                     The LLVM Compiler Infrastructure
 //

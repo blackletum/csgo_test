@@ -1,4 +1,4 @@
-//== FunctionSummary.h - Stores summaries of functions. ------------*- C++ -*-//
+﻿//== FunctionSummary.h - Stores summaries of functions. ------------*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

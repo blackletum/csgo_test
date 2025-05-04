@@ -1,4 +1,4 @@
-//========== Copyright � Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © Valve Corporation, All rights reserved. ========
 #ifndef JOB_VJOBS_ROOT_HDR
 #define JOB_VJOBS_ROOT_HDR
 

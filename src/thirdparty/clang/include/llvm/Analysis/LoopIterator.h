@@ -1,4 +1,4 @@
-//===--------- LoopIterator.h - Iterate over loop blocks --------*- C++ -*-===//
+﻿//===--------- LoopIterator.h - Iterate over loop blocks --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

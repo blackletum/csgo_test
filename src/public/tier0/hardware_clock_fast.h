@@ -1,4 +1,4 @@
-//========= Copyright c Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright c Valve Corporation, All rights reserved. ============//
 #ifndef TIER0_HARDWARE_TIMER
 #define TIER0_HARDWARE_TIMER
 

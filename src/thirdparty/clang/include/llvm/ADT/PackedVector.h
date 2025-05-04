@@ -1,4 +1,4 @@
-//===- llvm/ADT/PackedVector.h - Packed values vector -----------*- C++ -*-===//
+﻿//===- llvm/ADT/PackedVector.h - Packed values vector -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

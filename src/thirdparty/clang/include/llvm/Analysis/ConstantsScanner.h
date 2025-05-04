@@ -1,4 +1,4 @@
-//==- llvm/Analysis/ConstantsScanner.h - Iterate over constants -*- C++ -*-===//
+﻿//==- llvm/Analysis/ConstantsScanner.h - Iterate over constants -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

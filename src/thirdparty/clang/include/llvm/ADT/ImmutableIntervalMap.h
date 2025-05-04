@@ -1,4 +1,4 @@
-//===--- ImmutableIntervalMap.h - Immutable (functional) map  ---*- C++ -*-===//
+﻿//===--- ImmutableIntervalMap.h - Immutable (functional) map  ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- llvm/ADT/PointerUnion.h - Discriminated Union of 2 Ptrs --*- C++ -*-===//
+﻿//===- llvm/ADT/PointerUnion.h - Discriminated Union of 2 Ptrs --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

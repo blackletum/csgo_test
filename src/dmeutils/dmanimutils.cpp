@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2009, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2009, Valve Corporation, All rights reserved. =======
 //
 // Implementation of CDmAnimUtils, a set of animation related utilities 
 // which work on DmeDag and other DmElement derived objects.

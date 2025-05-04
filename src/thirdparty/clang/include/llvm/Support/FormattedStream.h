@@ -1,4 +1,4 @@
-//===-- llvm/Support/FormattedStream.h - Formatted streams ------*- C++ -*-===//
+﻿//===-- llvm/Support/FormattedStream.h - Formatted streams ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- llvm/ADT/UniqueVector.h ---------------------------------*- C++ -*-===//
+﻿//===-- llvm/ADT/UniqueVector.h ---------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

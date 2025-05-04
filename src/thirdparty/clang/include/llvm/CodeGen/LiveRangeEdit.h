@@ -1,4 +1,4 @@
-//===---- LiveRangeEdit.h - Basic tools for split and spill -----*- C++ -*-===//
+﻿//===---- LiveRangeEdit.h - Basic tools for split and spill -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

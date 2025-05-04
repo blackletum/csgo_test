@@ -1,4 +1,4 @@
-// This is part of squirrelobject.h that removes circular dependency between sqplus.h and squirrelobject.h: it depends on both
+﻿// This is part of squirrelobject.h that removes circular dependency between sqplus.h and squirrelobject.h: it depends on both
 
 #ifndef _SQUIRREL_OBJECT_IMPL_H_
 #define _SQUIRREL_OBJECT_IMPL_H_

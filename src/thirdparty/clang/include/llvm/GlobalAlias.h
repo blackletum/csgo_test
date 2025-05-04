@@ -1,4 +1,4 @@
-//===-------- llvm/GlobalAlias.h - GlobalAlias class ------------*- C++ -*-===//
+﻿//===-------- llvm/GlobalAlias.h - GlobalAlias class ------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//========= Copyright � Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © Valve Corporation, All rights reserved. ============//
 #include "snd_ps3_mp3dec.h"
 #include "vjobs/root.h"
 #include "filesystem_engine.h"

@@ -1,4 +1,4 @@
-//===== Copyright � 1996-2006, Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright © 1996-2006, Valve Corporation, All rights reserved. ======//
 //
 //	MUST BE THE FIRST MODULE IN THE LINK PROCESS TO ACHIEVE @1
 //

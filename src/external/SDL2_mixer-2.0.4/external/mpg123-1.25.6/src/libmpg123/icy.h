@@ -1,4 +1,4 @@
-/*
+﻿/*
 	icy: support for SHOUTcast ICY meta info, an attempt to keep it organized
 
 	copyright 2006-7 by the mpg123 project - free software under the terms of the LGPL 2.1

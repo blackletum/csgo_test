@@ -1,4 +1,4 @@
-//===--- GlobalModuleIndex.h - Global Module Index --------------*- C++ -*-===//
+﻿//===--- GlobalModuleIndex.h - Global Module Index --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

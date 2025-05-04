@@ -1,4 +1,4 @@
- //===== Copyright Âc 1996-2008, Valve Corporation, All rights reserved. ======//
+ï»¿ //===== Copyright c 1996-2008, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: static_prop - don't move, don't animate, don't do anything.
 //			physics_prop - move, take damage, but don't animate

@@ -1,4 +1,4 @@
-#ifndef CRYPTOPP_EAX_H
+﻿#ifndef CRYPTOPP_EAX_H
 #define CRYPTOPP_EAX_H
 
 #include "authenc.h"

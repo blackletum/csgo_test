@@ -1,4 +1,4 @@
-//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Exposes client-server neutral interfaces implemented in both places
 //

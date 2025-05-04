@@ -1,4 +1,4 @@
-//===-- llvm/ADT/SetOperations.h - Generic Set Operations -------*- C++ -*-===//
+﻿//===-- llvm/ADT/SetOperations.h - Generic Set Operations -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

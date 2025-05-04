@@ -1,4 +1,4 @@
-//====== Copyright � 1996-2008, Valve Corporation, All rights reserved. =======
+﻿//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Purpose:  Declaration of the constraint operator classes. The constraint 
 // operators control the position and / or orientation of a specified slave dag

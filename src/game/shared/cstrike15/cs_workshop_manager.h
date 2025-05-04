@@ -1,4 +1,4 @@
-//====== Copyright  Valve Corporation, All rights reserved. =================
+﻿//====== Copyright  Valve Corporation, All rights reserved. =================
 //
 // Requests subscribed maps from the workshop, holds a list of them along with metadata.
 // NOTE: This could probably all just live in whatever UI element lets the user see/edit

@@ -1,4 +1,4 @@
-#ifndef HK_MATH_QUATERNION_UTIL
+﻿#ifndef HK_MATH_QUATERNION_UTIL
 #define HK_MATH_QUATERNION_UTIL
 
 class hk_Quaternion_Util

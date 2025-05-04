@@ -1,4 +1,4 @@
-/* Set object interface */
+﻿/* Set object interface */
 
 #ifndef Py_SETOBJECT_H
 #define Py_SETOBJECT_H

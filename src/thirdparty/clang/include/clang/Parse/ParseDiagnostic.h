@@ -1,4 +1,4 @@
-//===--- DiagnosticParse.h - Diagnostics for libparse -----------*- C++ -*-===//
+﻿//===--- DiagnosticParse.h - Diagnostics for libparse -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

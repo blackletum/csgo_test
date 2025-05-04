@@ -1,4 +1,4 @@
-//===-- llvm/Target/TargetFrameLowering.h ---------------------------*- C++ -*-===//
+﻿//===-- llvm/Target/TargetFrameLowering.h ---------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

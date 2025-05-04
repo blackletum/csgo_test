@@ -1,4 +1,4 @@
-//===--- DeclGroup.h - Classes for representing groups of Decls -*- C++ -*-===//
+﻿//===--- DeclGroup.h - Classes for representing groups of Decls -*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

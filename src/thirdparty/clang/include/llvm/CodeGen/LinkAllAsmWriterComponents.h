@@ -1,4 +1,4 @@
-//===- llvm/Codegen/LinkAllAsmWriterComponents.h ----------------*- C++ -*-===//
+﻿//===- llvm/Codegen/LinkAllAsmWriterComponents.h ----------------*- C++ -*-===//
 //
 //                      The LLVM Compiler Infrastructure
 //

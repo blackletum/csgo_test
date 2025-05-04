@@ -1,4 +1,4 @@
-//===--- ObjCMethodList.h - A singly linked list of methods -----*- C++ -*-===//
+﻿//===--- ObjCMethodList.h - A singly linked list of methods -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

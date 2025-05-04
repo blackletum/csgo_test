@@ -1,4 +1,4 @@
-//===-- llvm/MC/MCAsmInfo.h - Asm info --------------------------*- C++ -*-===//
+﻿//===-- llvm/MC/MCAsmInfo.h - Asm info --------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

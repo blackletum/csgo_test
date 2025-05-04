@@ -1,4 +1,4 @@
-//
+﻿//
 // - This is the fog header to include for pixel shaders if the shader doesn't support pixel-shader-blended vertex fog.
 //
 

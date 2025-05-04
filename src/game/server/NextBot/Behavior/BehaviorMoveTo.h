@@ -1,4 +1,4 @@
-// BehaviorMoveTo.h
+﻿// BehaviorMoveTo.h
 // Move to a potentially far away position
 // Author: Michael Booth, June 2007
 // Copyright (c) 2007 Turtle Rock Studios, Inc. - All Rights Reserved

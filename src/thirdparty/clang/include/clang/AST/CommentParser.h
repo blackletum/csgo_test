@@ -1,4 +1,4 @@
-//===--- CommentParser.h - Doxygen comment parser ---------------*- C++ -*-===//
+﻿//===--- CommentParser.h - Doxygen comment parser ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

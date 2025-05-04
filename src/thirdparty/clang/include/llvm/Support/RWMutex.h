@@ -1,4 +1,4 @@
-//===- RWMutex.h - Reader/Writer Mutual Exclusion Lock ----------*- C++ -*-===//
+﻿//===- RWMutex.h - Reader/Writer Mutual Exclusion Lock ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===- llvm/ADT/ValueMap.h - Safe map from Values to data -------*- C++ -*-===//
+﻿//===- llvm/ADT/ValueMap.h - Safe map from Values to data -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

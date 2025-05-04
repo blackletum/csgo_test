@@ -1,4 +1,4 @@
-//===- SparsePropagation.h - Sparse Conditional Property Propagation ------===//
+﻿//===- SparsePropagation.h - Sparse Conditional Property Propagation ------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

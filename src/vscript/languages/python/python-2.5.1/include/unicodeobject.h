@@ -1,4 +1,4 @@
-#ifndef Py_UNICODEOBJECT_H
+﻿#ifndef Py_UNICODEOBJECT_H
 #define Py_UNICODEOBJECT_H
 
 /*

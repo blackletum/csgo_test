@@ -1,4 +1,4 @@
-//===--- PreprocessingRecord.h - Record of Preprocessing --------*- C++ -*-===//
+﻿//===--- PreprocessingRecord.h - Record of Preprocessing --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

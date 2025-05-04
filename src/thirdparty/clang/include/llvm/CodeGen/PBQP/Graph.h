@@ -1,4 +1,4 @@
-//===-------------------- Graph.h - PBQP Graph ------------------*- C++ -*-===//
+﻿//===-------------------- Graph.h - PBQP Graph ------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

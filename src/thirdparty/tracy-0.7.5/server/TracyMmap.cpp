@@ -1,4 +1,4 @@
-#include "TracyMmap.hpp"
+﻿#include "TracyMmap.hpp"
 
 #if defined _MSC_VER || defined __MINGW32__ || defined __CYGWIN__
 #  include <io.h>

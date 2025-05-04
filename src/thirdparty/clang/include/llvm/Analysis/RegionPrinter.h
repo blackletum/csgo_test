@@ -1,4 +1,4 @@
-//===-- RegionPrinter.h - Region printer external interface -----*- C++ -*-===//
+﻿//===-- RegionPrinter.h - Region printer external interface -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

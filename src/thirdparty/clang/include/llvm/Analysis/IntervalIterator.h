@@ -1,4 +1,4 @@
-//===- IntervalIterator.h - Interval Iterator Declaration -------*- C++ -*-===//
+﻿//===- IntervalIterator.h - Interval Iterator Declaration -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

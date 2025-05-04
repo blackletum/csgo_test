@@ -1,4 +1,4 @@
-#ifndef SOURCE_APP_INFO_H
+﻿#ifndef SOURCE_APP_INFO_H
 #define SOURCE_APP_INFO_H
 #ifdef _WIN32
 #pragma once

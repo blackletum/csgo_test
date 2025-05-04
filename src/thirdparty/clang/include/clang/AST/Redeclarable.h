@@ -1,4 +1,4 @@
-//===-- Redeclarable.h - Base for Decls that can be redeclared -*- C++ -*-====//
+﻿//===-- Redeclarable.h - Base for Decls that can be redeclared -*- C++ -*-====//
 //
 //                     The LLVM Compiler Infrastructure
 //

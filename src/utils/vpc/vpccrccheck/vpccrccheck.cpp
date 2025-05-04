@@ -1,4 +1,4 @@
-
+﻿
 #include "tier1/checksum_crc.h"
 #include "crccheck_shared.h"
 #include <stdio.h>

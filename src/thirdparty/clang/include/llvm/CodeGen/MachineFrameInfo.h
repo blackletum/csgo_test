@@ -1,4 +1,4 @@
-//===-- CodeGen/MachineFrameInfo.h - Abstract Stack Frame Rep. --*- C++ -*-===//
+﻿//===-- CodeGen/MachineFrameInfo.h - Abstract Stack Frame Rep. --*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

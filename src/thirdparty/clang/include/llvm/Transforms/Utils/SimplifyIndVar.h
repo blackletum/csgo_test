@@ -1,4 +1,4 @@
-//===-- llvm/Transforms/Utils/SimplifyIndVar.h - Indvar Utils ---*- C++ -*-===//
+﻿//===-- llvm/Transforms/Utils/SimplifyIndVar.h - Indvar Utils ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- LangOptions.h - C Language Family Language Options -----*- C++ -*-===//
+﻿//===--- LangOptions.h - C Language Family Language Options -----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

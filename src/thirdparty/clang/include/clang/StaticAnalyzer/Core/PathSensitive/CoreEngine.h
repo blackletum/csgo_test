@@ -1,4 +1,4 @@
-//==- CoreEngine.h - Path-Sensitive Dataflow Engine ----------------*- C++ -*-//
+﻿//==- CoreEngine.h - Path-Sensitive Dataflow Engine ----------------*- C++ -*-//
 //
 //                     The LLVM Compiler Infrastructure
 //

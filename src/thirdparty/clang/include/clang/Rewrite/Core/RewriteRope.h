@@ -1,4 +1,4 @@
-//===--- RewriteRope.h - Rope specialized for rewriter ----------*- C++ -*-===//
+﻿//===--- RewriteRope.h - Rope specialized for rewriter ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

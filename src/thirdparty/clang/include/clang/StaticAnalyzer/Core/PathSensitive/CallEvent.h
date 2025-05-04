@@ -1,4 +1,4 @@
-//===- CallEvent.h - Wrapper for all function and method calls ----*- C++ -*--//
+﻿//===- CallEvent.h - Wrapper for all function and method calls ----*- C++ -*--//
 //
 //                     The LLVM Compiler Infrastructure
 //

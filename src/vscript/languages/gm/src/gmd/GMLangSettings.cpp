@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+﻿#include "StdAfx.h"
 #include "gmlangsettings.h"
 #include "include/SciLexer.h"
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2007-2008 CSIRO
+﻿/* Copyright (c) 2007-2008 CSIRO
    Copyright (c) 2007-2009 Xiph.Org Foundation
    Copyright (c) 2008-2012 Gregory Maxwell
    Written by Jean-Marc Valin and Gregory Maxwell */

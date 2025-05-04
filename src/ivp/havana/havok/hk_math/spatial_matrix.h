@@ -1,4 +1,4 @@
-#ifndef HK_SPATIAL_MATRIX_H
+﻿#ifndef HK_SPATIAL_MATRIX_H
 #define HK_SPATIAL_MATRIX_H
 
 #include <hk_math/vecmath.h>

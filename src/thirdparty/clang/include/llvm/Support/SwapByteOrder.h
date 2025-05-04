@@ -1,4 +1,4 @@
-//===- SwapByteOrder.h - Generic and optimized byte swaps -------*- C++ -*-===//
+﻿//===- SwapByteOrder.h - Generic and optimized byte swaps -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

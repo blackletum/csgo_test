@@ -1,4 +1,4 @@
-/* 
+﻿/* 
 TODO: add option to null out drawprim calls.
  
 Also maybe hook the PIX_ENABLE stuff to Telemetry

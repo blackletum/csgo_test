@@ -1,4 +1,4 @@
-//======= Copyright (c) Valve Corporation, All rights reserved. ======
+﻿//======= Copyright (c) Valve Corporation, All rights reserved. ======
 #ifndef HLTV_REPLAY_SYSTEM
 #define HLTV_REPLAY_SYSTEM
 

@@ -1,4 +1,4 @@
-//===- Archive.h - ar archive file format -----------------------*- C++ -*-===//
+﻿//===- Archive.h - ar archive file format -----------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

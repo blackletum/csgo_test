@@ -1,4 +1,4 @@
-#ifndef _SQUIRREL_OBJECT_H_
+﻿#ifndef _SQUIRREL_OBJECT_H_
 #define _SQUIRREL_OBJECT_H_
 
 class SquirrelObject

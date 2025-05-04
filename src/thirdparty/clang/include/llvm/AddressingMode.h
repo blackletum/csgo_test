@@ -1,4 +1,4 @@
-//===--------- llvm/AddressingMode.h - Addressing Mode    -------*- C++ -*-===//
+﻿//===--------- llvm/AddressingMode.h - Addressing Mode    -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

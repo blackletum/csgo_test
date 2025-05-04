@@ -1,4 +1,4 @@
-//===--- Decl.h - Classes for representing declarations ---------*- C++ -*-===//
+﻿//===--- Decl.h - Classes for representing declarations ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

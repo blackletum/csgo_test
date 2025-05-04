@@ -1,4 +1,4 @@
-//===- PtrUseVisitor.h - InstVisitors over a pointers uses ------*- C++ -*-===//
+﻿//===- PtrUseVisitor.h - InstVisitors over a pointers uses ------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===--- Scope.h - Scope interface ------------------------------*- C++ -*-===//
+﻿//===--- Scope.h - Scope interface ------------------------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

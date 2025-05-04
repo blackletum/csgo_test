@@ -1,4 +1,4 @@
-//===- llvm/InitializePasses.h -------- Initialize All Passes ---*- C++ -*-===//
+﻿//===- llvm/InitializePasses.h -------- Initialize All Passes ---*- C++ -*-===//
 //
 //                      The LLVM Compiler Infrastructure
 //

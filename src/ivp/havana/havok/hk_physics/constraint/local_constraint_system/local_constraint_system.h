@@ -1,4 +1,4 @@
-#ifndef HK_PHYSICS_LOCAL_CONSTRAINT_SYSTEM_H
+﻿#ifndef HK_PHYSICS_LOCAL_CONSTRAINT_SYSTEM_H
 #define HK_PHYSICS_LOCAL_CONSTRAINT_SYSTEM_H
 
 #include <hk_physics/constraint/local_constraint_system/local_constraint_system_bp.h>

@@ -1,4 +1,4 @@
-//===- LazyValueInfo.h - Value constraint analysis --------------*- C++ -*-===//
+﻿//===- LazyValueInfo.h - Value constraint analysis --------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

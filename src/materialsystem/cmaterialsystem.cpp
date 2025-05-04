@@ -1,4 +1,4 @@
-//===== Copyright (c) Valve Corporation, All rights reserved. ======//
+﻿//===== Copyright (c) Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -822,7 +822,7 @@ bool CMaterialSystem::Connect( CreateInterfaceFn factory )
 	// write a link to the Cocoa manager into the config record so the shader subsystem can get to it.
 	// alas we can't include icocoamgr.h due to a header conflict in the SDK, so the interface name here is hardwired for now
 	// /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Threads.h:520:
-	// error: declaration of C function ‘OSErr CreateThreadPool(ThreadStyle, SInt16, Size)’
+	// error: declaration of C function €˜OSErr CreateThreadPool(ThreadStyle, SInt16, Size)€™
 #define  COCOAMGR_INTERFACE_VERSION "CocoaMgrInterface006"
 
 	g_pLauncherMgr = (ILauncherMgr *)factory( COCOAMGR_INTERFACE_VERSION, NULL );		

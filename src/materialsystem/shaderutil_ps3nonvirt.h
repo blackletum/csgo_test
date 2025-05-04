@@ -1,4 +1,4 @@
-//========== Copyright � 2005, Valve Corporation, All rights reserved. ========
+﻿//========== Copyright © 2005, Valve Corporation, All rights reserved. ========
 #ifndef SHADERUTIL_PS3NONVIRT_H
 #define SHADERUTIL_PS3NONVIRT_H
 

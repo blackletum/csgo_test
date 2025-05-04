@@ -1,4 +1,4 @@
-//===--- AttributeList.h - Parsed attribute sets ----------------*- C++ -*-===//
+﻿//===--- AttributeList.h - Parsed attribute sets ----------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

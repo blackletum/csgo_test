@@ -1,4 +1,4 @@
-//== CallGraph.h - AST-based Call graph  ------------------------*- C++ -*--==//
+﻿//== CallGraph.h - AST-based Call graph  ------------------------*- C++ -*--==//
 //
 //                     The LLVM Compiler Infrastructure
 //

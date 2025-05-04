@@ -1,4 +1,4 @@
-//===-- Transform/Utils/BasicBlockUtils.h - BasicBlock Utils ----*- C++ -*-===//
+﻿//===-- Transform/Utils/BasicBlockUtils.h - BasicBlock Utils ----*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

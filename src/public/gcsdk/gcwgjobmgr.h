@@ -1,4 +1,4 @@
-#ifndef GCWGJOB_H
+﻿#ifndef GCWGJOB_H
 #define GCWGJOB_H
 #ifdef _WIN32
 #pragma once

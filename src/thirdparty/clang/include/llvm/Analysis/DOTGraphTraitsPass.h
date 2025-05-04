@@ -1,4 +1,4 @@
-//===-- DOTGraphTraitsPass.h - Print/View dotty graphs-----------*- C++ -*-===//
+﻿//===-- DOTGraphTraitsPass.h - Print/View dotty graphs-----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

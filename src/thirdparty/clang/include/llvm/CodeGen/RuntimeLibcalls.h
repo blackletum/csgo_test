@@ -1,4 +1,4 @@
-//===-- CodeGen/RuntimeLibcall.h - Runtime Library Calls --------*- C++ -*-===//
+﻿//===-- CodeGen/RuntimeLibcall.h - Runtime Library Calls --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

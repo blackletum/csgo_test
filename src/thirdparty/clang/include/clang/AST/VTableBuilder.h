@@ -1,4 +1,4 @@
-//===--- VTableBuilder.h - C++ vtable layout builder --------------*- C++ -*-=//
+﻿//===--- VTableBuilder.h - C++ vtable layout builder --------------*- C++ -*-=//
 //
 //                     The LLVM Compiler Infrastructure
 //

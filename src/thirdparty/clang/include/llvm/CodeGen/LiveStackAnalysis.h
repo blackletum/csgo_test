@@ -1,4 +1,4 @@
-//===-- LiveStackAnalysis.h - Live Stack Slot Analysis ----------*- C++ -*-===//
+﻿//===-- LiveStackAnalysis.h - Live Stack Slot Analysis ----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

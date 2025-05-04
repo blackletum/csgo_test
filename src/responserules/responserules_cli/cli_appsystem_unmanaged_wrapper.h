@@ -1,4 +1,4 @@
-/// The unmanaged side of wrapping the app system for CLR
+﻿/// The unmanaged side of wrapping the app system for CLR
 
 #ifndef CLI_APPSYSTEM_UNMANAGED_WRAPPER_H
 #define CLI_APPSYSTEM_UNMANAGED_WRAPPER_H

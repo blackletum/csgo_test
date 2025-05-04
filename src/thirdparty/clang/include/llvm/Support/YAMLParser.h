@@ -1,4 +1,4 @@
-//===--- YAMLParser.h - Simple YAML parser --------------------------------===//
+﻿//===--- YAMLParser.h - Simple YAML parser --------------------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

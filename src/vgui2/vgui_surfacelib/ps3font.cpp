@@ -1,4 +1,4 @@
-//========= Copyright � 1996-2005, Valve Corporation, All rights reserved. ============//
+﻿//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: PS3 support for TrueType Fonts as hastily bastardized from Xbox 360 code. 
 // On 360, the only solution is to use XUI

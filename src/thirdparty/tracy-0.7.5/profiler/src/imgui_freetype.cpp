@@ -1,4 +1,4 @@
-// dear imgui: wrapper to use FreeType (instead of stb_truetype)
+﻿// dear imgui: wrapper to use FreeType (instead of stb_truetype)
 // Get latest version at https://github.com/ocornut/imgui/tree/master/misc/freetype
 // Original code by @vuhdo (Aleksei Skriabin). Improvements by @mikesart. Maintained and v0.60+ by @ocornut.
 

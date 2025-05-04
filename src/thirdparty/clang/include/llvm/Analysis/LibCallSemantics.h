@@ -1,4 +1,4 @@
-//===- LibCallSemantics.h - Describe library semantics --------------------===//
+﻿//===- LibCallSemantics.h - Describe library semantics --------------------===//
 //
 //                     The LLVM Compiler Infrastructure
 //

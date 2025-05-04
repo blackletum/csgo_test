@@ -1,4 +1,4 @@
-//===- llvm/TableGen/Record.h - Classes for Table Records -------*- C++ -*-===//
+﻿//===- llvm/TableGen/Record.h - Classes for Table Records -------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

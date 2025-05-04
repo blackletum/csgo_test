@@ -1,4 +1,4 @@
-//===--- IdentifierTable.h - Hash table for identifier lookup ---*- C++ -*-===//
+﻿//===--- IdentifierTable.h - Hash table for identifier lookup ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

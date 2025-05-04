@@ -1,4 +1,4 @@
-//-----------------------------------------------------------------------------
+﻿//-----------------------------------------------------------------------------
 // class CPointEntityFinder
 //
 // Purpose: Finds an entity using a specified heuristic and outputs it as !caller

@@ -1,4 +1,4 @@
-#define strcasecmp _strcmpi
+﻿#define strcasecmp _strcmpi
 #define strncasecmp _strnicmp
 
 #define HAVE_STRERROR 1

@@ -1,4 +1,4 @@
-//===- ASTBitCodes.h - Enum values for the PCH bitcode format ---*- C++ -*-===//
+﻿//===- ASTBitCodes.h - Enum values for the PCH bitcode format ---*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

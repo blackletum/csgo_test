@@ -1,4 +1,4 @@
-//===--- CodeGen/ModuleBuilder.h - Build LLVM from ASTs ---------*- C++ -*-===//
+﻿//===--- CodeGen/ModuleBuilder.h - Build LLVM from ASTs ---------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

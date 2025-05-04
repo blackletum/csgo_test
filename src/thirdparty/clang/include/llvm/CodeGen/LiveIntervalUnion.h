@@ -1,4 +1,4 @@
-//===-- LiveIntervalUnion.h - Live interval union data struct --*- C++ -*--===//
+﻿//===-- LiveIntervalUnion.h - Live interval union data struct --*- C++ -*--===//
 //
 //                     The LLVM Compiler Infrastructure
 //

@@ -1,4 +1,4 @@
-//===-- llvm/Support/ConstantRange.h - Represent a range --------*- C++ -*-===//
+﻿//===-- llvm/Support/ConstantRange.h - Represent a range --------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

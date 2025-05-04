@@ -1,4 +1,4 @@
-//===- MemoryObject.h - Abstract memory interface ---------------*- C++ -*-===//
+﻿//===- MemoryObject.h - Abstract memory interface ---------------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //

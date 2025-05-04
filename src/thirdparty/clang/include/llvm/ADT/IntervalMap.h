@@ -1,4 +1,4 @@
-//===- llvm/ADT/IntervalMap.h - A sorted interval map -----------*- C++ -*-===//
+﻿//===- llvm/ADT/IntervalMap.h - A sorted interval map -----------*- C++ -*-===//
 //
 //                     The LLVM Compiler Infrastructure
 //
