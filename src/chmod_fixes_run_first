@@ -4,6 +4,5 @@ chmod +x clean_csgo_automated
 chmod +x devtools/bin/vpc
 chmod u+x devtools/bin/vpc_linux
 chmod u+x devtools/bin/linux/ccache
-chmod u+x ../devtools/gendbg.sh
-chmod +x devtools/gendbg.sh
+chmod u+x devtools/gendbg.sh
 chmod +x devtools/bin/linux/protoc
