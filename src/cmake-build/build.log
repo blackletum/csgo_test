@@ -1,0 +1,90 @@
+[  0%] Built target appframework_client
+[  0%] Built target interfaces_client
+[  1%] Built target libprotobuf
+[  5%] Built target cryptopp-object
+[  6%] Built target libtier0_client
+[  7%] Built target tier1_client
+[  8%] Built target tier2_client
+[  8%] Built target tier3_client
+[  8%] Built target vstdlib_client
+[  8%] Built target mathlib_extended_client
+[  9%] Built target mathlib_client
+[  9%] Built target vpklib_client
+[ 10%] Building CXX object vgui2/matsys_controls/CMakeFiles/matsys_controls_client.dir/assetpicker.cpp.o
+[ 10%] Built target vgui_surfacelib_client
+[ 10%] Building CXX object vgui2/vgui_controls/CMakeFiles/vgui_controls_client.dir/HTML.cpp.o
+[ 10%] Building CXX object vgui2/matsys_controls/CMakeFiles/matsys_controls_client.dir/baseassetpicker.cpp.o
+/root/csgo_test/src/vgui2/vgui_controls/HTML.cpp: In member function ‘virtual void vgui::HTML::OnMouseReleased(vgui::MouseCode)’:
+/root/csgo_test/src/vgui2/vgui_controls/HTML.cpp:589:21: error: cast from ‘void*’ to ‘vgui::VPANEL’ {aka ‘unsigned int’} loses precision [-fpermissive]
+  589 |     VPANEL vpanel = (VPANEL)kv->GetPtr( "AcceptPanel" );
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make[2]: *** [vgui2/vgui_controls/CMakeFiles/vgui_controls_client.dir/build.make:440: vgui2/vgui_controls/CMakeFiles/vgui_controls_client.dir/HTML.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:1684: vgui2/vgui_controls/CMakeFiles/vgui_controls_client.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 10%] Building CXX object vgui2/matsys_controls/CMakeFiles/matsys_controls_client.dir/colorpickerpanel.cpp.o
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp: In member function ‘void CBaseAssetPicker::AutoLayoutStandardControls()’:
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1000:2: error: ‘CBoxSizer’ was not declared in this scope
+ 1000 |  CBoxSizer* pTopLeftSplitterLayout = new CBoxSizer(ESLD_VERTICAL);
+      |  ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1000:13: error: ‘pTopLeftSplitterLayout’ was not declared in this scope
+ 1000 |  CBoxSizer* pTopLeftSplitterLayout = new CBoxSizer(ESLD_VERTICAL);
+      |             ^~~~~~~~~~~~~~~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1000:42: error: expected type-specifier before ‘CBoxSizer’
+ 1000 |  CBoxSizer* pTopLeftSplitterLayout = new CBoxSizer(ESLD_VERTICAL);
+      |                                          ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1002:14: error: ‘pRow’ was not declared in this scope; did you mean ‘pow’?
+ 1002 |   CBoxSizer* pRow = new CBoxSizer(ESLD_HORIZONTAL);
+      |              ^~~~
+      |              pow
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1002:25: error: expected type-specifier before ‘CBoxSizer’
+ 1002 |   CBoxSizer* pRow = new CBoxSizer(ESLD_HORIZONTAL);
+      |                         ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1003:82: error: ‘SizerAddArgs_t’ was not declared in this scope
+ 1003 |   pRow->AddPanel( new Label(pSplitterTopLeftSide,"ModFilterLabel","Mod Filter"), SizerAddArgs_t() );
+      |                                                                                  ^~~~~~~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1010:52: error: ‘SizerAddArgs_t’ was not declared in this scope
+ 1010 |  pTopLeftSplitterLayout->AddPanel( m_pSubDirCheck, SizerAddArgs_t() );
+      |                                                    ^~~~~~~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1012:24: error: ‘class vgui::Panel’ has no member named ‘SetSizer’; did you mean ‘SetSize’?
+ 1012 |  pSplitterTopLeftSide->SetSizer(pTopLeftSplitterLayout);
+      |                        ^~~~~~~~
+      |                        SetSize
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1015:13: error: ‘pBottomLeftSplitterLayout’ was not declared in this scope
+ 1015 |  CBoxSizer* pBottomLeftSplitterLayout = new CBoxSizer(ESLD_VERTICAL);
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1015:45: error: expected type-specifier before ‘CBoxSizer’
+ 1015 |  CBoxSizer* pBottomLeftSplitterLayout = new CBoxSizer(ESLD_VERTICAL);
+      |                                             ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1018:14: error: ‘pRow’ was not declared in this scope; did you mean ‘pow’?
+ 1018 |   CBoxSizer* pRow = new CBoxSizer(ESLD_HORIZONTAL);
+      |              ^~~~
+      |              pow
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1018:25: error: expected type-specifier before ‘CBoxSizer’
+ 1018 |   CBoxSizer* pRow = new CBoxSizer(ESLD_HORIZONTAL);
+      |                         ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1025:14: error: ‘pRow’ was not declared in this scope; did you mean ‘pow’?
+ 1025 |   CBoxSizer* pRow = new CBoxSizer(ESLD_HORIZONTAL);
+      |              ^~~~
+      |              pow
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1025:25: error: expected type-specifier before ‘CBoxSizer’
+ 1025 |   CBoxSizer* pRow = new CBoxSizer(ESLD_HORIZONTAL);
+      |                         ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1031:14: error: ‘pRow’ was not declared in this scope; did you mean ‘pow’?
+ 1031 |   CBoxSizer* pRow = new CBoxSizer( ESLD_HORIZONTAL );
+      |              ^~~~
+      |              pow
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1031:25: error: expected type-specifier before ‘CBoxSizer’
+ 1031 |   CBoxSizer* pRow = new CBoxSizer( ESLD_HORIZONTAL );
+      |                         ^~~~~~~~~
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1036:27: error: ‘class vgui::Panel’ has no member named ‘SetSizer’; did you mean ‘SetSize’?
+ 1036 |  pSplitterBottomLeftSide->SetSizer(pBottomLeftSplitterLayout);
+      |                           ^~~~~~~~
+      |                           SetSize
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp: In member function ‘void CBaseAssetPicker::SetSelection(const char*, bool)’:
+/root/csgo_test/src/vgui2/matsys_controls/baseassetpicker.cpp:1152:21: error: ‘class vgui::ListPanel’ has no member named ‘ScrollToItem’
+ 1152 |    m_pAssetBrowser->ScrollToItem( i );
+      |                     ^~~~~~~~~~~~
+make[2]: *** [vgui2/matsys_controls/CMakeFiles/matsys_controls_client.dir/build.make:90: vgui2/matsys_controls/CMakeFiles/matsys_controls_client.dir/baseassetpicker.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:1626: vgui2/matsys_controls/CMakeFiles/matsys_controls_client.dir/all] Error 2
+make: *** [Makefile:136: all] Error 2
