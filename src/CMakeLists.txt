@@ -126,16 +126,14 @@ if( DEDICATED )
 	add_subdirectory(dedicated)
 	add_subdirectory(dedicated_main)
 endif()
-if( NOT DEDICATED )
-	add_subdirectory(launcher)
-	add_subdirectory(launcher_main) #The actual executable that just dlopen's launcher
-endif()
+# if( NOT DEDICATED )
+#     if( USE_SCALEFORM )
+#         add_subdirectory(scaleformui) #DUMMY cmake project so CLion can do analysis
+#     elseif( USE_ROCKETUI ) #Custom Kisak-Strike UI powered by RmlUI
+#         add_subdirectory(thirdparty/RmlUi)
+#         add_subdirectory(rocketui)
+#     endif()
+# endif()
+# temporarily disabling all rocketui related code
 
-if( NOT DEDICATED )
-	if( USE_SCALEFORM )
-    		add_subdirectory(scaleformui) #DUMMY cmake project so CLion can do analysis
-	elseif( USE_ROCKETUI ) #Custom Kisak-Strike UI powered by RmlUI
-    		add_subdirectory(thirdparty/RmlUi)
-    		add_subdirectory(rocketui)
-	endif()
-endif()
+add_subdirectory(scaleformui)
