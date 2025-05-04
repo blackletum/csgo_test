@@ -26,8 +26,6 @@ timestamp=$(date +"%m%d%Y_%H%M")
 echo "Creating new logs directory..."
 mkdir -p ./logs
 
-./createcsgo 2>&1 
-
 cmake .. -DUSE_IPHYS=1  2>&1 | tee ./logs/cmake_${timestamp}.log
 make -j2  2>&1 | tee ./logs/make_${timestamp}.log
 
