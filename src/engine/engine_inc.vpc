@@ -75,6 +75,19 @@ $Configuration "Release"
 
 $Project $EPROJ
 {
+	$Platform "linux64"
+	{
+	    $PreBuildCommands
+	    {
+	        // Ensure the engine’s lib folder exists
+	        "mkdir -p $SRCDIR/lib/linux64/release"
+
+	        // Copy CryptoPP so the linker can find it
+	        "cp $SRCDIR/../lib/linux64/release/libcryptopp_client.a \
+	            $SRCDIR/lib/linux64/release/libcryptopp_client.a || true"
+	    }
+	}
+
 	$Folder "Client"
 	{
 		$File	"$ESRCDIR\client_pch.cpp" [!($PS3 || $DEDICATED)]

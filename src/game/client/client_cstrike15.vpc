@@ -52,6 +52,21 @@ $Configuration
 
 $Project "Client (CSGO)"
 {
+	$Platform "linux64"
+    {
+        $PreBuildCommands
+        {
+            // Ensure the target directory exists
+            "mkdir -p $SRCDIR/lib/public/linux64"
+
+            // Copy (or overwrite) the freshly built libsteam_api.so
+            // Note: $SRCDIR is “..\..”, so “$SRCDIR/../lib/...”
+            // actually moves one level above your source root.
+            "cp $SRCDIR/../lib/public/linux64/libsteam_api.so \
+                 $SRCDIR/lib/public/linux64/libsteam_api.so || true"
+        }
+    }
+	
 	$Folder	"Source Files"
 	{
 		-$File	"$SRCDIR\game\shared\weapon_parse_default.cpp"
