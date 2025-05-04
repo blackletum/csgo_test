@@ -1,0 +1,859 @@
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -std=c++11 -MT libtcmalloc_minimal_la-tcmalloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_la-tcmalloc.Tpo -c -o libtcmalloc_minimal_la-tcmalloc.lo `test -f 'src/tcmalloc.cc' || echo './'`src/tcmalloc.cc
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-common.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-common.Tpo -c -o libtcmalloc_minimal_internal_la-common.lo `test -f 'src/common.cc' || echo './'`src/common.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT libtcmalloc_minimal_la-tcmalloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_la-tcmalloc.Tpo -c src/tcmalloc.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_la-tcmalloc.o
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-common.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-common.Tpo -c src/common.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-common.o
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-common.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-common.Tpo -c src/common.cc -o libtcmalloc_minimal_internal_la-common.o >/dev/null 2>&1
+src/tcmalloc.cc:987:18: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  987 |   printer.printf("tcmalloc: large alloc %"PRIu64" bytes == %p @ ",
+      |                  ^
+mv -f .deps/libtcmalloc_minimal_internal_la-common.Tpo .deps/libtcmalloc_minimal_internal_la-common.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-internal_logging.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-internal_logging.Tpo -c -o libtcmalloc_minimal_internal_la-internal_logging.lo `test -f 'src/internal_logging.cc' || echo './'`src/internal_logging.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-internal_logging.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-internal_logging.Tpo -c src/internal_logging.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-internal_logging.o
+In file included from src/tcmalloc.cc:116:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/sampler.h: In static member function ‘static double tcmalloc::Sampler::FastLog2(const double&)’:
+src/sampler.h:168:49: warning: typedef ‘DoubleMustBe64Bits’ locally defined but not used [-Wunused-local-typedefs]
+  168 |   COMPILE_ASSERT(sizeof(d) == sizeof(uint64_t), DoubleMustBe64Bits);
+      |                                                 ^~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+In file included from src/libc_override_glibc.h:64,
+                 from src/libc_override.h:78,
+                 from src/tcmalloc.cc:157:
+src/libc_override_gcc_and_weak.h: At global scope:
+src/libc_override_gcc_and_weak.h:56:33: warning: dynamic exception specifications are deprecated in C++11 [-Wdeprecated]
+   56 | void* operator new(size_t size) throw (std::bad_alloc)
+      |                                 ^~~~~
+src/libc_override_gcc_and_weak.h:60:35: warning: dynamic exception specifications are deprecated in C++11 [-Wdeprecated]
+   60 | void* operator new[](size_t size) throw (std::bad_alloc)
+      |                                   ^~~~~
+In file included from ./src/base/commandlineflags.h:55,
+                 from src/base/logging.h:48,
+                 from src/internal_logging.cc:44:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/libc_override_glibc.h:85:7: warning: ‘int __posix_memalign(void**, size_t, size_t)’ specifies less restrictive attribute than its target ‘int tc_posix_memalign(void**, size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   85 |   int __posix_memalign(void** r, size_t a, size_t s)  ALIAS(tc_posix_memalign);
+      |       ^~~~~~~~~~~~~~~~
+src/tcmalloc.cc:1594:35: note: ‘int __posix_memalign(void**, size_t, size_t)’ target declared here
+ 1594 | extern "C" PERFTOOLS_DLL_DECL int tc_posix_memalign(
+      |                                   ^~~~~~~~~~~~~~~~~
+src/libc_override_glibc.h:84:9: warning: ‘void* __libc_pvalloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_pvalloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   84 |   void* __libc_pvalloc(size_t size)               ALIAS(tc_pvalloc);
+      |         ^~~~~~~~~~~~~~
+src/tcmalloc.cc:1622:37: note: ‘void* __libc_pvalloc(size_t)’ target declared here
+ 1622 | extern "C" PERFTOOLS_DLL_DECL void* tc_pvalloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~~
+src/libc_override_glibc.h:83:9: warning: ‘void* __libc_valloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_valloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   83 |   void* __libc_valloc(size_t size)                ALIAS(tc_valloc);
+      |         ^~~~~~~~~~~~~
+src/tcmalloc.cc:1614:37: note: ‘void* __libc_valloc(size_t)’ target declared here
+ 1614 | extern "C" PERFTOOLS_DLL_DECL void* tc_valloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~
+src/libc_override_glibc.h:82:9: warning: ‘void* __libc_memalign(size_t, size_t)’ specifies less restrictive attribute than its target ‘void* tc_memalign(size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   82 |   void* __libc_memalign(size_t align, size_t s)   ALIAS(tc_memalign);
+      |         ^~~~~~~~~~~~~~~
+src/tcmalloc.cc:1587:37: note: ‘void* __libc_memalign(size_t, size_t)’ target declared here
+ 1587 | extern "C" PERFTOOLS_DLL_DECL void* tc_memalign(size_t align,
+      |                                     ^~~~~~~~~~~
+src/libc_override_glibc.h:81:8: warning: ‘void __libc_cfree(void*)’ specifies less restrictive attribute than its target ‘void tc_cfree(void*)’: ‘nothrow’ [-Wmissing-attributes]
+   81 |   void __libc_cfree(void* ptr)                    ALIAS(tc_cfree);
+      |        ^~~~~~~~~~~~
+src/tcmalloc.cc:1509:36: note: ‘void __libc_cfree(void*)’ target declared here
+ 1509 | extern "C" PERFTOOLS_DLL_DECL void tc_cfree(void* ptr) __THROW {
+      |                                    ^~~~~~~~
+src/libc_override_glibc.h:80:9: warning: ‘void* __libc_calloc(size_t, size_t)’ specifies less restrictive attribute than its target ‘void* tc_calloc(size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   80 |   void* __libc_calloc(size_t n, size_t size)      ALIAS(tc_calloc);
+      |         ^~~~~~~~~~~~~
+src/tcmalloc.cc:1502:37: note: ‘void* __libc_calloc(size_t, size_t)’ target declared here
+ 1502 | extern "C" PERFTOOLS_DLL_DECL void* tc_calloc(size_t n,
+      |                                     ^~~~~~~~~
+src/libc_override_glibc.h:79:9: warning: ‘void* __libc_realloc(void*, size_t)’ specifies less restrictive attribute than its target ‘void* tc_realloc(void*, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   79 |   void* __libc_realloc(void* ptr, size_t size)    ALIAS(tc_realloc);
+      |         ^~~~~~~~~~~~~~
+src/tcmalloc.cc:1514:37: note: ‘void* __libc_realloc(void*, size_t)’ target declared here
+ 1514 | extern "C" PERFTOOLS_DLL_DECL void* tc_realloc(void* old_ptr,
+      |                                     ^~~~~~~~~~
+src/libc_override_glibc.h:78:8: warning: ‘void __libc_free(void*)’ specifies less restrictive attribute than its target ‘void tc_free(void*)’: ‘nothrow’ [-Wmissing-attributes]
+   78 |   void __libc_free(void* ptr)                     ALIAS(tc_free);
+      |        ^~~~~~~~~~~
+src/tcmalloc.cc:1497:36: note: ‘void __libc_free(void*)’ target declared here
+ 1497 | extern "C" PERFTOOLS_DLL_DECL void tc_free(void* ptr) __THROW {
+      |                                    ^~~~~~~
+src/libc_override_glibc.h:77:9: warning: ‘void* __libc_malloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_malloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   77 |   void* __libc_malloc(size_t size)                ALIAS(tc_malloc);
+      |         ^~~~~~~~~~~~~
+src/tcmalloc.cc:1491:37: note: ‘void* __libc_malloc(size_t)’ target declared here
+ 1491 | extern "C" PERFTOOLS_DLL_DECL void* tc_malloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-internal_logging.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-internal_logging.Tpo -c src/internal_logging.cc -o libtcmalloc_minimal_internal_la-internal_logging.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT libtcmalloc_minimal_la-tcmalloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_la-tcmalloc.Tpo -c src/tcmalloc.cc -o libtcmalloc_minimal_la-tcmalloc.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-internal_logging.Tpo .deps/libtcmalloc_minimal_internal_la-internal_logging.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-system-alloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-system-alloc.Tpo -c -o libtcmalloc_minimal_internal_la-system-alloc.lo `test -f 'src/system-alloc.cc' || echo './'`src/system-alloc.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-system-alloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-system-alloc.Tpo -c src/system-alloc.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-system-alloc.o
+In file included from src/system-alloc.cc:52:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/system-alloc.cc: At global scope:
+src/system-alloc.cc:99:18: warning: ‘bool {anonymous}::CheckAddressBits(uintptr_t) [with int ADDRESS_BITS = 64]’ defined but not used [-Wunused-function]
+   99 | template <> bool CheckAddressBits<8 * sizeof(void*)>(uintptr_t ptr) {
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-system-alloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-system-alloc.Tpo -c src/system-alloc.cc -o libtcmalloc_minimal_internal_la-system-alloc.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_la-tcmalloc.Tpo .deps/libtcmalloc_minimal_la-tcmalloc.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-memfs_malloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-memfs_malloc.Tpo -c -o libtcmalloc_minimal_internal_la-memfs_malloc.lo `test -f 'src/memfs_malloc.cc' || echo './'`src/memfs_malloc.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-memfs_malloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-memfs_malloc.Tpo -c src/memfs_malloc.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-memfs_malloc.o
+mv -f .deps/libtcmalloc_minimal_internal_la-system-alloc.Tpo .deps/libtcmalloc_minimal_internal_la-system-alloc.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-central_freelist.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-central_freelist.Tpo -c -o libtcmalloc_minimal_internal_la-central_freelist.lo `test -f 'src/central_freelist.cc' || echo './'`src/central_freelist.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-central_freelist.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-central_freelist.Tpo -c src/central_freelist.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-central_freelist.o
+In file included from src/memfs_malloc.cc:58:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+In file included from src/base/spinlock.h:48,
+                 from src/central_freelist.h:41,
+                 from src/central_freelist.cc:35:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-memfs_malloc.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-memfs_malloc.Tpo -c src/memfs_malloc.cc -o libtcmalloc_minimal_internal_la-memfs_malloc.o >/dev/null 2>&1
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-central_freelist.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-central_freelist.Tpo -c src/central_freelist.cc -o libtcmalloc_minimal_internal_la-central_freelist.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-memfs_malloc.Tpo .deps/libtcmalloc_minimal_internal_la-memfs_malloc.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-page_heap.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-page_heap.Tpo -c -o libtcmalloc_minimal_internal_la-page_heap.lo `test -f 'src/page_heap.cc' || echo './'`src/page_heap.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-page_heap.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-page_heap.Tpo -c src/page_heap.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-page_heap.o
+mv -f .deps/libtcmalloc_minimal_internal_la-central_freelist.Tpo .deps/libtcmalloc_minimal_internal_la-central_freelist.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-sampler.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-sampler.Tpo -c -o libtcmalloc_minimal_internal_la-sampler.lo `test -f 'src/sampler.cc' || echo './'`src/sampler.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-sampler.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-sampler.Tpo -c src/sampler.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-sampler.o
+In file included from src/page_heap.cc:38:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/page_heap.cc: In constructor ‘tcmalloc::PageHeap::PageHeap()’:
+src/page_heap.cc:61:66: warning: typedef ‘valuebits’ locally defined but not used [-Wunused-local-typedefs]
+   61 |   COMPILE_ASSERT(kNumClasses <= (1 << PageMapCache::kValuebits), valuebits);
+      |                                                                  ^~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+In file included from src/sampler.h:44,
+                 from src/sampler.cc:35:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/sampler.h: In static member function ‘static double tcmalloc::Sampler::FastLog2(const double&)’:
+src/sampler.h:168:49: warning: typedef ‘DoubleMustBe64Bits’ locally defined but not used [-Wunused-local-typedefs]
+  168 |   COMPILE_ASSERT(sizeof(d) == sizeof(uint64_t), DoubleMustBe64Bits);
+      |                                                 ^~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-page_heap.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-page_heap.Tpo -c src/page_heap.cc -o libtcmalloc_minimal_internal_la-page_heap.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-sampler.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-sampler.Tpo -c src/sampler.cc -o libtcmalloc_minimal_internal_la-sampler.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-page_heap.Tpo .deps/libtcmalloc_minimal_internal_la-page_heap.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-span.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-span.Tpo -c -o libtcmalloc_minimal_internal_la-span.lo `test -f 'src/span.cc' || echo './'`src/span.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-span.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-span.Tpo -c src/span.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-span.o
+In file included from src/base/spinlock.h:48,
+                 from src/static_vars.h:39,
+                 from src/span.cc:40:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+mv -f .deps/libtcmalloc_minimal_internal_la-sampler.Tpo .deps/libtcmalloc_minimal_internal_la-sampler.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-stack_trace_table.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-stack_trace_table.Tpo -c -o libtcmalloc_minimal_internal_la-stack_trace_table.lo `test -f 'src/stack_trace_table.cc' || echo './'`src/stack_trace_table.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-stack_trace_table.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-stack_trace_table.Tpo -c src/stack_trace_table.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-stack_trace_table.o
+In file included from src/base/spinlock.h:48,
+                 from src/stack_trace_table.cc:36:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-span.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-span.Tpo -c src/span.cc -o libtcmalloc_minimal_internal_la-span.o >/dev/null 2>&1
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-stack_trace_table.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-stack_trace_table.Tpo -c src/stack_trace_table.cc -o libtcmalloc_minimal_internal_la-stack_trace_table.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-span.Tpo .deps/libtcmalloc_minimal_internal_la-span.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-static_vars.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-static_vars.Tpo -c -o libtcmalloc_minimal_internal_la-static_vars.lo `test -f 'src/static_vars.cc' || echo './'`src/static_vars.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-static_vars.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-static_vars.Tpo -c src/static_vars.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-static_vars.o
+In file included from src/base/spinlock.h:48,
+                 from src/static_vars.h:39,
+                 from src/static_vars.cc:33:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+mv -f .deps/libtcmalloc_minimal_internal_la-stack_trace_table.Tpo .deps/libtcmalloc_minimal_internal_la-stack_trace_table.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-symbolize.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-symbolize.Tpo -c -o libtcmalloc_minimal_internal_la-symbolize.lo `test -f 'src/symbolize.cc' || echo './'`src/symbolize.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-symbolize.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-symbolize.Tpo -c src/symbolize.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-symbolize.o
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/symbolize.cc:232:18: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  232 |                  "0x%"PRIxPTR"\n", reinterpret_cast<uintptr_t>(iter->first));
+      |                  ^
+src/sampler.h: In static member function ‘static double tcmalloc::Sampler::FastLog2(const double&)’:
+src/sampler.h:168:49: warning: typedef ‘DoubleMustBe64Bits’ locally defined but not used [-Wunused-local-typedefs]
+  168 |   COMPILE_ASSERT(sizeof(d) == sizeof(uint64_t), DoubleMustBe64Bits);
+      |                                                 ^~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-static_vars.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-static_vars.Tpo -c src/static_vars.cc -o libtcmalloc_minimal_internal_la-static_vars.o >/dev/null 2>&1
+In file included from src/base/commandlineflags.h:55,
+                 from src/symbolize.cc:59:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+mv -f .deps/libtcmalloc_minimal_internal_la-static_vars.Tpo .deps/libtcmalloc_minimal_internal_la-static_vars.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-thread_cache.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-thread_cache.Tpo -c -o libtcmalloc_minimal_internal_la-thread_cache.lo `test -f 'src/thread_cache.cc' || echo './'`src/thread_cache.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-symbolize.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-symbolize.Tpo -c src/symbolize.cc -o libtcmalloc_minimal_internal_la-symbolize.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-thread_cache.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-thread_cache.Tpo -c src/thread_cache.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-thread_cache.o
+In file included from src/sampler.h:44,
+                 from src/thread_cache.h:49,
+                 from src/thread_cache.cc:34:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/sampler.h: In static member function ‘static double tcmalloc::Sampler::FastLog2(const double&)’:
+src/sampler.h:168:49: warning: typedef ‘DoubleMustBe64Bits’ locally defined but not used [-Wunused-local-typedefs]
+  168 |   COMPILE_ASSERT(sizeof(d) == sizeof(uint64_t), DoubleMustBe64Bits);
+      |                                                 ^~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-thread_cache.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-thread_cache.Tpo -c src/thread_cache.cc -o libtcmalloc_minimal_internal_la-thread_cache.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-symbolize.Tpo .deps/libtcmalloc_minimal_internal_la-symbolize.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-malloc_hook.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-malloc_hook.Tpo -c -o libtcmalloc_minimal_internal_la-malloc_hook.lo `test -f 'src/malloc_hook.cc' || echo './'`src/malloc_hook.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-malloc_hook.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-malloc_hook.Tpo -c src/malloc_hook.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-malloc_hook.o
+In file included from ./src/base/commandlineflags.h:55,
+                 from src/base/logging.h:48,
+                 from src/malloc_hook.cc:49:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+mv -f .deps/libtcmalloc_minimal_internal_la-thread_cache.Tpo .deps/libtcmalloc_minimal_internal_la-thread_cache.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-malloc_extension.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-malloc_extension.Tpo -c -o libtcmalloc_minimal_internal_la-malloc_extension.lo `test -f 'src/malloc_extension.cc' || echo './'`src/malloc_extension.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-malloc_extension.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-malloc_extension.Tpo -c src/malloc_extension.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-malloc_extension.o
+src/malloc_extension.cc:247:12: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  247 |            "%6"PRIu64": %8"PRIu64" [%6"PRIu64": %8"PRIu64"] @",
+      |            ^
+src/malloc_extension.cc:247:22: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  247 |            "%6"PRIu64": %8"PRIu64" [%6"PRIu64": %8"PRIu64"] @",
+      |                      ^
+src/malloc_extension.cc:247:34: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  247 |            "%6"PRIu64": %8"PRIu64" [%6"PRIu64": %8"PRIu64"] @",
+      |                                  ^
+src/malloc_extension.cc:247:46: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  247 |            "%6"PRIu64": %8"PRIu64" [%6"PRIu64": %8"PRIu64"] @",
+      |                                              ^
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-malloc_hook.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-malloc_hook.Tpo -c src/malloc_hook.cc -o libtcmalloc_minimal_internal_la-malloc_hook.o >/dev/null 2>&1
+In file included from src/base/sysinfo.h:48,
+                 from src/malloc_extension.cc:46:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-malloc_extension.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-malloc_extension.Tpo -c src/malloc_extension.cc -o libtcmalloc_minimal_internal_la-malloc_extension.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-malloc_hook.Tpo .deps/libtcmalloc_minimal_internal_la-malloc_hook.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-maybe_threads.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-maybe_threads.Tpo -c -o libtcmalloc_minimal_internal_la-maybe_threads.lo `test -f 'src/maybe_threads.cc' || echo './'`src/maybe_threads.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-maybe_threads.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-maybe_threads.Tpo -c src/maybe_threads.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_internal_la-maybe_threads.o
+mv -f .deps/libtcmalloc_minimal_internal_la-malloc_extension.Tpo .deps/libtcmalloc_minimal_internal_la-malloc_extension.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -std=c++11 -MT spinlock.lo -MD -MP -MF .deps/spinlock.Tpo -c -o spinlock.lo `test -f 'src/base/spinlock.cc' || echo './'`src/base/spinlock.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT spinlock.lo -MD -MP -MF .deps/spinlock.Tpo -c src/base/spinlock.cc  -fPIC -DPIC -o .libs/spinlock.o
+In file included from ./src/base/spinlock.h:48,
+                 from src/base/spinlock.cc:35:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+In file included from src/maybe_threads.cc:49:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNO_HEAP_CHECK -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -fno-exceptions -std=c++11 -MT libtcmalloc_minimal_internal_la-maybe_threads.lo -MD -MP -MF .deps/libtcmalloc_minimal_internal_la-maybe_threads.Tpo -c src/maybe_threads.cc -o libtcmalloc_minimal_internal_la-maybe_threads.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT spinlock.lo -MD -MP -MF .deps/spinlock.Tpo -c src/base/spinlock.cc -o spinlock.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_minimal_internal_la-maybe_threads.Tpo .deps/libtcmalloc_minimal_internal_la-maybe_threads.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -std=c++11 -MT spinlock_internal.lo -MD -MP -MF .deps/spinlock_internal.Tpo -c -o spinlock_internal.lo `test -f 'src/base/spinlock_internal.cc' || echo './'`src/base/spinlock_internal.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT spinlock_internal.lo -MD -MP -MF .deps/spinlock_internal.Tpo -c src/base/spinlock_internal.cc  -fPIC -DPIC -o .libs/spinlock_internal.o
+In file included from ./src/base/spinlock_internal.h:39,
+                 from src/base/spinlock_internal.cc:43:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+mv -f .deps/spinlock.Tpo .deps/spinlock.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -std=c++11 -MT atomicops-internals-x86.lo -MD -MP -MF .deps/atomicops-internals-x86.Tpo -c -o atomicops-internals-x86.lo `test -f 'src/base/atomicops-internals-x86.cc' || echo './'`src/base/atomicops-internals-x86.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT spinlock_internal.lo -MD -MP -MF .deps/spinlock_internal.Tpo -c src/base/spinlock_internal.cc -o spinlock_internal.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT atomicops-internals-x86.lo -MD -MP -MF .deps/atomicops-internals-x86.Tpo -c src/base/atomicops-internals-x86.cc  -fPIC -DPIC -o .libs/atomicops-internals-x86.o
+In file included from src/base/atomicops-internals-x86.cc:36:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+mv -f .deps/spinlock_internal.Tpo .deps/spinlock_internal.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -std=c++11 -MT sysinfo.lo -MD -MP -MF .deps/sysinfo.Tpo -c -o sysinfo.lo `test -f 'src/base/sysinfo.cc' || echo './'`src/base/sysinfo.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT sysinfo.lo -MD -MP -MF .deps/sysinfo.Tpo -c src/base/sysinfo.cc  -fPIC -DPIC -o .libs/sysinfo.o
+src/base/sysinfo.cc:715:24: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  715 |     if (sscanf(stext_, "%"SCNx64"-%"SCNx64" %4s %"SCNx64" %x:%x %"SCNd64" %n",
+      |                        ^
+src/base/sysinfo.cc:715:33: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  715 |     if (sscanf(stext_, "%"SCNx64"-%"SCNx64" %4s %"SCNx64" %x:%x %"SCNd64" %n",
+      |                                 ^
+src/base/sysinfo.cc:715:43: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  715 |     if (sscanf(stext_, "%"SCNx64"-%"SCNx64" %4s %"SCNx64" %x:%x %"SCNd64" %n",
+      |                                           ^
+src/base/sysinfo.cc:715:57: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  715 |     if (sscanf(stext_, "%"SCNx64"-%"SCNx64" %4s %"SCNx64" %x:%x %"SCNd64" %n",
+      |                                                         ^
+src/base/sysinfo.cc:789:35: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  789 |             sscanf(backing_ptr+1, "F %"SCNx64" %"SCNd64") (A %"SCNx64" %"SCNd64")",
+      |                                   ^
+src/base/sysinfo.cc:789:46: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  789 |             sscanf(backing_ptr+1, "F %"SCNx64" %"SCNd64") (A %"SCNx64" %"SCNd64")",
+      |                                              ^
+src/base/sysinfo.cc:789:56: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  789 |             sscanf(backing_ptr+1, "F %"SCNx64" %"SCNd64") (A %"SCNx64" %"SCNd64")",
+      |                                                        ^
+src/base/sysinfo.cc:789:70: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  789 |             sscanf(backing_ptr+1, "F %"SCNx64" %"SCNd64") (A %"SCNx64" %"SCNd64")",
+      |                                                                      ^
+src/base/sysinfo.cc:929:27: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  929 |                           "%08"PRIx64"-%08"PRIx64" %c%c%c%c %08"PRIx64" %02x:%02x %-11"PRId64" %s\n",
+      |                           ^
+src/base/sysinfo.cc:929:38: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  929 |                           "%08"PRIx64"-%08"PRIx64" %c%c%c%c %08"PRIx64" %02x:%02x %-11"PRId64" %s\n",
+      |                                      ^
+src/base/sysinfo.cc:929:50: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  929 |                           "%08"PRIx64"-%08"PRIx64" %c%c%c%c %08"PRIx64" %02x:%02x %-11"PRId64" %s\n",
+      |                                                  ^
+src/base/sysinfo.cc:929:71: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  929 |                           "%08"PRIx64"-%08"PRIx64" %c%c%c%c %08"PRIx64" %02x:%02x %-11"PRId64" %s\n",
+      |                                                                       ^
+In file included from ./src/base/sysinfo.h:48,
+                 from src/base/sysinfo.cc:57:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT atomicops-internals-x86.lo -MD -MP -MF .deps/atomicops-internals-x86.Tpo -c src/base/atomicops-internals-x86.cc -o atomicops-internals-x86.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT sysinfo.lo -MD -MP -MF .deps/sysinfo.Tpo -c src/base/sysinfo.cc -o sysinfo.o >/dev/null 2>&1
+mv -f .deps/atomicops-internals-x86.Tpo .deps/atomicops-internals-x86.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -std=c++11 -MT logging.lo -MD -MP -MF .deps/logging.Tpo -c -o logging.lo `test -f 'src/base/logging.cc' || echo './'`src/base/logging.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT logging.lo -MD -MP -MF .deps/logging.Tpo -c src/base/logging.cc  -fPIC -DPIC -o .libs/logging.o
+mv -f .deps/sysinfo.Tpo .deps/sysinfo.Plo
+/bin/bash ./libtool --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I./src  -I./src    -g -O2 -MT dynamic_annotations.lo -MD -MP -MF .deps/dynamic_annotations.Tpo -c -o dynamic_annotations.lo `test -f 'src/base/dynamic_annotations.c' || echo './'`src/base/dynamic_annotations.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I./src -I./src -g -O2 -MT dynamic_annotations.lo -MD -MP -MF .deps/dynamic_annotations.Tpo -c src/base/dynamic_annotations.c  -fPIC -DPIC -o .libs/dynamic_annotations.o
+In file included from ./src/base/commandlineflags.h:55,
+                 from ./src/base/logging.h:48,
+                 from src/base/logging.cc:34:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I./src -I./src -g -O2 -MT dynamic_annotations.lo -MD -MP -MF .deps/dynamic_annotations.Tpo -c src/base/dynamic_annotations.c -o dynamic_annotations.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT logging.lo -MD -MP -MF .deps/logging.Tpo -c src/base/logging.cc -o logging.o >/dev/null 2>&1
+mv -f .deps/dynamic_annotations.Tpo .deps/dynamic_annotations.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src   -DNO_TCMALLOC_SAMPLES  -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER -DTCMALLOC_FOR_DEBUGALLOCATION -std=c++11 -MT libtcmalloc_minimal_debug_la-debugallocation.lo -MD -MP -MF .deps/libtcmalloc_minimal_debug_la-debugallocation.Tpo -c -o libtcmalloc_minimal_debug_la-debugallocation.lo `test -f 'src/debugallocation.cc' || echo './'`src/debugallocation.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -DTCMALLOC_FOR_DEBUGALLOCATION -std=c++11 -MT libtcmalloc_minimal_debug_la-debugallocation.lo -MD -MP -MF .deps/libtcmalloc_minimal_debug_la-debugallocation.Tpo -c src/debugallocation.cc  -fPIC -DPIC -o .libs/libtcmalloc_minimal_debug_la-debugallocation.o
+In file included from src/debugallocation.cc:79:
+src/tcmalloc.cc:987:18: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  987 |   printer.printf("tcmalloc: large alloc %"PRIu64" bytes == %p @ ",
+      |                  ^
+src/debugallocation.cc:491:22: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  491 |       RAW_LOG(ERROR, "Massive size passed to malloc: %"PRIuS"", size);
+      |                      ^
+src/debugallocation.cc:961:30: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  961 |       TracePrintf(TraceFd(), "%s\t%"PRIuS"\t%p\t%"GPRIuPTHREAD,         \
+      |                              ^
+src/debugallocation.cc:961:42: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  961 |       TracePrintf(TraceFd(), "%s\t%"PRIuS"\t%p\t%"GPRIuPTHREAD,         \
+      |                                          ^
+src/debugallocation.cc:1218:20: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+ 1218 |     RAW_LOG(FATAL, "Unable to allocate %"PRIuS" bytes: new failed.", size);
+      |                    ^
+src/debugallocation.cc:1245:20: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+ 1245 |     RAW_LOG(FATAL, "Unable to allocate %"PRIuS" bytes: new[] failed.", size);
+      |                    ^
+mv -f .deps/logging.Tpo .deps/logging.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src    -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER  -std=c++11 -MT libtcmalloc_la-tcmalloc.lo -MD -MP -MF .deps/libtcmalloc_la-tcmalloc.Tpo -c -o libtcmalloc_la-tcmalloc.lo `test -f 'src/tcmalloc.cc' || echo './'`src/tcmalloc.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT libtcmalloc_la-tcmalloc.lo -MD -MP -MF .deps/libtcmalloc_la-tcmalloc.Tpo -c src/tcmalloc.cc  -fPIC -DPIC -o .libs/libtcmalloc_la-tcmalloc.o
+src/tcmalloc.cc:987:18: warning: invalid suffix on literal; C++11 requires a space between literal and string macro [-Wliteral-suffix]
+  987 |   printer.printf("tcmalloc: large alloc %"PRIu64" bytes == %p @ ",
+      |                  ^
+In file included from src/base/commandlineflags.h:55,
+                 from src/debugallocation.cc:71:
+./src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+./src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/sampler.h: In static member function ‘static double tcmalloc::Sampler::FastLog2(const double&)’:
+src/sampler.h:168:49: warning: typedef ‘DoubleMustBe64Bits’ locally defined but not used [-Wunused-local-typedefs]
+  168 |   COMPILE_ASSERT(sizeof(d) == sizeof(uint64_t), DoubleMustBe64Bits);
+      |                                                 ^~~~~~~~~~~~~~~~~~
+./src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+In file included from src/libc_override_glibc.h:64,
+                 from src/libc_override.h:78,
+                 from src/tcmalloc.cc:157:
+src/libc_override_gcc_and_weak.h: At global scope:
+src/libc_override_gcc_and_weak.h:56:33: warning: dynamic exception specifications are deprecated in C++11 [-Wdeprecated]
+   56 | void* operator new(size_t size) throw (std::bad_alloc)
+      |                                 ^~~~~
+src/libc_override_gcc_and_weak.h:60:35: warning: dynamic exception specifications are deprecated in C++11 [-Wdeprecated]
+   60 | void* operator new[](size_t size) throw (std::bad_alloc)
+      |                                   ^~~~~
+In file included from src/tcmalloc.cc:116:
+src/base/basictypes.h: In function ‘Dest bit_cast(const Source&)’:
+src/base/basictypes.h:213:50: warning: typedef ‘bitcasting_unequal_sizes’ locally defined but not used [-Wunused-local-typedefs]
+  213 |   COMPILE_ASSERT(sizeof(Dest) == sizeof(Source), bitcasting_unequal_sizes);
+      |                                                  ^~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/libc_override_glibc.h:85:7: warning: ‘int __posix_memalign(void**, size_t, size_t)’ specifies less restrictive attribute than its target ‘int tc_posix_memalign(void**, size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   85 |   int __posix_memalign(void** r, size_t a, size_t s)  ALIAS(tc_posix_memalign);
+      |       ^~~~~~~~~~~~~~~~
+src/debugallocation.cc:1365:35: note: ‘int __posix_memalign(void**, size_t, size_t)’ target declared here
+ 1365 | extern "C" PERFTOOLS_DLL_DECL int tc_posix_memalign(void** result_ptr, size_t align, size_t size)
+      |                                   ^~~~~~~~~~~~~~~~~
+src/libc_override_glibc.h:84:9: warning: ‘void* __libc_pvalloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_pvalloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   84 |   void* __libc_pvalloc(size_t size)               ALIAS(tc_pvalloc);
+      |         ^~~~~~~~~~~~~~
+src/debugallocation.cc:1390:37: note: ‘void* __libc_pvalloc(size_t)’ target declared here
+ 1390 | extern "C" PERFTOOLS_DLL_DECL void* tc_pvalloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~~
+src/libc_override_glibc.h:83:9: warning: ‘void* __libc_valloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_valloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   83 |   void* __libc_valloc(size_t size)                ALIAS(tc_valloc);
+      |         ^~~~~~~~~~~~~
+src/debugallocation.cc:1383:37: note: ‘void* __libc_valloc(size_t)’ target declared here
+ 1383 | extern "C" PERFTOOLS_DLL_DECL void* tc_valloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~
+src/libc_override_glibc.h:82:9: warning: ‘void* __libc_memalign(size_t, size_t)’ specifies less restrictive attribute than its target ‘void* tc_memalign(size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   82 |   void* __libc_memalign(size_t align, size_t s)   ALIAS(tc_memalign);
+      |         ^~~~~~~~~~~~~~~
+src/debugallocation.cc:1358:37: note: ‘void* __libc_memalign(size_t, size_t)’ target declared here
+ 1358 | extern "C" PERFTOOLS_DLL_DECL void* tc_memalign(size_t align, size_t size) __THROW {
+      |                                     ^~~~~~~~~~~
+src/libc_override_glibc.h:81:8: warning: ‘void __libc_cfree(void*)’ specifies less restrictive attribute than its target ‘void tc_cfree(void*)’: ‘nothrow’ [-Wmissing-attributes]
+   81 |   void __libc_cfree(void* ptr)                    ALIAS(tc_cfree);
+      |        ^~~~~~~~~~~~
+src/debugallocation.cc:1181:36: note: ‘void __libc_cfree(void*)’ target declared here
+ 1181 | extern "C" PERFTOOLS_DLL_DECL void tc_cfree(void* ptr) __THROW {
+      |                                    ^~~~~~~~
+src/libc_override_glibc.h:80:9: warning: ‘void* __libc_calloc(size_t, size_t)’ specifies less restrictive attribute than its target ‘void* tc_calloc(size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   80 |   void* __libc_calloc(size_t n, size_t size)      ALIAS(tc_calloc);
+      |         ^~~~~~~~~~~~~
+src/debugallocation.cc:1170:37: note: ‘void* __libc_calloc(size_t, size_t)’ target declared here
+ 1170 | extern "C" PERFTOOLS_DLL_DECL void* tc_calloc(size_t count, size_t size) __THROW {
+      |                                     ^~~~~~~~~
+src/libc_override_glibc.h:79:9: warning: ‘void* __libc_realloc(void*, size_t)’ specifies less restrictive attribute than its target ‘void* tc_realloc(void*, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   79 |   void* __libc_realloc(void* ptr, size_t size)    ALIAS(tc_realloc);
+      |         ^~~~~~~~~~~~~~
+src/debugallocation.cc:1186:37: note: ‘void* __libc_realloc(void*, size_t)’ target declared here
+ 1186 | extern "C" PERFTOOLS_DLL_DECL void* tc_realloc(void* ptr, size_t size) __THROW {
+      |                                     ^~~~~~~~~~
+src/libc_override_glibc.h:78:8: warning: ‘void __libc_free(void*)’ specifies less restrictive attribute than its target ‘void tc_free(void*)’: ‘nothrow’ [-Wmissing-attributes]
+   78 |   void __libc_free(void* ptr)                     ALIAS(tc_free);
+      |        ^~~~~~~~~~~
+src/debugallocation.cc:1165:36: note: ‘void __libc_free(void*)’ target declared here
+ 1165 | extern "C" PERFTOOLS_DLL_DECL void tc_free(void* ptr) __THROW {
+      |                                    ^~~~~~~
+src/libc_override_glibc.h:77:9: warning: ‘void* __libc_malloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_malloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   77 |   void* __libc_malloc(size_t size)                ALIAS(tc_malloc);
+      |         ^~~~~~~~~~~~~
+src/debugallocation.cc:1159:37: note: ‘void* __libc_malloc(size_t)’ target declared here
+ 1159 | extern "C" PERFTOOLS_DLL_DECL void* tc_malloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~
+src/packed-cache-inl.h: In constructor ‘PackedCache<kKeybits, T>::PackedCache(V)’:
+src/packed-cache-inl.h:148:47: warning: typedef ‘key_size’ locally defined but not used [-Wunused-local-typedefs]
+  148 |     COMPILE_ASSERT(kKeybits <= sizeof(K) * 8, key_size);
+      |                                               ^~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:149:49: warning: typedef ‘value_size’ locally defined but not used [-Wunused-local-typedefs]
+  149 |     COMPILE_ASSERT(kValuebits <= sizeof(V) * 8, value_size);
+      |                                                 ^~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:150:43: warning: typedef ‘hash_function’ locally defined but not used [-Wunused-local-typedefs]
+  150 |     COMPILE_ASSERT(kHashbits <= kKeybits, hash_function);
+      |                                           ^~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/packed-cache-inl.h:152:20: warning: typedef ‘entry_size_must_be_big_enough’ locally defined but not used [-Wunused-local-typedefs]
+  152 |                    entry_size_must_be_big_enough);
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+src/sampler.h: In static member function ‘static double tcmalloc::Sampler::FastLog2(const double&)’:
+src/sampler.h:168:49: warning: typedef ‘DoubleMustBe64Bits’ locally defined but not used [-Wunused-local-typedefs]
+  168 |   COMPILE_ASSERT(sizeof(d) == sizeof(uint64_t), DoubleMustBe64Bits);
+      |                                                 ^~~~~~~~~~~~~~~~~~
+src/base/basictypes.h:189:39: note: in definition of macro ‘COMPILE_ASSERT’
+  189 |   typedef CompileAssert<(bool(expr))> msg[bool(expr) ? 1 : -1]
+      |                                       ^~~
+In file included from src/libc_override_glibc.h:64,
+                 from src/libc_override.h:78,
+                 from src/tcmalloc.cc:157:
+src/libc_override_gcc_and_weak.h: At global scope:
+src/libc_override_gcc_and_weak.h:56:33: warning: dynamic exception specifications are deprecated in C++11 [-Wdeprecated]
+   56 | void* operator new(size_t size) throw (std::bad_alloc)
+      |                                 ^~~~~
+src/libc_override_gcc_and_weak.h:60:35: warning: dynamic exception specifications are deprecated in C++11 [-Wdeprecated]
+   60 | void* operator new[](size_t size) throw (std::bad_alloc)
+      |                                   ^~~~~
+src/libc_override_glibc.h:85:7: warning: ‘int __posix_memalign(void**, size_t, size_t)’ specifies less restrictive attribute than its target ‘int tc_posix_memalign(void**, size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   85 |   int __posix_memalign(void** r, size_t a, size_t s)  ALIAS(tc_posix_memalign);
+      |       ^~~~~~~~~~~~~~~~
+src/tcmalloc.cc:1594:35: note: ‘int __posix_memalign(void**, size_t, size_t)’ target declared here
+ 1594 | extern "C" PERFTOOLS_DLL_DECL int tc_posix_memalign(
+      |                                   ^~~~~~~~~~~~~~~~~
+src/libc_override_glibc.h:84:9: warning: ‘void* __libc_pvalloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_pvalloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   84 |   void* __libc_pvalloc(size_t size)               ALIAS(tc_pvalloc);
+      |         ^~~~~~~~~~~~~~
+src/tcmalloc.cc:1622:37: note: ‘void* __libc_pvalloc(size_t)’ target declared here
+ 1622 | extern "C" PERFTOOLS_DLL_DECL void* tc_pvalloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~~
+src/libc_override_glibc.h:83:9: warning: ‘void* __libc_valloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_valloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   83 |   void* __libc_valloc(size_t size)                ALIAS(tc_valloc);
+      |         ^~~~~~~~~~~~~
+src/tcmalloc.cc:1614:37: note: ‘void* __libc_valloc(size_t)’ target declared here
+ 1614 | extern "C" PERFTOOLS_DLL_DECL void* tc_valloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~
+src/libc_override_glibc.h:82:9: warning: ‘void* __libc_memalign(size_t, size_t)’ specifies less restrictive attribute than its target ‘void* tc_memalign(size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   82 |   void* __libc_memalign(size_t align, size_t s)   ALIAS(tc_memalign);
+      |         ^~~~~~~~~~~~~~~
+src/tcmalloc.cc:1587:37: note: ‘void* __libc_memalign(size_t, size_t)’ target declared here
+ 1587 | extern "C" PERFTOOLS_DLL_DECL void* tc_memalign(size_t align,
+      |                                     ^~~~~~~~~~~
+src/libc_override_glibc.h:81:8: warning: ‘void __libc_cfree(void*)’ specifies less restrictive attribute than its target ‘void tc_cfree(void*)’: ‘nothrow’ [-Wmissing-attributes]
+   81 |   void __libc_cfree(void* ptr)                    ALIAS(tc_cfree);
+      |        ^~~~~~~~~~~~
+src/tcmalloc.cc:1509:36: note: ‘void __libc_cfree(void*)’ target declared here
+ 1509 | extern "C" PERFTOOLS_DLL_DECL void tc_cfree(void* ptr) __THROW {
+      |                                    ^~~~~~~~
+src/libc_override_glibc.h:80:9: warning: ‘void* __libc_calloc(size_t, size_t)’ specifies less restrictive attribute than its target ‘void* tc_calloc(size_t, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   80 |   void* __libc_calloc(size_t n, size_t size)      ALIAS(tc_calloc);
+      |         ^~~~~~~~~~~~~
+src/tcmalloc.cc:1502:37: note: ‘void* __libc_calloc(size_t, size_t)’ target declared here
+ 1502 | extern "C" PERFTOOLS_DLL_DECL void* tc_calloc(size_t n,
+      |                                     ^~~~~~~~~
+src/libc_override_glibc.h:79:9: warning: ‘void* __libc_realloc(void*, size_t)’ specifies less restrictive attribute than its target ‘void* tc_realloc(void*, size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   79 |   void* __libc_realloc(void* ptr, size_t size)    ALIAS(tc_realloc);
+      |         ^~~~~~~~~~~~~~
+src/tcmalloc.cc:1514:37: note: ‘void* __libc_realloc(void*, size_t)’ target declared here
+ 1514 | extern "C" PERFTOOLS_DLL_DECL void* tc_realloc(void* old_ptr,
+      |                                     ^~~~~~~~~~
+src/libc_override_glibc.h:78:8: warning: ‘void __libc_free(void*)’ specifies less restrictive attribute than its target ‘void tc_free(void*)’: ‘nothrow’ [-Wmissing-attributes]
+   78 |   void __libc_free(void* ptr)                     ALIAS(tc_free);
+      |        ^~~~~~~~~~~
+src/tcmalloc.cc:1497:36: note: ‘void __libc_free(void*)’ target declared here
+ 1497 | extern "C" PERFTOOLS_DLL_DECL void tc_free(void* ptr) __THROW {
+      |                                    ^~~~~~~
+src/libc_override_glibc.h:77:9: warning: ‘void* __libc_malloc(size_t)’ specifies less restrictive attribute than its target ‘void* tc_malloc(size_t)’: ‘nothrow’ [-Wmissing-attributes]
+   77 |   void* __libc_malloc(size_t size)                ALIAS(tc_malloc);
+      |         ^~~~~~~~~~~~~
+src/tcmalloc.cc:1491:37: note: ‘void* __libc_malloc(size_t)’ target declared here
+ 1491 | extern "C" PERFTOOLS_DLL_DECL void* tc_malloc(size_t size) __THROW {
+      |                                     ^~~~~~~~~
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT libtcmalloc_la-tcmalloc.lo -MD -MP -MF .deps/libtcmalloc_la-tcmalloc.Tpo -c src/tcmalloc.cc -o libtcmalloc_la-tcmalloc.o >/dev/null 2>&1
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNO_TCMALLOC_SAMPLES -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -DTCMALLOC_FOR_DEBUGALLOCATION -std=c++11 -MT libtcmalloc_minimal_debug_la-debugallocation.lo -MD -MP -MF .deps/libtcmalloc_minimal_debug_la-debugallocation.Tpo -c src/debugallocation.cc -o libtcmalloc_minimal_debug_la-debugallocation.o >/dev/null 2>&1
+mv -f .deps/libtcmalloc_la-tcmalloc.Tpo .deps/libtcmalloc_la-tcmalloc.Plo
+/bin/bash ./libtool --tag=CC   --mode=compile gcc -DHAVE_CONFIG_H -I. -I./src  -I./src    -g -O2 -MT thread_lister.lo -MD -MP -MF .deps/thread_lister.Tpo -c -o thread_lister.lo `test -f 'src/base/thread_lister.c' || echo './'`src/base/thread_lister.c
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I./src -I./src -g -O2 -MT thread_lister.lo -MD -MP -MF .deps/thread_lister.Tpo -c src/base/thread_lister.c  -fPIC -DPIC -o .libs/thread_lister.o
+libtool: compile:  gcc -DHAVE_CONFIG_H -I. -I./src -I./src -g -O2 -MT thread_lister.lo -MD -MP -MF .deps/thread_lister.Tpo -c src/base/thread_lister.c -o thread_lister.o >/dev/null 2>&1
+mv -f .deps/thread_lister.Tpo .deps/thread_lister.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I./src  -I./src    -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc  -Wno-unused-result  -DNO_FRAME_POINTER  -std=c++11 -MT libtcmalloc_la-linuxthreads.lo -MD -MP -MF .deps/libtcmalloc_la-linuxthreads.Tpo -c -o libtcmalloc_la-linuxthreads.lo `test -f 'src/base/linuxthreads.cc' || echo './'`src/base/linuxthreads.cc
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I./src -I./src -DNDEBUG -Wall -Wwrite-strings -Woverloaded-virtual -Wno-sign-compare -fno-builtin-malloc -fno-builtin-free -fno-builtin-realloc -fno-builtin-calloc -fno-builtin-cfree -fno-builtin-memalign -fno-builtin-posix_memalign -fno-builtin-valloc -fno-builtin-pvalloc -Wno-unused-result -DNO_FRAME_POINTER -std=c++11 -MT libtcmalloc_la-linuxthreads.lo -MD -MP -MF .deps/libtcmalloc_la-linuxthreads.Tpo -c src/base/linuxthreads.cc  -fPIC -DPIC -o .libs/libtcmalloc_la-linuxthreads.o
+src/base/linuxthreads.cc: In function ‘void SignalHandler(int, siginfo_t*, void*)’:
+src/base/linuxthreads.cc:217:6: error: ‘sig’ was not declared in this scope; did you mean ‘si’?
+  217 | for (sig = 0; sig < sizeof(sync_signals)/sizeof(*sync_signals); sig++) {
+      |      ^~~
+      |      si
+src/base/linuxthreads.cc: In function ‘void ListerThread(ListerParams*)’:
+src/base/linuxthreads.cc:320:24: error: invalid conversion from ‘void (*)(int, siginfo_t*, void*)’ to ‘void (*)(int, siginfo*, void*)’ [-fpermissive]
+  320 |     sa.sa_sigaction_ = (void (*)(int, siginfo_t *, void *))SignalHandler;
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      |                        |
+      |                        void (*)(int, siginfo_t*, void*)
+make: *** [Makefile:3425: libtcmalloc_la-linuxthreads.lo] Error 1
+make: *** Waiting for unfinished jobs....
+mv -f .deps/libtcmalloc_minimal_debug_la-debugallocation.Tpo .deps/libtcmalloc_minimal_debug_la-debugallocation.Plo
