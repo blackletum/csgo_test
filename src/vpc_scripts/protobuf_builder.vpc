@@ -6,6 +6,9 @@ $MacroRequired	GENERATED_PROTO_DIR
 // by using $MacroRequired	PROTOBUF_BUILDER_INCLUDED
 $Macro PROTOBUF_BUILDER_INCLUDED "1"
 
+$include "$SRCDIR/external/crypto++-5.61/external_cryptopp.vpc"
+
+
 $CustomBuildStep "proto"
 {
 	$Description	"Running Protocol Buffer Compiler on $(InputFileName)..."
@@ -69,4 +72,3 @@ $Project
 		}
 	}
 }
-
