@@ -1,12 +1,34 @@
-chmod +x createcsgo
-chmod +x build_csgo_automated
-chmod +x clean_csgo_automated
+#!/bin/bash
+
+# navigation
+echo "Navigating to /home/csgo_test/src..."
+cd /root/csgo_test/src || exit 1
+
+# chmod nonsense
+echo "Setting executable permissions..."
 chmod +x devtools/bin/vpc
 chmod u+x devtools/bin/vpc_linux
 chmod u+x devtools/bin/linux/ccache
 chmod u+x devtools/gendbg.sh
 chmod +x devtools/bin/linux/protoc
+
+echo "Navigate fix.."
 cd /root/csgo_test/src/
 cd ./cmake-build
-cmake .. -DUSE_IPHYS=1
-make -j2
+
+echo "Create folder bc this is uhh, stoopid"
+mkdir -p ./lib/public/linux64
+
+# Capture timestamp for log filenames
+timestamp=$(date +"%m%d%Y_%H%M")
+
+# Recreate logs folder, if missing
+echo "Creating new logs directory..."
+mkdir -p ./logs
+
+./createcsgo 2>&1 
+
+cmake .. -DUSE_IPHYS=1  2>&1 | tee ./logs/cmake_${timestamp}.log
+make -j2  2>&1 | tee ./logs/make_${timestamp}.log
+
+echo "Build finished. Logs saved to './logs/'"
