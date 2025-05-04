@@ -1,0 +1,12 @@
+chmod +x createcsgo
+chmod +x build_csgo_automated
+chmod +x clean_csgo_automated
+chmod +x devtools/bin/vpc
+chmod u+x devtools/bin/vpc_linux
+chmod u+x devtools/bin/linux/ccache
+chmod u+x devtools/gendbg.sh
+chmod +x devtools/bin/linux/protoc
+cd /root/csgo_test/src/
+cd ./cmake-build
+cmake .. -DUSE_IPHYS=1
+make -j2
