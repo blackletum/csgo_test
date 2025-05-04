@@ -91,3 +91,13 @@ hammer_qt/*
 hammer_launcher_qt/*
 public/vphysics_interfaceV32.h
 /hammer_launcher_qt/
+
+#extras
+public/vphysics_bullet/*
+vphysics_bullet/*
+thirdparty/bullet3/*
+/hammer_launcher_qt/
+external/crypto++-old
+external/crypto++/*.o
+external/crypto++/libcryptopp.a
+vphysics_bullet/cmake-build-*/*
