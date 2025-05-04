@@ -1,0 +1,93 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# cmake related files
+*.stamp
+*.depend
+*.rule
+*.pb.cc.rule
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+logs/
+
+# Build results
+[Dd]ebug_*/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease_*/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Oo]bj/
+[Ll]og/
+
+# Solutions must be rebuilt by each user, per-machine
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.vpc_crc
+*.sln
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# VS Code
+.vscode/*
+
+# Idea IDE
+.idea/
+
+# Ignore cmake-build, but keep placeholder.
+cmake-build/*
+build/
+cmake-dev-test/*
+!cmake-build/placeholder.txt
+cmake-build-*/*
+rocketui/cmake-build-*/*
+scaleformui/cmake-build-*/*
+
+#Ignore rebuilt static libs
+*.a
+*.a_VALVE
+lib/public/linux64/stWJvlNz
+lib/public/linux64/*.o
+
+#Ignore crypto++ built files
+external/crypto++-5.61/*.o
+external/crypto++-5.61/libcryptopp.a
+
+# compiled .rc files
+*.aps
+
+#VPC makefile
+csgo_partner.mak
+
+#Thirdparty
+/thirdparty/RmlUi/build/
+/thirdparty/RmlUi/Samples/
+
+#protobuf generated files
+game/client/generated_proto/*
+!game/client/generated_proto/placeholder.txt
+game/server/generated_proto/*
+!game/server/generated_proto/placeholder.txt
+engine/generated_proto/*
+!engine/generated_proto/placeholder.txt
+engine_ds/generated_proto/*
+!engine_ds/generated_proto/placeholder.txt
+gcsdk/generated_proto/*
+!gcsdk/generated_proto/placeholder.txt
+
+lib/common/linux64/st*
+lib/public/linux64/st*
+
+#lwss stashed
+hammer_qt/*
+hammer_launcher_qt/*
+public/vphysics_interfaceV32.h
+/hammer_launcher_qt/
