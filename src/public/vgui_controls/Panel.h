@@ -801,6 +801,7 @@ public:
 	virtual Panel* NavigateDown();
 	virtual Panel* NavigateLeft();
 	virtual Panel* NavigateRight();
+	virtual Panel* NavigateActivate();
 	virtual void NavigateTo();
 	virtual void NavigateFrom();
 	virtual void NavigateToChild( Panel *pNavigateTo ); //mouse support
