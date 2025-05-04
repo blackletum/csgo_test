@@ -26,7 +26,7 @@ timestamp=$(date +"%m%d%Y_%H%M")
 echo "Creating new logs directory..."
 mkdir -p ./logs
 
-cmake .. -DUSE_IPHYS=1  2>&1 | tee ./logs/cmake_${timestamp}.log
-make -j2  2>&1 | tee ./logs/make_${timestamp}.log
+cmake .. -DUSE_IPHYS=1  2>&1 | tee ../logs/cmake_${timestamp}.log
+make -j2  2>&1 | tee ../logs/make_build_${timestamp}.log
 
 echo "Build finished. Logs saved to './logs/'"
