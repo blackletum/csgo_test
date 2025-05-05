@@ -22,6 +22,7 @@
 #include "vgui/IVGui.h"
 #include "vgui/Cursor.h"
 #include "tier2/fileutils.h"
+#include "vgui2/matsys_controls/SectionedListPanel.h"
 
 // NOTE: This has to be the last file included!
 #include "tier0/memdbgon.h"
