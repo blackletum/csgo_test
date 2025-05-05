@@ -1134,24 +1134,29 @@ void CBaseAssetPicker::SetInitialSelection( const char *pAssetName )
 
 void CBaseAssetPicker::SetSelection( const char *pAssetName, bool bInitialSelection )
 {
-	if( bInitialSelection )
-	{
-		// This makes it so the background list filling code will automatically select this asset when it gets to it.
-		m_SelectedAsset = pAssetName;		
-	}
-								   
-	if ( pAssetName )
-	{	
-		// Sometimes we've already refreshed our list with a bunch of cached resources and the item is already in the list,
-		// so in that case just select it here.
-		int i = m_pAssetBrowser->GetItem( pAssetName );
+    if ( bInitialSelection )
+    {
+        // This makes it so the background list filling code will automatically select this asset when it gets to it.
+        m_SelectedAsset = pAssetName;
+    }
 
-		if ( i != -1 )
-		{
-			m_pAssetBrowser->SetSelectedCell( i, 0 );
-			m_pAssetBrowser->ScrollToItem( i );
-		}
-	}
+    if ( pAssetName )
+    {
+        // Sometimes we've already refreshed our list with a bunch of cached resources
+        // and the item is already in the list, so in that case just select it here.
+        int i = m_pAssetBrowser->GetItem( pAssetName );
+
+        if ( i != -1 )
+        {
+            m_pAssetBrowser->SetSelectedCell( i, 0 );
+
+            // Only call ScrollToItem if m_pAssetBrowser is actually a SectionedListPanel
+            if ( auto *pBrowser = dynamic_cast<SectionedListPanel*>( m_pAssetBrowser ) )
+            {
+                pBrowser->ScrollToItem( i );
+            }
+        }
+    }
 }
 
 	
